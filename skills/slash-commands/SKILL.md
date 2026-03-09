@@ -46,6 +46,8 @@ Single source of truth for command behavior and routing.
 - `/plan <co> <kedy>`
 - `/calendar [akcia]`
 - `/git [akcia]`
+- `/repo-commit <conventional message>`
+- `/repo-push [remote] [branch]`
 - `/crm [akcia]`
 - `/fin [akcia]`
 - `/cloudflare [akcia]`
@@ -61,6 +63,8 @@ Single source of truth for command behavior and routing.
   - `/weather` → `weather`
   - YouTube transcript/sumarizácia → `youtube-transcript`
   - GitHub issues/PR/CI → `github`
+  - `/repo-commit` → `repo-commit`
+  - `/repo-push` → `repo-push`
   - Obsidian operácie → `obsidian`
   - Google Workspace operácie (mail + kalendár, business + personal) → `google-workspace`
   - Airtable operácie → `airtable` (ak dostupný), inak API fallback
