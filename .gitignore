@@ -1,1 +1,4 @@
+# Generated artifacts
 .DS_Store
+README.generated.md
+.readme-md-generator.json
