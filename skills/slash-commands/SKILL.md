@@ -48,6 +48,7 @@ Single source of truth for command behavior and routing.
 - `/git [akcia]`
 - `/repo-commit <conventional message>`
 - `/repo-push [remote] [branch]`
+- `/readme [refresh|status]`
 - `/crm [akcia]`
 - `/fin [akcia]`
 - `/cloudflare [akcia]`
@@ -65,6 +66,7 @@ Single source of truth for command behavior and routing.
   - GitHub issues/PR/CI → `github`
   - `/repo-commit` → `repo-commit`
   - `/repo-push` → `repo-push`
+  - `/readme` → `readme-mgr`
   - Obsidian operácie → `obsidian`
   - Google Workspace operácie (mail + kalendár, business + personal) → `google-workspace`
   - Airtable operácie → `airtable` (ak dostupný), inak API fallback
