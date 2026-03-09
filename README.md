@@ -2,6 +2,8 @@
 
 **Omnia sponte fluant, absit violentia rebus.**
 
+![Rock Lee | Naruto | never give up](https://media.tenor.com/abfF-YQ167UAAAAC/rock-lee-weights.gif)
+
 ## O projekte
 
 **Singularitas** je môj digitálny domov a operačné jádro, kde sa spájajú:
