@@ -1,6 +1,6 @@
 ---
-name: context-custodia
-description: Save the current conversation and session context into core workspace docs and memory for the next session.
+name: save
+description: Persist current conversation context into core memory docs for next session continuity.
 metadata: {"openclaw":{"emoji":"🗝️","requires":{"os":["darwin"]},"userInvocable":true}}
 user-invocable: true
 disable-model-invocation: false
@@ -35,3 +35,5 @@ If the command includes explicit text argument, treat it as the snapshot title.
 If there is no argument, auto-generate a title from the latest topic.
 
 After saving, suggest one optional next command: `/status` and then `/new` when a clean continuation is desired.
+
+Invocation: `/save [title]`
