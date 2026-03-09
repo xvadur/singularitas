@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+file="$1"
+subject="$(head -n 1 "$file" | sed 's/[[:space:]]*$//')"
+
+regex='^(feat|fix|chore|docs|infra|refactor|test|build|ci|revert)(\([a-z0-9._-]+\))?: .{8,72}$'
+
+if ! [[ "$subject" =~ $regex ]]; then
+  echo "
+❌ Commit message rejected by Singularitas policy.
+Format: <type>(<scope>): <summary>
+Allowed types: feat, fix, chore, docs, infra, refactor, test, build, ci, revert.
+Example: feat(ops): enforce commit discipline
+Subject must be 8-72 chars.
+" >&2
+  exit 1
+fi

@@ -53,6 +53,30 @@ openclaw dashboard
 /save
 ```
 
+## Commit a push disciplína (Singularitas)
+
+Aby sme budovali **maximálne zmysluplnú GitHub heatmapu**, držíme tieto pravidlá:
+
+- Každý commit má konvenčný formát: `type(scope): summary`
+  - typy: `feat`, `fix`, `chore`, `docs`, `infra`, `refactor`, `test`, `build`, `ci`, `revert`
+- Jedna vec = jeden commit.
+- Žiadne prázdne commity.
+- Pred commitom: `git status --short` + odfiltrovaný šum (`.DS_Store`, temp súbory).
+- Po väčšom bloku: `/save` pre pokračovanie kontextu.
+
+### Rýchle príkazy
+
+```bash
+# konvenčný commit
+./scripts/release-flow.sh "feat(ops): add commit discipline"
+
+# push kontrola
+cat .github/PUSH_TEMPLATE.md
+
+# lokálna kontrola
+./scripts/release-flow.sh "chore(git): verify clean push history"
+```
+
 ---
 
 Ak toto je váš štart, toto je aj váš štít: **Singularitas je doma, nie sandbox.**

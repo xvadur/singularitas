@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+remote_name=${1-}
+remote_url=${2-}
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+upstream="$(git rev-parse --abbrev-ref --symbolic-full-name @{u} 2>/dev/null || true)"
+
+if [ -z "$upstream" ]; then
+  echo "⚠️  No upstream configured for $branch. Set with: git push -u <remote> $branch"
+  exit 0
+fi
+
+commits="$(git log --oneline "$upstream"..HEAD)"
+if [ -z "$commits" ]; then
+  echo "⚠️  No new commits to push on $branch ($upstream)."
+  exit 0
+fi
+
+echo "\n🧱 Singularitas Push Summary"
+echo "Remote: $remote_name ($remote_url)"
+echo "Branch: $branch"
+echo "Upstream: $upstream"
+echo "Commits:"
+echo "$commits" | sed 's/^/ - /'
+echo "\nPush continues."
+echo "(Run .github/PUSH_TEMPLATE.md for required manual checklist.)"
