@@ -68,6 +68,7 @@ Single source of truth for command behavior and routing.
   - GitHub issues/PR/CI → `github`
   - `/fast` → `fast`
   - `/plan` → `plan`
+  - `/news` → `natural20-api-brief`
   - `/search` → `brave-search`
   - `/repo-commit` → `repo-commit`
   - `/repo-push` → `repo-push`
