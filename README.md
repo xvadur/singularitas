@@ -2,7 +2,11 @@
 
 **Omnia sponte fluant, absit violentia rebus.**
 
-![Rock Lee | Naruto | never give up](https://media.tenor.com/abfF-YQ167UAAAAM/rock-lee-weights.gif)
+<div align="center">
+
+<img src="https://media.tenor.com/abfF-YQ167UAAAAM/rock-lee-weights.gif" alt="Rock Lee Never Give Up" width="450" />
+
+</div>
 
 ## O projekte
 
