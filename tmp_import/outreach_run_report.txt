@@ -1,0 +1,4 @@
+Generated rows: 0
+Segments: ['zubary', 'hotely']
+Per-segment target: 50
+CSV: /Users/_xvadur/.openclaw/workspace-rescue/tmp_import/outreach_live_run.csv

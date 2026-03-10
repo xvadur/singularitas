@@ -1,13 +1,17 @@
 # USER.md - About Your Human
 
-- **Name:** Adam Rudavsky
-- **What to call them:** Adam
-- **Pronouns:** On
-- **Timezone:** Europe/Bratislava
-- **Notes:** Narodil sa 29.1.1998 (Prvý deň ročného ciklu Zemeľského tygra), citlivý na archetypy a dlhé cykly. Vníma 2026 ako nový 10-ročný cyklus, ktorý vstúpil do obdobia expanzie cez AI asistenciu. V roku 2026 (symb. ohnivý kôň) sa profiloval do nového života.
+_Learn about the person you're helping. Update this as you go._
 
-## Kontext
+- **Name:**
+- **What to call them:**
+- **Pronouns:** _(optional)_
+- **Timezone:**
+- **Notes:**
 
-- 6.3.2026 sa chce stať živnostníkom.
-- Rozbieha AI recepciu po 10-ročnom období intenzívnej práce.
-- V júli 2025 ukončil 10 rokov pôsobenia v reštaurátorstve, aby sa mohol odštartovať novým smerom.
+## Context
+
+_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.

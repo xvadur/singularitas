@@ -119,6 +119,20 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
+### Telegram Voice Replies
+
+- When sending generated audio back to Telegram, never write the output file to plain `/tmp`.
+- Use `/tmp/openclaw/...` or a file under the profile state dir (`media/`, `workspace/`, or `agents/`) so OpenClaw can attach it safely.
+- Safe example:
+
+```bash
+mkdir -p /tmp/openclaw
+sag -v Lily -o /tmp/openclaw/voice-reply.mp3 "Your message here"
+```
+
+- Then reply with `MEDIA:/tmp/openclaw/voice-reply.mp3`.
+- The old `/tmp/voice-reply.mp3` pattern fails on Telegram with `LocalMediaAccessError`.
+
 **📝 Platform Formatting:**
 
 - **Discord/WhatsApp:** No markdown tables! Use bullet lists instead

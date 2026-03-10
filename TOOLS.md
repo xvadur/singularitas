@@ -38,3 +38,14 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Rescue Notes
+
+### Telegram + Voice
+
+- Preferred voice reply path: `/tmp/openclaw/voice-reply.mp3`
+- Do not use plain `/tmp/voice-reply.mp3` for Telegram replies.
+- `messages.tts` uses ElevenLabs in this profile.
+- Audio transcription order in this profile:
+  - `workspace/systems/local-scripts/elevenlabs-stt.sh`
+  - fallback: `workspace/systems/local-scripts/whisper-stt.sh`
