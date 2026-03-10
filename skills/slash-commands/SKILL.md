@@ -44,6 +44,7 @@ Single source of truth for command behavior and routing.
 
 - `/linear [akcia]`
 - `/plan <co> <kedy>`
+- `/fast [task/decision]`
 - `/calendar [akcia]`
 - `/git [akcia]`
 - `/repo-commit <conventional message>`
@@ -64,6 +65,8 @@ Single source of truth for command behavior and routing.
   - `/weather` → `weather`
   - YouTube transcript/sumarizácia → `youtube-transcript`
   - GitHub issues/PR/CI → `github`
+  - `/fast` → `fast`
+  - `/plan` → `plan`
   - `/repo-commit` → `repo-commit`
   - `/repo-push` → `repo-push`
   - `/readme` → `readme-mgr`
