@@ -56,6 +56,8 @@ Single source of truth for command behavior and routing.
 - `/obsidian [akcia]`
 - `/news <tema>`
 - `/search <query>`
+- `/task <goal>`
+- `/habit <goal>`
 - `/gog [akcia]`
 - `/airtable [akcia]`
 
@@ -71,6 +73,8 @@ Single source of truth for command behavior and routing.
   - `/news` → `natural20-api-brief`
   - `/search` → `brave-search`
   - `/repo-commit` → `repo-commit`
+  - `/task` → `task-tracker`
+  - `/habit` → `habit-tracker`
   - `/repo-push` → `repo-push`
   - `/readme` → `readme-mgr`
   - Obsidian operácie → `obsidian`

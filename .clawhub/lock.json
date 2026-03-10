@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-task-tracker": {
+      "version": "1.1.0",
+      "installedAt": 1773107775775
+    },
+    "habit-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1773107781942
+    }
+  }
+}
