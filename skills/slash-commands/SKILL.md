@@ -55,6 +55,7 @@ Single source of truth for command behavior and routing.
 - `/cloudflare [akcia]`
 - `/obsidian [akcia]`
 - `/news <tema>`
+- `/search <query>`
 - `/gog [akcia]`
 - `/airtable [akcia]`
 
@@ -67,6 +68,7 @@ Single source of truth for command behavior and routing.
   - GitHub issues/PR/CI → `github`
   - `/fast` → `fast`
   - `/plan` → `plan`
+  - `/search` → `brave-search`
   - `/repo-commit` → `repo-commit`
   - `/repo-push` → `repo-push`
   - `/readme` → `readme-mgr`
