@@ -2,3 +2,19 @@
 .DS_Store
 README.generated.md
 .readme-md-generator.json
+# Local runtime/generated workspace
+.openclaw/
+crm/*.sqlite
+crm/*.sqlite.*
+*.sqlite
+*.sqlite.*
+/tmp_import/
+crm_tmp/
+logs/
+node_modules/
+.DS_Store
+.obsidian/
+.tmp/
+.vscode/
+*.log
+*.pid
