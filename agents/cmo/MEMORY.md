@@ -19,4 +19,5 @@ CMO helps Xvadur express the right offer in language that gets attention and cre
 
 ## Current operating context
 - Active adjacent responsibility context includes Google Workspace Business, GitHub, and Cloudflare deployment coordination when relevant to Xvadur work.
+- Account mapping: GitHub uses `yksvadur.ja@gmail.com`; Google Workspace Business uses `adam@xvadur.com`.
 - Current managed deployment/domain context includes `jozef.xvadur.com` on Cloudflare.
