@@ -18,3 +18,7 @@ node_modules/
 .vscode/
 *.log
 *.pid
+.env
+.env.*
+!.env.example
+credentials/

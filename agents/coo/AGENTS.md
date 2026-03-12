@@ -2,21 +2,6 @@
 
 This folder is home. Treat it that way.
 
-## Runtime Topology (Main + 4)
-
-Canonical operating layout for this workspace:
-
-- `main` agent workspace: `/Users/_xvadur/singularitas`
-- `cso` workspace: `/Users/_xvadur/singularitas/agents/cso` (Telegram account: `cso`)
-- `cro` workspace: `/Users/_xvadur/singularitas/agents/cro` (Telegram account: `cro`)
-- `cmo` workspace: `/Users/_xvadur/singularitas/agents/cmo` (Telegram account: `cmo`)
-- `coo` workspace: `/Users/_xvadur/singularitas/agents/coo` (Telegram account: `coo`)
-
-Routing principle:
-- Telegram account `<id>` routes to agent `<id>` via OpenClaw `bindings`.
-- Keep `channels.telegram.defaultAccount=default`.
-- Do not use generic `~/agents/*` for this runtime; all execution workspaces live under `singularitas/agents/*`.
-
 ## First Run
 
 If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.

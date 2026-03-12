@@ -12,6 +12,10 @@
     "business-development": {
       "version": "1.0.0",
       "installedAt": 1773108191086
+    },
+    "elevenlabs": {
+      "version": "1.3.4",
+      "installedAt": 1773292572594
     }
   }
 }

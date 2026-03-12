@@ -11,12 +11,12 @@ Search for businesses and enrich leads with Google Places data.
 
 Search for businesses:
 ```bash
-python3 scripts/places_search.py "zubna klinika bratislava"
+python3 /Users/_xvadur/singularitas/skills/goplaces/scripts/places_search.py "zubna klinika bratislava"
 ```
 
 Get details for a specific place (use `place_id` from search results):
 ```bash
-python3 scripts/places_search.py --details "PLACE_ID_HERE"
+python3 /Users/_xvadur/singularitas/skills/goplaces/scripts/places_search.py --details "PLACE_ID_HERE"
 ```
 
 ## Workflows
@@ -29,3 +29,8 @@ python3 scripts/places_search.py --details "PLACE_ID_HERE"
 
 ## Environment Variables
 - `GOOGLE_PLACES_API_KEY`: Required for all operations.
+
+## Runtime config
+- In this workspace, the key is injected from OpenClaw config via `skills.entries.goplaces.apiKey`.
+- That value is exposed to the script as `GOOGLE_PLACES_API_KEY` at runtime.
+- Current setup is configured for backend/server-side use, not browser referrer use.
