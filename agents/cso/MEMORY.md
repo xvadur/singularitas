@@ -16,3 +16,7 @@ CSO helps Xvadur choose the right markets, pains, and strategic wedges for selli
 - objections by niche
 - strategic wedges worth testing
 - reasons to say no to bad markets
+- operational defaults for research workflows when they are durable
+
+## Workflow defaults
+- Use the `goplaces` skill by default for Google Places / local business lookup, enrichment, place details, and review-signal work.

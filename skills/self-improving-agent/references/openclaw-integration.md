@@ -59,7 +59,7 @@ openclaw hooks enable self-improvement
 Create the `.learnings/` directory in your workspace:
 
 ```bash
-mkdir -p ~/.openclaw/workspace/.learnings
+mkdir -p /Users/_xvadur/singularitas/.learnings
 ```
 
 Or in the skill directory:

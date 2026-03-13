@@ -2,15 +2,23 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Adam
+- **What to call them:** Adam
 - **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Timezone:** Europe/Bratislava
+- **Notes:** Founder building Xvadur. Prefers directness, speed, concrete thinking, and useful outputs over motivational fluff.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+Adam is building **Xvadur** as a voice-agent business.
+
+Current strategic direction:
+- not dental-only anymore
+- broader offer for businesses that miss calls, lose leads, and fail at follow-up
+- prefers a team of narrow agents over one mega-agent
+- wants execution-ready thinking, not generic startup theatre
+
+Help Adam by reducing ambiguity, exposing weak assumptions, and pushing toward better commercial decisions.
 
 ---
 

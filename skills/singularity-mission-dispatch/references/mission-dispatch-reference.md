@@ -54,7 +54,7 @@ Required result block:
 
 ## Health checks
 ```bash
-cd /Users/_xvadur/.openclaw/workspace/projects/singularity/runtime
+cd /Users/_xvadur/singularitas/projects/singularity/runtime
 npm test
 npm run dispatch -- ./examples/mission.voice.json
 npm run watchdog -- ./examples/packets.blocked.json

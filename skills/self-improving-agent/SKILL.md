@@ -52,7 +52,7 @@ Remade for openclaw from original repo : https://github.com/pskoett/pskoett-ai-s
 OpenClaw injects these files into every session:
 
 ```
-~/.openclaw/workspace/
+/Users/_xvadur/singularitas/
 ├── AGENTS.md          # Multi-agent workflows, delegation patterns
 ├── SOUL.md            # Behavioral guidelines, personality, principles
 ├── TOOLS.md           # Tool capabilities, integration gotchas
@@ -68,7 +68,7 @@ OpenClaw injects these files into every session:
 ### Create Learning Files
 
 ```bash
-mkdir -p ~/.openclaw/workspace/.learnings
+mkdir -p /Users/_xvadur/singularitas/.learnings
 ```
 
 Then create the log files (or copy from `assets/`):
@@ -653,6 +653,6 @@ Or use quick prompts:
 
 ## Jarvis System Integration (Aistryko)
 
-- Primary learning store: `/Users/_xvadur/.openclaw/workspace/.learnings/`
+- Primary learning store: `/Users/_xvadur/singularitas/.learnings/`
 - When repeated failure appears, create an action ticket in Linear and link the learning entry.
 - Promote stable behavioral/tool learnings into `workspace/AGENTS.md` and `workspace/TOOLS.md`.

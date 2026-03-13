@@ -9,9 +9,9 @@ Use local SQLite DB as operational memory for people, leads, and follow-ups.
 
 ## Source of truth
 
-- DB path: `/Users/_xvadur/.openclaw/workspace/crm/pcrm.sqlite`
-- Workspace folder: `/Users/_xvadur/.openclaw/workspace/crm`
-- Helper CLI: `/Users/_xvadur/.openclaw/workspace/systems/local-scripts/crm.sh`
+- DB path: `/Users/_xvadur/singularitas/crm/pcrm.sqlite`
+- Workspace folder: `/Users/_xvadur/singularitas/crm`
+- Helper CLI: `/Users/_xvadur/singularitas/systems/local-scripts/crm.sh`
 
 ## Main tables
 
@@ -24,15 +24,15 @@ Use local SQLite DB as operational memory for people, leads, and follow-ups.
 ## Core commands
 
 - Preferred wrapper:
-  - `/Users/_xvadur/.openclaw/workspace/systems/local-scripts/crm.sh inbox`
-  - `/Users/_xvadur/.openclaw/workspace/systems/local-scripts/crm.sh contacts 30`
-  - `/Users/_xvadur/.openclaw/workspace/systems/local-scripts/crm.sh interactions 20`
+  - `/Users/_xvadur/singularitas/systems/local-scripts/crm.sh inbox`
+  - `/Users/_xvadur/singularitas/systems/local-scripts/crm.sh contacts 30`
+  - `/Users/_xvadur/singularitas/systems/local-scripts/crm.sh interactions 20`
 - List open reminders (next 7 days):
-  - `sqlite3 /Users/_xvadur/.openclaw/workspace/crm/pcrm.sqlite "SELECT id, title, due_at, status FROM reminders WHERE status='open' AND (due_at IS NULL OR due_at <= datetime('now','+7 day')) ORDER BY due_at IS NULL, due_at;"`
+  - `sqlite3 /Users/_xvadur/singularitas/crm/pcrm.sqlite "SELECT id, title, due_at, status FROM reminders WHERE status='open' AND (due_at IS NULL OR due_at <= datetime('now','+7 day')) ORDER BY due_at IS NULL, due_at;"`
 - List latest interactions:
-  - `sqlite3 /Users/_xvadur/.openclaw/workspace/crm/pcrm.sqlite "SELECT id, contact_id, channel, direction, subject, at FROM interactions ORDER BY datetime(at) DESC LIMIT 20;"`
+  - `sqlite3 /Users/_xvadur/singularitas/crm/pcrm.sqlite "SELECT id, contact_id, channel, direction, subject, at FROM interactions ORDER BY datetime(at) DESC LIMIT 20;"`
 - List priority contacts (manual signal):
-  - `sqlite3 /Users/_xvadur/.openclaw/workspace/crm/pcrm.sqlite "SELECT id, name, company, relationship_tier, openclaw_status, last_sync FROM contacts ORDER BY datetime(last_sync) DESC LIMIT 50;"`
+  - `sqlite3 /Users/_xvadur/singularitas/crm/pcrm.sqlite "SELECT id, name, company, relationship_tier, openclaw_status, last_sync FROM contacts ORDER BY datetime(last_sync) DESC LIMIT 50;"`
 
 ## Operating workflow
 

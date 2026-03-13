@@ -32,6 +32,21 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+## Workspace Layout
+
+`singularitas` is the authoritative runtime workspace.
+
+- Root files are for OpenClaw runtime truth only.
+- `agents/` contains the actual multi-agent operating layer and per-agent workspaces.
+- `business/` contains durable business source documents.
+- `data/` contains operational data such as CRM, imports, runs, and temp files.
+- `outputs/` contains human-facing drafts, briefs, delivery artifacts, and handoffs.
+- `archive/` contains legacy or superseded material that should remain searchable but out of the active path.
+- `docs/` contains workspace guides, maps, and plans.
+
+`singularitas_opus` is not the source of truth for runtime doctrine.
+Use it as a collaboration surface for inbound notes and delivery outputs that OpenClaw may read or edit.
+
 ## Memory
 
 You wake up fresh each session. These files are your continuity:
@@ -59,6 +74,14 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
+
+### Daily Memory Hygiene
+
+- Keep exactly one main daily log per day: `memory/YYYY-MM-DD.md`
+- Do not create extra timestamped or topic-specific daily memory files unless there is a very strong reason
+- Daily logs should be short operational notes, not raw transcript dumps
+- If a chat/session import exists, distill it into bullets and keep the durable parts only
+- Move stable lessons and long-lived decisions into `MEMORY.md`
 
 ## Red Lines
 

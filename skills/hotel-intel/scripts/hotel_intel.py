@@ -5,7 +5,7 @@ import json
 import subprocess
 from pathlib import Path
 
-WORKSPACE = Path('/Users/_xvadur/.openclaw/workspace')
+WORKSPACE = Path('/Users/_xvadur/singularitas')
 PIPE = WORKSPACE / 'systems' / 'research-pipeline'
 SCRIPTS = PIPE / 'scripts'
 RUNS = PIPE / 'runs'

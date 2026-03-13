@@ -58,7 +58,7 @@ Artifacts to Produce:
 ## Storage path
 
 Save approved brief to:
-`/Users/_xvadur/.openclaw/workspace/reports/plans/YYYY-MM-DD-<topic>-design.md`
+`/Users/_xvadur/singularitas/reports/plans/YYYY-MM-DD-<topic>-design.md`
 
 ## Fast-path exception
 

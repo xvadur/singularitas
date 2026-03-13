@@ -49,3 +49,12 @@ Add whatever helps you do your job. This is your cheat sheet.
 - Audio transcription order in this profile:
   - `workspace/systems/local-scripts/elevenlabs-stt.sh`
   - fallback: `workspace/systems/local-scripts/whisper-stt.sh`
+
+### Cloudflare
+
+- Preferred Cloudflare skill: `/Users/_xvadur/singularitas/skills/cloudflare-toolkit`
+- Main script: `/Users/_xvadur/singularitas/skills/cloudflare-toolkit/scripts/cf.sh`
+- Requires env: `CLOUDFLARE_API_TOKEN`
+- Optional for tunnel ops: `CLOUDFLARE_ACCOUNT_ID`
+- Managed domain context: `jozef.xvadur.com`
+- Use this skill first for Cloudflare DNS / SSL / settings / tunnel checks before ad-hoc methods.

@@ -13,9 +13,9 @@ Use this skill to run orchestration v1 in the Singularity runtime.
 - Need live Linear + Telegram orchestration evidence.
 
 ## Runtime paths
-- Runtime root: `/Users/_xvadur/.openclaw/workspace/projects/singularity/runtime`
-- Example payloads: `/Users/_xvadur/.openclaw/workspace/projects/singularity/runtime/examples`
-- Project ops docs: `/Users/_xvadur/.openclaw/workspace/projects/singularity/ops`
+- Runtime root: `/Users/_xvadur/singularitas/projects/singularity/runtime`
+- Example payloads: `/Users/_xvadur/singularitas/projects/singularity/runtime/examples`
+- Project ops docs: `/Users/_xvadur/singularitas/projects/singularity/ops`
 
 ## Workflow
 1. Build mission payload from user objective.
@@ -38,7 +38,7 @@ Optional:
 
 ## Commands
 ```bash
-cd /Users/_xvadur/.openclaw/workspace/projects/singularity/runtime
+cd /Users/_xvadur/singularitas/projects/singularity/runtime
 npm run dispatch -- ./examples/mission.<slug>.json
 ```
 

@@ -18,4 +18,4 @@ python3 scripts/youtube_transcript.py "<youtube-url>" --lang sk,en --out /tmp/tr
 - publish notes (if content workflow)
 
 Preferred long-term save path:
-- `/Users/_xvadur/.openclaw/workspace/projects/singularity/content/`
+- `/Users/_xvadur/singularitas/projects/singularity/content/`

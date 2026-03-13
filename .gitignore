@@ -22,3 +22,9 @@ node_modules/
 .env.*
 !.env.example
 credentials/
+
+tmp/
+agents/cmo/Jozef/
+data/imports/
+data/tmp/
+data/crm/*.csv

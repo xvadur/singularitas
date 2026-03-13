@@ -11,9 +11,9 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import urlparse
 
-WORKSPACE = Path('/Users/_xvadur/.openclaw/workspace')
+WORKSPACE = Path('/Users/_xvadur/singularitas')
 RUNS = WORKSPACE / 'systems' / 'research-pipeline' / 'runs'
-GOPLACES = Path('/Users/_xvadur/.openclaw/skills/goplaces/scripts/places_search.py')
+GOPLACES = Path('/Users/_xvadur/singularitas/skills/goplaces/scripts/places_search.py')
 
 
 def latest(pattern: str) -> str | None:

@@ -49,7 +49,7 @@ Final Deliverables:
 ## Storage path
 
 Save plan to:
-`/Users/_xvadur/.openclaw/workspace/reports/plans/YYYY-MM-DD-<topic>-plan.md`
+`/Users/_xvadur/singularitas/reports/plans/YYYY-MM-DD-<topic>-plan.md`
 
 ## Handoff
 

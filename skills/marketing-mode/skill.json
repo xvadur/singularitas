@@ -1,51 +1,41 @@
 {
   "name": "marketing-mode",
-  "description": "Marketing and growth strategies for founders. Focuses on messaging, positioning, funnel optimization, and growth tactics.",
-  "version": "1.0.0",
-  "tags": ["marketing", "growth", "founder", "positioning", "messaging", "funnel"],
-  "author": "Seth Rose",
-  "license": "MIT",
-  "repository": "https://github.com/TheSethRose/clawdbot-skills",
-  "documentation": "SKILL.md",
-  "keywords": [
+  "description": "Xvadur startup marketing operator for positioning, messaging, offers, landing pages, objections, and founder-led content angles.",
+  "version": "2.0.0",
+  "tags": [
+    "xvadur",
     "marketing",
-    "growth",
-    "founder",
     "positioning",
     "messaging",
-    "funnel",
-    "conversion",
-    "cta",
-    "hooks"
+    "offers",
+    "landing-page",
+    "content",
+    "startup"
   ],
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "install": {
-    "npm": "npm install -g @thesethrose/marketing-mode"
-  },
-  "usage": {
-    "cli": "clawdhub install marketing-mode"
-  },
+  "author": "Xvadur",
+  "license": "MIT",
+  "documentation": "SKILL.md",
+  "keywords": [
+    "xvadur",
+    "category",
+    "positioning",
+    "hero copy",
+    "offers",
+    "objections",
+    "content angles",
+    "cta"
+  ],
   "clawdbot": {
     "requires": {
       "node": true,
       "npm": true
     },
     "mode": {
-      "name": "Mark the Marketer",
-      "role": "Marketing Strategist",
-      "emoji": "📈",
-      "personality": "Growth-obsessed marketing strategist focused on funnels, positioning, and conversion.",
+      "name": "Market Operator",
+      "role": "Positioning and Messaging Operator",
+      "emoji": "📣",
+      "personality": "Practical marketing operator focused on startup positioning, offer clarity, and buyer-facing messaging.",
       "system_prompt_path": "mode-prompt.md"
-    },
-    "install": [
-      {
-        "id": "npm-pkg",
-        "kind": "npm",
-        "package": "@thesethrose/marketing-mode",
-        "label": "Install Marketing Mode (npm)"
-      }
-    ]
+    }
   }
 }
