@@ -1,0 +1,272 @@
+---
+const offers = [
+  {
+    name: 'Starter',
+    price: '400 €',
+    note: 'mesačne',
+    items: ['AI phone receptionist', 'základný call flow', 'pilot pre 1 hlavný use case'],
+  },
+  {
+    name: 'Growth',
+    price: '600 €',
+    note: 'mesačne',
+    items: ['všetko zo Starter', 'webový widget pre inbound dopyt', 'lepšie pokrytie mimo otváracích hodín'],
+    featured: true,
+  },
+  {
+    name: 'Ops',
+    price: '700 €',
+    note: 'mesačne',
+    items: ['všetko z Growth', 'reporting vrstva', 'follow-up a escalation handoff'],
+  },
+];
+
+const pains = [
+  'telefón zvoní, keď tím práve pracuje s klientom',
+  'dopyt príde, ale follow-up sa odsúva',
+  'opakujúce sa otázky zaberajú čas ľuďom, ktorí majú robiť inú prácu',
+  'zákazník nevie ďalší krok a ide ku konkurencii',
+];
+
+const outcomes = [
+  'hovor alebo dopyt dostane reakciu hneď',
+  'agent vyzbiera kontext a posunie človeka ďalej',
+  'tím rieši dôležité prípady namiesto komunikačného chaosu',
+  'komunikácia pôsobí dostupnejšie, rýchlejšie a konzistentnejšie',
+];
+
+const faq = [
+  ['Je to len pre ambulancie?', 'Nie. Ambulancie sú len jeden use case. Primárny problém je stratený inbound a slabý follow-up.'],
+  ['Musíme meniť celý systém?', 'Nie. Začíname pilotom nad tým, čo už používate, a napájame iba to, čo dáva zmysel.'],
+  ['Ako rýchlo sa to dá nasadiť?', 'Pilot vieme pripraviť v horizonte dní až pár týždňov podľa complexity flowu a napojení.'],
+  ['Čo keď AI nebude znieť dobre?', 'Preto je pilot-first prístup kľúčový. Ladíme tón, routing aj handoff na reálnych situáciách.'],
+];
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jozef v2 | AI reception & communication agents</title>
+    <meta
+      name="description"
+      content="Xvadur inštaluje AI reception a communication agentov, aby firmy neprichádzali o hovory, leady a zákazníkov. Pilot-first nasadenie od 400 € mesačne."
+    />
+    <style>
+      :root {
+        --bg: #f6f8fc;
+        --surface: rgba(255,255,255,0.88);
+        --surface-strong: #ffffff;
+        --ink: #12192b;
+        --muted: rgba(18,25,43,0.72);
+        --line: rgba(18,25,43,0.1);
+        --blue: #4fc3f7;
+        --blue-deep: #2176c8;
+        --pink: #ff4fa3;
+        --shadow: 0 24px 70px rgba(18,25,43,0.08);
+        --radius: 24px;
+      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, rgba(79,195,247,0.22), transparent 28%),
+          linear-gradient(180deg, #f8fbff 0%, var(--bg) 42%, #fff 100%);
+      }
+      a { color: inherit; }
+      .shell { width: min(1120px, calc(100% - 1.5rem)); margin: 0 auto; }
+      .section { padding: 20px 0 72px; }
+      .eyebrow, .label {
+        text-transform: uppercase;
+        letter-spacing: .14em;
+        font-size: .74rem;
+        font-weight: 700;
+        color: var(--blue-deep);
+      }
+      .hero { padding-top: 24px; }
+      .hero-grid, .stats, .grid-2, .grid-3, .pricing {
+        display: grid;
+        gap: 16px;
+      }
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(10px);
+        padding: 20px;
+      }
+      .card.accent {
+        background: linear-gradient(180deg, rgba(79,195,247,0.18), rgba(255,255,255,0.92));
+      }
+      h1, h2, h3, p, ul { margin: 0; }
+      h1 {
+        margin-top: 10px;
+        font-size: clamp(2.8rem, 11vw, 5.8rem);
+        line-height: .94;
+        letter-spacing: -.05em;
+        max-width: 10.5ch;
+      }
+      h2 {
+        font-size: clamp(2rem, 5vw, 3.8rem);
+        line-height: .98;
+        letter-spacing: -.045em;
+      }
+      h3 { font-size: 1.15rem; line-height: 1.1; }
+      .lede, .muted, li { color: var(--muted); line-height: 1.6; }
+      .hero-copy, .stack { display: grid; gap: 16px; }
+      .cta-row { display: flex; flex-wrap: wrap; gap: 12px; }
+      .button {
+        display: inline-flex; align-items: center; justify-content: center;
+        min-height: 52px; padding: 0 18px; border-radius: 999px; text-decoration: none; font-weight: 700;
+      }
+      .button.primary { background: var(--ink); color: white; }
+      .button.secondary { background: white; border: 1px solid var(--line); }
+      .chips { display: flex; flex-wrap: wrap; gap: 10px; }
+      .chips span {
+        padding: 10px 14px; border-radius: 999px; background: rgba(255,255,255,.92); border: 1px solid rgba(18,25,43,.06);
+        font-size: .92rem; font-weight: 600;
+      }
+      ul.clean { list-style: none; padding: 0; display: grid; gap: 12px; }
+      ul.clean li { position: relative; padding-left: 18px; }
+      ul.clean li::before {
+        content: ''; position: absolute; left: 0; top: .68em; width: 7px; height: 7px; border-radius: 50%; background: var(--blue);
+      }
+      .section-head { display: grid; gap: 12px; max-width: 54rem; margin-bottom: 20px; }
+      .price { font-size: 2rem; letter-spacing: -.04em; line-height: 1; }
+      .price-card.featured { border-color: rgba(79,195,247,.5); box-shadow: 0 28px 80px rgba(79,195,247,.16); }
+      .price-card .label { color: var(--pink); }
+      details summary { cursor: pointer; list-style: none; font-weight: 700; }
+      details summary::-webkit-details-marker { display: none; }
+      details p { margin-top: 10px; }
+      .final {
+        background: linear-gradient(135deg, rgba(79,195,247,.2), rgba(255,79,163,.08), rgba(255,255,255,.96));
+      }
+      @media (min-width: 800px) {
+        .section { padding: 24px 0 92px; }
+        .hero-grid { grid-template-columns: minmax(0,1.35fr) minmax(320px,.75fr); }
+        .stats, .grid-3, .pricing { grid-template-columns: repeat(3, minmax(0,1fr)); }
+        .grid-2 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+        .card { padding: 28px; }
+        .final-wrap { display: grid; grid-template-columns: minmax(0,1.4fr) auto; gap: 20px; align-items: center; }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="section hero shell">
+        <p class="eyebrow">Jozef by Xvadur · AI reception & communication agents</p>
+        <div class="hero-grid">
+          <div class="card hero-copy">
+            <p class="label">Pilot-first nasadenie pre firmy, ktoré strácajú dopyt na linke.</p>
+            <h1>Neprichádzajte o hovory, leady a zákazníkov len preto, že tím nestíha komunikáciu.</h1>
+            <p class="lede">Xvadur inštaluje AI recepciu a komunikačných agentov, ktorí zdvihnú, odpovedia, vyzbierajú dôležitý kontext a posunú zákazníka ďalej — bez toho, aby váš tím žil v permanentnom prerušení.</p>
+            <div class="cta-row">
+              <a class="button primary" href="https://cal.com/xvadur" target="_blank" rel="noreferrer">Rezervovať 20-min call</a>
+              <a class="button secondary" href="#ponuka">Pozrieť ponuku</a>
+            </div>
+            <ul class="clean">
+              <li>menej zmeškaných hovorov</li>
+              <li>rýchlejšia reakcia na inbound</li>
+              <li>pilot bez veľkého replatformingu</li>
+            </ul>
+          </div>
+          <aside class="card accent stack">
+            <p class="eyebrow">Pre koho to sedí</p>
+            <h2>Pre firmy a služby, kde telefonát často rozhoduje o zákazke.</h2>
+            <div class="chips">
+              <span>servisy</span><span>kliniky</span><span>salóny</span><span>realitné tímy</span><span>lokálne služby</span><span>predajné linky</span>
+            </div>
+            <p class="muted">Nie healthcare-first default. Healthcare môže fungovať, ale jadro ponuky je širšie: firmy, ktoré strácajú dopyt, keď niekto nedvihne alebo nefollow-upne včas.</p>
+          </aside>
+        </div>
+        <div class="stats">
+          <div class="card"><strong>1 problém</strong><p class="muted">zmeškané hovory a pomalý follow-up</p></div>
+          <div class="card"><strong>1 prístup</strong><p class="muted">pilot-first, nie transformačné divadlo</p></div>
+          <div class="card"><strong>3 balíky</strong><p class="muted">400 / 600 / 700 podľa hĺbky pokrytia</p></div>
+        </div>
+      </section>
+
+      <section class="section shell">
+        <div class="section-head">
+          <p class="eyebrow">Problém a výsledok</p>
+          <h2>Keď firma nestíha komunikáciu, nevyzerá len zaneprázdnene. Prichádza o peniaze.</h2>
+          <p class="muted">Ľudia nečakajú dlho. Keď nik nedvihne, neodpovie alebo neposunie dopyt ďalej, skúšajú ďalšie číslo. Preto agenta nestaviame ako “wow AI”, ale ako systém na okamžitú reakciu a ďalší jasný krok.</p>
+        </div>
+        <div class="grid-2">
+          <article class="card stack"><h3>Čo sa deje dnes</h3><ul class="clean">{pains.map((item) => <li>{item}</li>)}</ul></article>
+          <article class="card accent stack"><h3>Čo má byť výsledok</h3><ul class="clean">{outcomes.map((item) => <li>{item}</li>)}</ul></article>
+        </div>
+      </section>
+
+      <section class="section shell">
+        <div class="section-head">
+          <p class="eyebrow">Ako to funguje</p>
+          <h2>Krátky audit. Pilot v realite. Ladenie podľa dát.</h2>
+        </div>
+        <div class="grid-3">
+          <article class="card stack"><p class="label">01</p><h3>Audit bottlenecku</h3><p class="muted">Pozrieme sa, kde sa strácajú hovory, leady alebo follow-up.</p></article>
+          <article class="card stack"><p class="label">02</p><h3>Pilot na konkrétny flow</h3><p class="muted">Nasadíme AI recepciu alebo widget na jeden reálny use case a pustíme ho do prevádzky.</p></article>
+          <article class="card stack"><p class="label">03</p><h3>Ladenie a scale-up</h3><p class="muted">Podľa reálnych výsledkov doladíme routing, odpovede, handoff aj reporting.</p></article>
+        </div>
+      </section>
+
+      <section class="section shell" id="ponuka">
+        <div class="section-head">
+          <p class="eyebrow">Ponuka</p>
+          <h2>Tri jasné balíky. Žiadna agentúrna hmmla. Len rýchly pilot a jasný scope.</h2>
+        </div>
+        <div class="pricing">
+          {offers.map((offer) => (
+            <article class={`card price-card stack ${offer.featured ? 'featured' : ''}`}>
+              <p class="label">{offer.name}</p>
+              <div class="price">{offer.price}</div>
+              <p class="muted">{offer.note}</p>
+              <ul class="clean">{offer.items.map((item) => <li>{item}</li>)}</ul>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="section shell">
+        <div class="section-head">
+          <p class="eyebrow">Kto z toho ťaží najviac</p>
+          <h2>Malé a stredné tímy, kde dostupnosť komunikácie priamo ovplyvňuje tržbu alebo kapacitu.</h2>
+        </div>
+        <div class="grid-3">
+          <article class="card stack"><h3>Služby s veľa inboundom</h3><p class="muted">Keď ľudia často volajú, objednávajú sa alebo chcú rýchlu odpoveď.</p></article>
+          <article class="card stack"><h3>Prevádzky s malým tímom</h3><p class="muted">Keď pár ľudí robí všetko a telefón im rozbíja deň.</p></article>
+          <article class="card stack"><h3>Firmy, ktoré chcú pilot, nie prezentáciu</h3><p class="muted">Keď chcete rýchlo overiť, či to funguje vo vašej realite.</p></article>
+        </div>
+      </section>
+
+      <section class="section shell">
+        <div class="section-head">
+          <p class="eyebrow">FAQ</p>
+          <h2>Najčastejšie otázky pred pilotom.</h2>
+        </div>
+        <div class="stack">
+          {faq.map(([q, a]) => (
+            <details class="card"><summary>{q}</summary><p class="muted">{a}</p></details>
+          ))}
+        </div>
+      </section>
+
+      <section class="section shell">
+        <div class="card final final-wrap">
+          <div class="stack">
+            <p class="eyebrow">Finálny krok</p>
+            <h2>Zistime za 20 minút, kde vám dnes uniká komunikácia — a či má pilot zmysel.</h2>
+            <p class="muted">Ak máte pocit, že telefón, web alebo follow-up dnes nefungujú tak, ako by mali, toto je najrýchlejší spôsob, ako to premeniť na konkrétny pilot.</p>
+          </div>
+          <div class="cta-row">
+            <a class="button primary" href="https://cal.com/xvadur" target="_blank" rel="noreferrer">Rezervovať audit</a>
+            <a class="button secondary" href="mailto:adam@xvadur.com">Napísať Adamovi</a>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
