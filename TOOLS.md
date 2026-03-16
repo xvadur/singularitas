@@ -1,47 +1,57 @@
 # TOOLS.md - Local Notes
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+This file is for environment-specific notes only.
 
-## What Goes Here
+Skills define procedures.
+Doctrine lives in core files.
+`TOOLS.md` is the local cheat sheet.
 
-Things like:
+## What belongs here
 
-- Camera names and locations
-- SSH hosts and aliases
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+Put only setup-specific details that help execution, such as:
 
-## Examples
+- local file paths
+- device nicknames
+- SSH aliases / host labels
+- preferred TTS voices
+- camera names
+- temp-file conventions
+- local CLI quirks
+- environment-specific workarounds
 
-```markdown
-### Cameras
+## What does not belong here
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+Do not turn this file into:
+- a second `AGENTS.md`
+- a policy file
+- a strategy document
+- a skill spec
+- a memory dump
+- a general tutorial
 
-### SSH
+If the note is durable doctrine, put it in:
+- `AGENTS.md`
+- `IDENTITY.md`
+- `SOUL.md`
+- `USER.md`
+- `docs/`
+- `MEMORY.md`
 
-- home-server → 192.168.1.100, user: admin
+## Use style
 
-### TTS
+Keep entries:
+- short
+- practical
+- local
+- easy to scan
 
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+Prefer bullets over prose.
 
 ---
 
-Add whatever helps you do your job. This is your cheat sheet.
+## Rescue notes
 
-## Rescue Notes
-
-### Telegram + Voice
+### Telegram + voice
 
 - Preferred voice reply path: `/tmp/openclaw/voice-reply.mp3`
 - Do not use plain `/tmp/voice-reply.mp3` for Telegram replies.
@@ -49,3 +59,21 @@ Add whatever helps you do your job. This is your cheat sheet.
 - Audio transcription order in this profile:
   - `workspace/systems/local-scripts/elevenlabs-stt.sh`
   - fallback: `workspace/systems/local-scripts/whisper-stt.sh`
+
+### Workspace reality
+
+- Authoritative runtime workspace: `/Users/_xvadur/singularitas`
+- Obsidian knowledge home: `/Users/_xvadur/singularitas_opus`
+
+### Google Workspace accounts
+
+- Personal account: `yksvadur.ja@gmail.com`
+- Business account: `adam@xvadur.com`
+- Personal auth root: `~/.config/gws`
+- Business auth root: `~/.config/gws-xvadur`
+
+### Skill hygiene
+
+- Shared/global skills live under the npm-installed OpenClaw skill path.
+- Workspace-specific skills live under `/Users/_xvadur/singularitas/skills`.
+- Retired skills were moved out of the active system on 2026-03-14; do not assume old wrapper skills still exist.

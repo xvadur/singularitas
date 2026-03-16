@@ -1,6 +1,10 @@
 # Active Tasks
 
-（无）
+## [2026-03-14-runtime-doctrine] Define agent runtime doctrine around autonomous goal execution
+- **Status**: 🔄 进行中
+- **Requested**: 2026-03-14 02:37
+- **Updated**: 2026-03-14 03:24
+- **Notes**: Adam wants a real AI employee that works proactively, asks for clarification, and executes toward goals without constant re-prompting; reference concept is strong autonomous execution. Reviewed repo/docs, runtime model, OpenClaw adapter, heartbeat protocol, and maturity indicators for fit assessment. Now assessing context injection bloat and proposing lean prompt architecture for OpenClaw runtime.
 
 # Completed (recent)
 - [2026-03-13-quick-audit] Fast repo audit done: major workspace restructure, many unstaged delete+new moves, cleanup still needed before commit.
