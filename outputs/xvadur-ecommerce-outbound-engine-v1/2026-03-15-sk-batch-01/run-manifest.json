@@ -1,0 +1,14 @@
+{
+  "run_id": "2026-03-15-sk-batch-01",
+  "created_at": "2026-03-15T15:00:09+01:00",
+  "segment": "autodiely",
+  "geo_scope": "SK",
+  "batch_size": 10,
+  "preferred_angle": "mixed",
+  "operator": "Jarvis",
+  "source_lead_file": "/Users/_xvadur/singularitas/agents/cso/sk-autodiely-pneu-top10-outreach.csv",
+  "source_batch_file": "/Users/_xvadur/singularitas/agents/cso/sk-autodiely-pneu-top10-outreach.csv",
+  "demo_asset_reference": "/Users/_xvadur/singularitas/agents/cmo/ecommerce-support-onepager/src/pages/index.astro",
+  "run_state": "founder_review",
+  "notes": "Batch operationalized from canonical top10 outreach file. All leads initialized as ready_to_send pending founder review."
+}
