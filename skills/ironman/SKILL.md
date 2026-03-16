@@ -1,58 +1,48 @@
 ---
 name: ironman
-description: Unified execution layer with 3 packages: low (quick tasks), default (standard delivery), high (large strategic projects like Singularity).
+description: Main project execution skill for non-trivial work. Use for projects, multi-step delivery, system changes, launches, automations, or any task that should move from scope to verified completion with clear gates.
 ---
 
 # Ironman
 
-Single orchestrator over Ironman modules.
+Use this as the default project skill.
 
-## Packages
+## Mission
 
-- `ironman low` -> quick tasks (minimal planning)
-- `ironman default` -> standard chain
-- `ironman high` -> large project governance
+Drive work from objective to verified completion without turning every task into ceremony.
 
-## Package routing
+## Route
 
-### LOW
-Use when task < 30 min and low risk.
-Flow:
-1. objective
-2. 3-5 steps
-3. execute
-4. verify
+1. Classify the task.
+2. Run `ironman-design` for anything non-trivial.
+3. Run `ironman-delivery` once design/plan is approved.
+4. Do not claim completion without final verification evidence.
 
-Uses: `ironman_mode`, `ironman_execute`, `ironman_verify`.
+## Fast-path
 
-### DEFAULT
-Use for normal delivery.
-Flow:
-1. `ironman_brainstorm`
-2. `ironman_plan`
-3. `ironman_execute` or `ironman_subagent`
-4. `ironman_verify`
+Skip detailed design only for tiny low-risk actions that:
+- take under ~10 minutes,
+- do not touch external systems,
+- do not change architecture or process,
+- do not require rollback planning.
 
-### HIGH
-Use for multi-day/strategic work (e.g. Singularity).
-Flow:
-1. design gate
-2. phased plan
-3. worktree safety
-4. subagent packets with reviews
-5. checkpoint governance
-6. final verification + residual risk report
+For fast-path tasks, still state:
+- goal,
+- next 2-4 steps,
+- proof of completion.
 
-Uses: all Ironman modules including `ironman_worktree` and `ironman_debug`.
+## Package gate
 
-## Default behavior
+Use full project flow when any of these are true:
+- expected effort > 30 min,
+- more than one system/tool boundary,
+- user asks for a project or rollout,
+- code/process changes need verification,
+- risk of rework is meaningful.
 
-If package not specified, use `default`.
+## Output posture
 
-
-## Automatic package gate
-
-- If estimated effort > 2h -> do not use `low`; use at least `default`.
-- If task touches more than 1 integration/tool boundary -> use `default` or `high`.
-- If task is multi-day, cross-team, or architectural -> force `high`.
-- If uncertain, escalate one level up (prefer safety over speed).
+- Be direct.
+- Ask only high-leverage questions.
+- Name tradeoffs.
+- Prefer evidence over reassurance.
