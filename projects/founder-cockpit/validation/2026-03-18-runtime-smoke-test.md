@@ -10,12 +10,12 @@ It does not prove live Telegram transport, CRM health, SIP feasibility, or publi
 
 1. Parse `~/.openclaw/openclaw.json`
 2. Confirm Telegram `defaultAccount=default`
-3. Confirm compatibility bridge routes:
-   - `default -> main`
-   - `cso -> research`
-   - `cro -> revenue`
-   - `cmo -> web`
-   - `coo -> integration`
+3. Confirm routing model:
+   - `default -> main` (canonical)
+   - `cso -> research` (compat legacy)
+   - `cro -> revenue` (compat legacy)
+   - `cmo -> web` (compat legacy)
+   - `coo -> integration` (compat legacy)
 4. Confirm declared agent workspaces exist on disk for all specialist lanes
 
 ## Result

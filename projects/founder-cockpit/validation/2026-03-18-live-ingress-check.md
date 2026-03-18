@@ -12,11 +12,11 @@ Config-level evidence already supports the intended route:
 
 - `~/.openclaw/openclaw.json` reports `defaultAccount=default`
 - route bindings in that file map:
-  - `default -> main`
-  - `cso -> research`
-  - `cro -> revenue`
-  - `cmo -> web`
-  - `coo -> integration`
+  - `default -> main` (canonical)
+  - `cso -> research` (compat legacy)
+  - `cro -> revenue` (compat legacy)
+  - `cmo -> web` (compat legacy)
+  - `coo -> integration` (compat legacy)
 - the same config reports `agents with workspaces=13`
 
 Supporting repo evidence:

@@ -16,8 +16,8 @@
 2. Proof block packet
    - Goal: turn Marek deployment work into one public-safe proof block
    - Source:
-     - `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-deployment-pack.md`
-     - `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-evaluation.md`
+     - `archive/cutover-2026-03-18/legacy-outputs/xvadur-ecommerce-outbound-engine-v1/`
+     - `archive/cutover-2026-03-18/legacy-docs/projects/xvadur-ecommerce-outbound-engine-v1/`
      - `/Users/_xvadur/singularitas/projects/web-proof-engine/content/proof-asset-template.md`
    - State: `draftable`
 

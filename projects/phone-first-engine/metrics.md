@@ -18,6 +18,6 @@
 
 - pricing / offer truth: `/Users/_xvadur/Xvadur Brand & Business/03 Offer/`
 - delivery truth: `/Users/_xvadur/Xvadur Brand & Business/05 Delivery/`
-- voice deployment artifacts: `/Users/_xvadur/singularitas/outputs/handoffs/marek-*`
+- voice deployment artifacts: `archive/cutover-2026-03-18/legacy-outputs/xvadur-ecommerce-outbound-engine-v1/`
 - CRM queue: `NO_SIGNAL` until local CRM exists
 - n8n execution: `NO_SIGNAL` until live state is attached

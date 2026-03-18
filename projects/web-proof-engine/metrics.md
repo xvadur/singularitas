@@ -9,9 +9,9 @@
 
 ## Current sources
 
-- current site artifacts: `/Users/_xvadur/singularitas/agents/cso/site-v2/`
+- current site artifacts: `archive/cutover-2026-03-18/legacy-workspaces/cso/site-v2/`
 - business narrative: `/Users/_xvadur/Xvadur Brand & Business/`
-- proof artifacts: `/Users/_xvadur/singularitas/outputs/handoffs/marek-*`
+- proof artifacts: `archive/cutover-2026-03-18/legacy-outputs/xvadur-ecommerce-outbound-engine-v1/` and `archive/cutover-2026-03-18/legacy-docs/projects/xvadur-ecommerce-outbound-engine-v1/`
 - public analytics: `NO_SIGNAL` until a site analytics source is attached
 
 ## Operability KPI

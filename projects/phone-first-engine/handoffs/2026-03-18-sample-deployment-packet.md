@@ -15,8 +15,7 @@ Define the minimum deployable phone-first pilot path:
 ## Inputs
 
 - `/Users/_xvadur/Xvadur Brand & Business/03 Offer/Pilot Packages and Pricing.md`
-- `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-deployment-pack.md`
-- `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-vapi-payload.json`
+- `archive/cutover-2026-03-18/legacy-outputs/xvadur-ecommerce-outbound-engine-v1/`
 - `/Users/_xvadur/singularitas/projects/phone-first-engine/spec/pilot-workflow.md`
 
 ## Required delivery steps

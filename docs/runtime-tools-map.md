@@ -11,66 +11,20 @@ Map the core tool and integration families that the runtime must understand and 
 - no silent live mutations
 - degrade to internal artifact when a tool is unavailable
 
-## Tonight tool families
+## Core tool families
 
-| Family | Role Tonight | Primary Lane | Primary Source | Notes |
+| Family | Role | Primary Lane | Primary Source | Notes |
 | --- | --- | --- | --- | --- |
 | Artifact + project-home layer | File-backed operating truth | Jarvis / all | `singularitas/docs/workspace-overview.md` | Foundation for status, handoffs, specs |
-| OpenClaw orchestration | Routing and execution discipline | Jarvis / ops | `singularitas/business/operations/openclaw-operating-runbook.md` | Supervisory control plane |
+| OpenClaw orchestration | Routing and execution discipline | Jarvis / ops | `singularitas/AGENTS.md` | Supervisory control plane |
 | Telegram + ACP ingress | Persistent operator chat surface | Jarvis / ops | `singularitas/TOOLS.md` | Includes voice-path conventions |
 | Linear | Execution visibility | Jarvis / growth / ops | `singularitas/skills/linear/SKILL.md` | Work tracking layer |
 | Google Workspace | Mail, calendar, docs, sheets | Jarvis / growth | `singularitas/skills/google-workspace/SKILL.md` | Two-account model already exists |
-| Scout / research stack | Lead and business intelligence | research / growth | `singularitas/agents/cso/skills/scout/SKILL.md` | Strong enrichment and outreach support pattern |
-| Voice runtime | Voice deployments | build / ops | `singularitas/skills/voice-factory/SKILL.md` | Vapi/ElevenLabs deployment subsystem |
-| n8n automation | Webhook and workflow layer | ops | `singularitas/skills/n8n/SKILL.md` | Converts tool contracts into executable flows |
-| Cloudflare | Domain/DNS/public edge | build / ops | `singularitas/skills/cloudflare-toolkit/SKILL.md` | Optional unless public web changes happen |
-
-## Family details
-
-### Artifact + mission-home layer
-- What it does: stores runtime mission status, specs, staging, and handoffs
-- Runtime usage: keep `singularitas` file-first from day one
-- Later: promote action-bearing records into `firma`
-
-### OpenClaw orchestration
-- What it does: controls routing, review, and bounded execution
-- Tonight usage: define behavior expectations, not a full app layer
-- Later: connect more deeply to workflow graphs
-
-### Telegram + ACP ingress
-- What it does: persistent operator chat entry
-- Tonight usage: note it as a core ingress surface
-- Later: formal deep-linking and approval actions
-
-### Linear
-- What it does: visible execution tracking
-- Tonight usage: map as a tool family, not as the only source of truth
-- Later: define exact object sync policy
-
-### Google Workspace
-- What it does: email, calendar, docs, sheets
-- Tonight usage: capture auth roots and role in business OS
-- Later: formalize approval and automation flows
-
-### Scout / research stack
-- What it does: prospecting, enrichment, pain inference
-- Tonight usage: mark as a reusable reference subsystem
-- Later: extract canonical research pack contracts
-
-### Voice runtime
-- What it does: phone/voice deploys with testing patterns
-- Tonight usage: mark as one of the strongest mature deploy surfaces
-- Later: anchor seed voice workflow here
-
-### n8n automation
-- What it does: webhook and backend workflow execution
-- Tonight usage: prepare tomorrow's setup and naming discipline
-- Later: formalize live/staging boundary
-
-### Cloudflare
-- What it does: domain, DNS, tunnel, and public edge work
-- Tonight usage: optional family only
-- Later: activate when site/domain work enters scope
+| Research stack | Lead and business intelligence | research / growth | `singularitas/skills/lead-researcher/SKILL.md` | Discovery and qualification layer |
+| Voice runtime | Voice deployments | voice / integration | `singularitas/skills/voice-factory/SKILL.md` | Vapi / ElevenLabs deployment subsystem |
+| CRM memory | Contact state and follow-up memory | revenue / growth | `singularitas/skills/crm/SKILL.md` | Local CRM operating surface |
+| n8n automation | Webhook and workflow layer | integration / ops | `singularitas/skills/n8n/SKILL.md` | Converts tool contracts into executable flows |
+| Cloudflare | Domain / DNS / public edge | build / ops | `singularitas/skills/cloudflare-toolkit/SKILL.md` | Optional unless public web changes happen |
 
 ## Credentials and environment
 
@@ -85,22 +39,20 @@ Map the core tool and integration families that the runtime must understand and 
 
 ## Strong contract references
 
-- `singularitas/business/segments/ecommerce-agent-tools-contracts.md`
-- `singularitas/business/segments/ecommerce-agent-n8n-ready-checklist.md`
-- `singularitas/skills/voice-factory/references/vapi-build-system.md`
+- `singularitas/projects/phone-first-engine/spec/pilot-workflow.md`
+- `singularitas/projects/web-proof-engine/spec/site-engine-ia.md`
+- `singularitas/projects/founder-cockpit/spec/current-system-contracts.md`
+- `singularitas/systems/n8n.md`
 
-## Tonight cut line
+## Cut line
 
 Definitely in:
 - tool family inventory
 - source-of-truth pointers
-- auth/env note surface
-- readiness for `jozef.xvadur.com` and `n8n`
+- auth / env note surface
+- runtime-ready references for phone-first, web-proof, and founder cockpit
 
-Optional:
-- Cloudflare if web edge changes are needed tomorrow
-
-Not tonight:
-- full capability matrix
-- live integration mutation
-- secrets migration
+Not here:
+- archived legacy paths
+- stale implementation scratch
+- canonical business truth that belongs in `firma`

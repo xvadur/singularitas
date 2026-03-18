@@ -2,6 +2,7 @@
 .DS_Store
 README.generated.md
 .readme-md-generator.json
+
 # Local runtime/generated workspace
 .openclaw/
 crm/*.sqlite
@@ -12,7 +13,6 @@ crm/*.sqlite.*
 crm_tmp/
 logs/
 node_modules/
-.DS_Store
 .obsidian/
 .tmp/
 .vscode/
@@ -23,8 +23,24 @@ node_modules/
 !.env.example
 credentials/
 
+# Legacy ignored temp/data roots
 tmp/
 agents/cmo/Jozef/
 data/imports/
 data/tmp/
 data/crm/*.csv
+
+# Runtime local artifacts
+output/
+outputs/.tmp/
+*.swp
+*.swo
+*~
+
+# SQLite volatile sidecar files
+*.sqlite-shm
+*.sqlite-wal
+
+# Archived local state that should stay off git
+archive/**/.openclaw/
+archive/cutover-2026-03-18/reference/tmp/

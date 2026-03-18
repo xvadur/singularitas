@@ -33,13 +33,6 @@
 - `agents/ops/`
 - `agents/janitor/`
 
-Legacy transition workspaces still on disk:
-
-- `agents/cso/`
-- `agents/cro/`
-- `agents/cmo/`
-- `agents/coo/`
-
 ## Project Layer
 
 - `projects/`
@@ -70,24 +63,22 @@ Shared objects should resolve into:
 
 ## Runtime Evidence Layer
 
-- `outputs/briefs/`
-- `outputs/delivery/`
-- `outputs/drafts/`
-- `outputs/handoffs/`
+- `outputs/runtime-evidence/`
+- `outputs/runtime-handoffs/`
 
 Business-facing canonical outputs belong in `firma`, not here.
 
-## Transition / Reference Layer
+## Support Layer
 
-- `business/`
 - `data/`
-- `tmp/`
-
-These are non-canonical support/reference layers during transition.
+- `skills/`
+- `systems/`
+- `scripts/`
+- `docs/`
 
 ## Archive Layer
 
-- `archive/legacy-offers/`
-- `archive/obsolete-runtime/`
-- `archive/old-notes/`
-- `archive/old-data/`
+- `archive/`
+- `archive/cutover-2026-03-18/`
+
+Anything under `archive/` is out of the active runtime.

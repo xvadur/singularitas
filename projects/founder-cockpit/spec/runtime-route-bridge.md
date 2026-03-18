@@ -3,6 +3,10 @@
 ## Canonical owner model
 
 - `default` Telegram account -> `main` (`Jarvis`)
+- canonical owners are dispatched through `Jarvis` unless a legacy alias is explicitly configured.
+
+## Compatibility bridge (legacy)
+
 - `cso` Telegram account -> `research`
 - `cro` Telegram account -> `revenue`
 - `cmo` Telegram account -> `web`
@@ -10,16 +14,16 @@
 
 ## Why this bridge exists
 
-- keep the existing Telegram bot fleet alive for tomorrow
-- stop the runtime from being C-level-only in practice
-- avoid creating a dozen new bots before the workbench is operational
+- keep the existing Telegram fleet continuity during migration
+- avoid creating a fresh bot surface before the workbench is operational
 
-## Temporary rule
+## Rule
 
 Legacy bot names are transport labels only.
 They are not the canonical operating model anymore.
 
-For tomorrow's cutover:
-- only `default`, `cso`, `cro`, `cmo`, and `coo` have direct Telegram ingress
-- `voice`, `delivery`, `proof`, `personal-ops`, and `personal-web` are canonical owners in doctrine but are reached through Jarvis dispatch, not direct bot ingress
-- support lanes remain callable, but they are execution helpers, not the primary ownership model
+### Migration expectation
+
+- after the migration cutover is complete, remove/disable the legacy alias bindings and keep only `default -> main`.
+- `voice`, `delivery`, `proof`, `personal-ops`, and `personal-web` are canonical owners in doctrine and must be reached through Jarvis dispatch, not direct alias bindings.
+- support lanes remain callable and are execution helpers, not the primary ownership model.

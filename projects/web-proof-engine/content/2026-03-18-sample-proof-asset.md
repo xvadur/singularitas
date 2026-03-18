@@ -7,8 +7,8 @@
 
 ## Source
 
-- `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-deployment-pack.md`
-- `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-evaluation.md`
+- `archive/cutover-2026-03-18/legacy-outputs/xvadur-ecommerce-outbound-engine-v1/`
+- `archive/cutover-2026-03-18/legacy-docs/projects/xvadur-ecommerce-outbound-engine-v1/`
 
 ## Candidate public-safe angle
 

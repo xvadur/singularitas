@@ -74,8 +74,6 @@ Founder-readable map of the active runtime.
 
 ## Support Execution Lanes
 
-These remain active as bounded execution helpers and migration support.
-
 ### `research`
 
 - Path: `/Users/_xvadur/singularitas/agents/research`
@@ -101,21 +99,14 @@ These remain active as bounded execution helpers and migration support.
 - Path: `/Users/_xvadur/singularitas/agents/janitor`
 - Mission: hygiene, drift detection, missing-record alerts, cleanup coverage
 
-## Legacy Workspaces
-
-These remain on disk during transition and should be treated as migration sources, not the target runtime model:
-
-- `/Users/_xvadur/singularitas/agents/cso`
-- `/Users/_xvadur/singularitas/agents/cro`
-- `/Users/_xvadur/singularitas/agents/cmo`
-- `/Users/_xvadur/singularitas/agents/coo`
-
 ## Operating Rules
 
 - Personal layer owns Adam-facing commitments, personal web stewardship, and personal capture normalization.
 - Business layer owns pipeline, deployments, proof, business web/content, and client systems.
 - Shared objects are readable across the runtime, but write ownership must stay explicit.
-- Direct Telegram ingress during cutover is limited to `default -> jarvis`, `cso -> research`, `cro -> revenue`, `cmo -> web`, and `coo -> integration`. Other canonical owners are reached through Jarvis dispatch.
+- Canonical ingress model: `default -> jarvis`.
+- Compatibility bridge (legacy Telegram aliases) may remain active only for migration continuity: `cso -> research`, `cro -> revenue`, `cmo -> web`, `coo -> integration`.
+- Canonical owners are always reached through Jarvis dispatch unless a legacy bridge alias is explicitly configured for temporary compatibility.
 - The primary revenue engine is phone-first deployments.
 - The parallel engine is web/content/proof systems.
 - Vendor/MCP/connectors are opportunistic and should not silently cannibalize phone-first revenue execution.

@@ -31,8 +31,8 @@ Approve a first controlled publish step for the web/proof engine:
 - `/Users/_xvadur/singularitas/projects/web-proof-engine/status.md`
 - `/Users/_xvadur/singularitas/projects/web-proof-engine/watchlist.md`
 - `/Users/_xvadur/singularitas/projects/web-proof-engine/content/publishing-queue.md`
-- `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-deployment-pack.md`
-- `/Users/_xvadur/singularitas/outputs/handoffs/marek-2-evaluation.md`
+- `archive/cutover-2026-03-18/legacy-outputs/xvadur-ecommerce-outbound-engine-v1/`
+- `archive/cutover-2026-03-18/legacy-docs/projects/xvadur-ecommerce-outbound-engine-v1/`
 
 ## Risk
 
