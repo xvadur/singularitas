@@ -16,6 +16,7 @@
 - if a source is unavailable, print `NO_SIGNAL` and point to the missing system
 - no section may be silently dropped
 - final ordering is founder-first, not source-system-first
+- the briefing must combine business truth, personal operational truth, and signal/news inputs without turning into a generic dashboard
 
 ## Tomorrow automation boundary
 

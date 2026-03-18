@@ -21,15 +21,22 @@ HEARTBEAT_OK
 
 ## Send a heartbeat only when at least one is true
 
-1. **Approval needed**
-   - A founder decision unlocks immediate movement.
-2. **Blocker appeared**
-   - Something now threatens revenue, delivery, reliability, or timeline.
-3. **Deadline is near**
+Priority interrupt classes:
+
+1. **Deadline is near**
    - A commitment, follow-up, or time-sensitive window now matters.
-4. **Better next move became obvious**
+2. **Better next move became obvious**
    - One action now clearly dominates the others.
-5. **Material status changed**
+3. **Clear opportunity opened**
+   - A concrete upside move is now available and time-relevant.
+
+Secondary classes, only when truly action-forcing:
+
+4. **Approval needed**
+   - A founder decision unlocks immediate movement.
+5. **Blocker appeared**
+   - Something now threatens revenue, delivery, reliability, or timeline.
+6. **Material status changed**
    - A live project, workflow, or assumption changed in a way that affects plan.
 
 ## Never send heartbeat for
