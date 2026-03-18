@@ -1,6 +1,6 @@
-# Business Source Docs
+# Business Reference Docs
 
-This tree contains durable business source documents for Xvadur.
+This tree contains legacy or reference business documents that still help the runtime.
 
 - `offers/` for commercial packaging and service structure
 - `positioning/` for strategic framing and founder identity
@@ -11,4 +11,6 @@ This tree contains durable business source documents for Xvadur.
 - `product/` for service/product definition
 - `operations/` for business operating runbooks
 
-If a document becomes runtime doctrine for agents, move or copy it into `agents/shared/`.
+This tree is not canonical business truth.
+New action-bearing business state belongs in `firma`.
+If a document becomes runtime doctrine for agents, move or copy it into `agents/shared/` or `docs/`.

@@ -1,10 +1,15 @@
-# Human-Facing Outputs
+# Runtime Outputs
 
-This tree is for deliverables and collaborative output.
+This tree is for runtime evidence, handoffs, and reviewable runtime artifacts.
 
-- `briefs/` for concise summaries and briefs
-- `delivery/` for final human-facing output packages
-- `drafts/` for working documents and rough output
-- `handoffs/` for transition material between people, agents, or systems
+- `runtime-evidence/` for verification traces, smoke tests, and runtime proof
+- `runtime-handoffs/` for transition material between agents or systems
 
-This is the preferred staging area for material that may later be mirrored into `singularitas_opus`.
+Business-facing canonical deliverables now belong in `firma`.
+This tree is no longer the preferred home for new business outputs.
+Legacy human-facing drafts and handoffs were moved out of this tree during the boundary reset.
+Use it for:
+- runtime handoffs
+- validation evidence
+- reviewable traces
+- internal runtime drafts that have not been promoted into `firma`

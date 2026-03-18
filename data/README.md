@@ -9,3 +9,4 @@ This tree isolates operational data from runtime doctrine.
 - `archive/` for superseded data worth keeping
 
 Do not keep loose data files at the workspace root.
+This tree is non-canonical support storage. It does not define business truth.

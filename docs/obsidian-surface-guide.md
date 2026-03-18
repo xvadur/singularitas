@@ -2,11 +2,17 @@
 
 Tento vault je navrhnutý ako externý mozog pre podnikanie a ako čitateľný pracovný priestor pre OpenClaw.
 
+Autorita:
+- `Capture` a `KnowledgeAsset` môžu byť kanonické tu
+- active business state nie
+- runtime state nie
+
 ## Základný tok
 
 1. Všetko nové píš do [[+/INBOX|+ / INBOX]] alebo do priečinka `+`.
 2. Ak sa z poznámky stáva dlhodobé poznanie, presuň ju do `Kontext`.
 3. Ak sa z poznámky stáva vykonateľná práca, založ alebo rozšír iniciatívu v `Operácie`.
+   Ak ide o action-bearing workflow, promote cez `singularitas` do `firma`.
 4. Ak ide o plugin-managed daily alebo calendar note, použi `Calendar`.
 5. Ak ide o meeting, log alebo iný časový záznam mimo pluginu, použi `Denník`.
 
@@ -45,6 +51,11 @@ OpenClaw má pomáhať:
 - prepájať
 - navrhovať missing context
 - skladať výstupy a operácie
+
+Nie:
+- držať live pipeline truth
+- držať live delivery truth
+- držať runtime doctrine ako jediný kanonický zdroj
 
 ## Dôležitá výnimka
 
