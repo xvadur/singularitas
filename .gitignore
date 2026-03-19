@@ -33,6 +33,8 @@ data/crm/*.csv
 # Runtime local artifacts
 output/
 outputs/.tmp/
+__pycache__/
+*.pyc
 *.swp
 *.swo
 *~
