@@ -1,0 +1,54 @@
+{
+  "defaultMode": "dry-run",
+  "mailboxes": {
+    "business": {
+      "name": "Business Inbox",
+      "account": "adam@xvadur.com",
+      "provider": {
+        "type": "gmail-gog"
+      },
+      "fetch": {
+        "query": "in:inbox -in:chats -label:triage/processed newer_than:30d",
+        "maxResults": 20
+      },
+      "labels": {
+        "processed": "triage/processed",
+        "needsReply": "triage/needs-reply",
+        "awaitingHuman": "triage/awaiting-human",
+        "categories": {
+          "lead": "triage/lead",
+          "provider": "triage/provider",
+          "finance": "triage/finance",
+          "legal": "triage/legal",
+          "newsletter": "triage/newsletter",
+          "ignore": "triage/ignore",
+          "other": "triage/other"
+        }
+      },
+      "classification": {
+        "categories": [
+          "lead",
+          "provider",
+          "finance",
+          "legal",
+          "newsletter",
+          "ignore",
+          "other"
+        ],
+        "draftReplyCategories": [],
+        "preferAi": true,
+        "fallback": "heuristic"
+      },
+      "drafting": {
+        "enabled": false,
+        "signature": "\n\n— Adam"
+      }
+    }
+  },
+  "ai": {
+    "provider": "openai-compatible",
+    "model": "openai/gpt-4o-mini",
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "apiKeyEnv": "OPENROUTER_API_KEY"
+  }
+}

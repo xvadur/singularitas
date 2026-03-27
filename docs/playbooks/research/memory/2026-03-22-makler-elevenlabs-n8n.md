@@ -1,0 +1,36 @@
+# 2026-03-22 — Marek / Jakub voice agent progress
+
+- Consolidated the realtor-agent work into canonical Obsidian docs in `singularitas_opus/Operácie/Xvadur - Agent Deploy Studio/`.
+- Main source-of-truth docs created/updated:
+  - `Jakub - Marek Voice Agent Master Brief v1.md`
+  - `Jakub - Marek System Prompt Draft v1.md`
+  - `Jakub - Marek ElevenLabs Tool Contracts v1.md`
+  - `HANDOFF - Marek ElevenLabs to n8n Backend.md`
+- Decided to use the ElevenLabs agent `realitky` as the live working agent instead of continuing with Vapi for this phase.
+- Live ElevenLabs agent state updated:
+  - agent id: `agent_2101k84bc5ebfbjrn3etm9g3fytb`
+  - first message updated to Jakub-specific greeting
+  - production-grade prompt draft uploaded
+  - 5 webhook tools attached:
+    - `log_lead_progress`
+    - `check_availability`
+    - `create_appointment`
+    - `handoff_urgent`
+    - `finalize_call`
+- Live webhook URLs configured on the ElevenLabs agent:
+  - `https://xvadur.app.n8n.cloud/webhook/log_lead_progress`
+  - `https://xvadur.app.n8n.cloud/webhook/check_availability`
+  - `https://xvadur.app.n8n.cloud/webhook/create_appointment`
+  - `https://xvadur.app.n8n.cloud/webhook/handoff_urgent`
+  - `https://xvadur.app.n8n.cloud/webhook/finalize_call`
+- Business/agent rules locked for v1:
+  - callback duration 15 min
+  - viewing duration 60 min
+  - working hours 08:00–19:00
+  - lunch block 12:00–13:00
+  - weekends allowed
+  - callbacks cannot be booked during viewings
+  - Bratislava logistics buffers: same zone 60 min, different zone 90 min, outside BA 120 min
+  - if preferred slot fails, return 3 alternatives
+  - referral should try transfer/handoff first; if transfer fails, qualify and book callback or viewing
+- Next step: open a new execution conversation focused only on the n8n backend for the 5 live webhook tools; use the handoff doc as the starting scaffold.

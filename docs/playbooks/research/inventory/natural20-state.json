@@ -1,0 +1,2589 @@
+{
+  "events": {
+    "bytedance-video-generation-model-dreamina": {
+      "event_key": "bytedance-video-generation-model-dreamina",
+      "first_seen": "2026-03-26T15:25:13+00:00",
+      "last_seen": "2026-03-26T22:13:00+00:00",
+      "first_title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "latest_title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "latest_norm_title": "bytedance s new ai video generation model dreamina seedance 2 0 comes to capcut",
+      "latest_url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "latest_domain": "techcrunch.com",
+      "theme": "consumer-ai-launches",
+      "tokens": [
+        "bytedance",
+        "capcut",
+        "comes",
+        "dreamina",
+        "generation",
+        "model",
+        "seedance",
+        "video"
+      ],
+      "appearances": 10,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T15:25:13+00:00",
+          "rank": 1,
+          "score": 300,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 1,
+          "score": 300,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 1,
+          "score": 300,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 1,
+          "score": 300,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 1,
+          "score": 295,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 2,
+          "score": 291,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; rank down #1 → #2"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 3,
+          "score": 287,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; rank down #2 → #3"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 5,
+          "score": 283,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; rank down #3 → #5"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 6,
+          "score": 278,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 7,
+          "score": 274,
+          "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+          "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+          "state": "continuation; rank down #6 → #7"
+        }
+      ]
+    },
+    "gemini-flash-live-making-audio": {
+      "event_key": "gemini-flash-live-making-audio",
+      "first_seen": "2026-03-26T15:23:35+00:00",
+      "last_seen": "2026-03-26T22:13:00+00:00",
+      "first_title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "latest_title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "latest_norm_title": "gemini 3 1 flash live making audio ai more natural and reliable",
+      "latest_url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "latest_domain": "deepmind.google",
+      "theme": "audio-model-race",
+      "tokens": [
+        "audio",
+        "flash",
+        "gemini",
+        "live",
+        "making",
+        "more",
+        "natural",
+        "reliable"
+      ],
+      "appearances": 10,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T15:23:35+00:00",
+          "rank": 2,
+          "score": 300,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 2,
+          "score": 300,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 2,
+          "score": 300,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 2,
+          "score": 300,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 2,
+          "score": 295,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 3,
+          "score": 291,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; rank down #2 → #3"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 4,
+          "score": 287,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; rank down #3 → #4"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 6,
+          "score": 282,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; rank down #4 → #6"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 7,
+          "score": 278,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 8,
+          "score": 274,
+          "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+          "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+          "state": "continuation; rank down #7 → #8"
+        }
+      ]
+    },
+    "wikipedia-bans-generated-articles": {
+      "event_key": "wikipedia-bans-generated-articles",
+      "first_seen": "2026-03-26T15:02:52+00:00",
+      "last_seen": "2026-03-26T22:13:00+00:00",
+      "first_title": "Wikipedia bans AI-generated articles",
+      "latest_title": "Wikipedia bans AI-generated articles",
+      "latest_norm_title": "wikipedia bans ai generated articles",
+      "latest_url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "latest_domain": "www.theverge.com",
+      "theme": "ai-governance",
+      "tokens": [
+        "articles",
+        "bans",
+        "generated",
+        "wikipedia"
+      ],
+      "appearances": 10,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T15:02:52+00:00",
+          "rank": 3,
+          "score": 298,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 3,
+          "score": 298,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 3,
+          "score": 298,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 3,
+          "score": 298,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 3,
+          "score": 294,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 4,
+          "score": 290,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; rank down #3 → #4"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 5,
+          "score": 285,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 7,
+          "score": 281,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; rank down #5 → #7"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 8,
+          "score": 277,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; rank down #7 → #8"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 9,
+          "score": 273,
+          "title": "Wikipedia bans AI-generated articles",
+          "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+          "state": "continuation; rank down #8 → #9"
+        }
+      ]
+    },
+    "senators-pushing-find-out-much": {
+      "event_key": "senators-pushing-find-out-much",
+      "first_seen": "2026-03-26T14:25:32+00:00",
+      "last_seen": "2026-03-26T22:13:00+00:00",
+      "first_title": "Senators are pushing to find out how much electricity data centers actually use",
+      "latest_title": "Senators are pushing to find out how much electricity data centers actually use",
+      "latest_norm_title": "senators are pushing to find out how much electricity data centers actually use",
+      "latest_url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "latest_domain": "www.theverge.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "actually",
+        "centers",
+        "data",
+        "electricity",
+        "find",
+        "much",
+        "out",
+        "pushing",
+        "senators",
+        "use"
+      ],
+      "appearances": 10,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T14:25:32+00:00",
+          "rank": 4,
+          "score": 296,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 4,
+          "score": 296,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 4,
+          "score": 296,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 4,
+          "score": 296,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 4,
+          "score": 291,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 5,
+          "score": 287,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 6,
+          "score": 283,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 8,
+          "score": 278,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; rank down #6 → #8"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 9,
+          "score": 274,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; rank down #8 → #9"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 10,
+          "score": 270,
+          "title": "Senators are pushing to find out how much electricity data centers actually use",
+          "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+          "state": "continuation; rank down #9 → #10"
+        }
+      ]
+    },
+    "conntour-raises-general-catalyst-build": {
+      "event_key": "conntour-raises-general-catalyst-build",
+      "first_seen": "2026-03-26T13:41:00+00:00",
+      "last_seen": "2026-03-26T20:13:00+00:00",
+      "first_title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "latest_title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "latest_norm_title": "conntour raises 7m from general catalyst yc to build an ai search engine for security video systems",
+      "latest_url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "latest_domain": "techcrunch.com",
+      "theme": "consumer-ai-launches",
+      "tokens": [
+        "build",
+        "catalyst",
+        "conntour",
+        "engine",
+        "general",
+        "raises",
+        "search",
+        "security",
+        "systems",
+        "video"
+      ],
+      "appearances": 8,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T13:41:00+00:00",
+          "rank": 5,
+          "score": 293,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 5,
+          "score": 293,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 5,
+          "score": 293,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 5,
+          "score": 293,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 5,
+          "score": 288,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 6,
+          "score": 284,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 7,
+          "score": 280,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 9,
+          "score": 275,
+          "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+          "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+          "state": "continuation; rank down #7 → #9"
+        }
+      ]
+    },
+    "cohere-launches-open-source-voice": {
+      "event_key": "cohere-launches-open-source-voice",
+      "first_seen": "2026-03-26T13:30:00+00:00",
+      "last_seen": "2026-03-26T20:13:00+00:00",
+      "first_title": "Cohere launches an open-source voice model specifically for transcription",
+      "latest_title": "Cohere launches an open source voice model specifically for transcription",
+      "latest_norm_title": "cohere launches an open source voice model specifically for transcription",
+      "latest_url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "latest_domain": "techcrunch.com",
+      "theme": "audio-model-race",
+      "tokens": [
+        "cohere",
+        "launches",
+        "model",
+        "open",
+        "source",
+        "specifically",
+        "transcription",
+        "voice"
+      ],
+      "appearances": 8,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T13:30:00+00:00",
+          "rank": 6,
+          "score": 292,
+          "title": "Cohere launches an open-source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 6,
+          "score": 292,
+          "title": "Cohere launches an open-source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 6,
+          "score": 292,
+          "title": "Cohere launches an open-source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 6,
+          "score": 292,
+          "title": "Cohere launches an open-source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 6,
+          "score": 287,
+          "title": "Cohere launches an open source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 7,
+          "score": 283,
+          "title": "Cohere launches an open source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 8,
+          "score": 279,
+          "title": "Cohere launches an open source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; rank down #7 → #8"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 10,
+          "score": 275,
+          "title": "Cohere launches an open source voice model specifically for transcription",
+          "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+          "state": "continuation; rank down #8 → #10"
+        }
+      ]
+    },
+    "webtoon-adding-localization-tools-comics": {
+      "event_key": "webtoon-adding-localization-tools-comics",
+      "first_seen": "2026-03-26T13:00:00+00:00",
+      "last_seen": "2026-03-26T19:13:00+00:00",
+      "first_title": "Webtoon is adding AI localization tools to its comics platform",
+      "latest_title": "Webtoon is adding AI localization tools to its comics platform",
+      "latest_norm_title": "webtoon is adding ai localization tools to its comics platform",
+      "latest_url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "latest_domain": "www.theverge.com",
+      "theme": "consumer-ai-launches",
+      "tokens": [
+        "adding",
+        "comics",
+        "localization",
+        "platform",
+        "tools",
+        "webtoon"
+      ],
+      "appearances": 7,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T13:00:00+00:00",
+          "rank": 7,
+          "score": 290,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 7,
+          "score": 290,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 7,
+          "score": 290,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 7,
+          "score": 290,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 7,
+          "score": 285,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 8,
+          "score": 281,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "continuation; rank down #7 → #8"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 9,
+          "score": 277,
+          "title": "Webtoon is adding AI localization tools to its comics platform",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+          "state": "continuation; rank down #8 → #9"
+        }
+      ]
+    },
+    "backs-nude-app-ban-delays": {
+      "event_key": "backs-nude-app-ban-delays",
+      "first_seen": "2026-03-26T12:49:01+00:00",
+      "last_seen": "2026-03-26T18:13:00+00:00",
+      "first_title": "EU backs nude app ban and delays to landmark AI rules",
+      "latest_title": "EU backs nude app ban and delays to landmark AI rules",
+      "latest_norm_title": "eu backs nude app ban and delays to landmark ai rules",
+      "latest_url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "latest_domain": "www.theverge.com",
+      "theme": "ai-governance",
+      "tokens": [
+        "app",
+        "backs",
+        "ban",
+        "delays",
+        "landmark",
+        "nude",
+        "rules"
+      ],
+      "appearances": 6,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T12:49:01+00:00",
+          "rank": 8,
+          "score": 289,
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 8,
+          "score": 289,
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 8,
+          "score": 289,
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 8,
+          "score": 289,
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 8,
+          "score": 285,
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 9,
+          "score": 280,
+          "title": "EU backs nude app ban and delays to landmark AI rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+          "state": "continuation; rank down #8 → #9"
+        }
+      ]
+    },
+    "pound-flesh-data-centers-one": {
+      "event_key": "pound-flesh-data-centers-one",
+      "first_seen": "2026-03-26T12:00:00+00:00",
+      "last_seen": "2026-03-26T18:13:00+00:00",
+      "first_title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+      "latest_title": "A ‘pound of flesh’ from data centers: One senator’s answer to AI job losses",
+      "latest_norm_title": "a pound of flesh from data centers one senator s answer to ai job losses",
+      "latest_url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "latest_domain": "techcrunch.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "answer",
+        "centers",
+        "data",
+        "flesh",
+        "job",
+        "losses",
+        "one",
+        "pound",
+        "senator"
+      ],
+      "appearances": 6,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T12:00:00+00:00",
+          "rank": 9,
+          "score": 286,
+          "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 9,
+          "score": 286,
+          "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 9,
+          "score": 286,
+          "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 9,
+          "score": 286,
+          "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 9,
+          "score": 281,
+          "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 10,
+          "score": 277,
+          "title": "A ‘pound of flesh’ from data centers: One senator’s answer to AI job losses",
+          "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "state": "continuation; rank down #9 → #10"
+        }
+      ]
+    },
+    "openai-shelves-erotic-chatbot-indefinitely": {
+      "event_key": "openai-shelves-erotic-chatbot-indefinitely",
+      "first_seen": "2026-03-26T11:58:09+00:00",
+      "last_seen": "2026-03-26T17:13:00+00:00",
+      "first_title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "latest_title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "latest_norm_title": "openai shelves erotic chatbot indefinitely",
+      "latest_url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "latest_domain": "www.theverge.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "chatbot",
+        "erotic",
+        "indefinitely",
+        "openai",
+        "shelves"
+      ],
+      "appearances": 5,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T11:58:09+00:00",
+          "rank": 10,
+          "score": 285,
+          "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+          "state": "seeded from prior live file"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 10,
+          "score": 285,
+          "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+          "state": "continuation; holds #10"
+        },
+        {
+          "run": "2026-03-26T16:08:00+00:00",
+          "rank": 10,
+          "score": 285,
+          "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+          "state": "continuation; holds #10"
+        },
+        {
+          "run": "2026-03-26T16:13:00+00:00",
+          "rank": 10,
+          "score": 285,
+          "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+          "state": "continuation; holds #10"
+        },
+        {
+          "run": "2026-03-26T17:13:00+00:00",
+          "rank": 10,
+          "score": 281,
+          "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+          "state": "continuation; holds #10"
+        }
+      ]
+    },
+    "ban-launch-ray-ready-glasses": {
+      "event_key": "ban-launch-ray-ready-glasses",
+      "first_seen": "2026-03-26T18:13:00+00:00",
+      "last_seen": "2026-03-26T23:13:00+00:00",
+      "first_title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "latest_title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "latest_norm_title": "meta gets ready to launch two new ray ban ai glasses",
+      "latest_url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "latest_domain": "www.theverge.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "ban",
+        "gets",
+        "glasses",
+        "launch",
+        "meta",
+        "ray",
+        "ready",
+        "two"
+      ],
+      "appearances": 6,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T18:13:00+00:00",
+          "rank": 1,
+          "score": 296,
+          "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+          "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 2,
+          "score": 291,
+          "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+          "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+          "state": "continuation; rank down #1 → #2"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 4,
+          "score": 287,
+          "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+          "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+          "state": "continuation; rank down #2 → #4"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 5,
+          "score": 283,
+          "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+          "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 6,
+          "score": 279,
+          "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+          "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 10,
+          "score": 274,
+          "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+          "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+          "state": "continuation; rank down #6 → #10"
+        }
+      ]
+    },
+    "data-power-see-your-bills": {
+      "event_key": "data-power-see-your-bills",
+      "first_seen": "2026-03-26T19:13:00+00:00",
+      "last_seen": "2026-03-27T00:13:00+00:00",
+      "first_title": "Data centers get ready — the Senate wants to see your power bills",
+      "latest_title": "Data centers get ready — the Senate wants to see your power bills",
+      "latest_norm_title": "data centers get ready the senate wants to see your power bills",
+      "latest_url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+      "latest_domain": "techcrunch.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "bills",
+        "centers",
+        "data",
+        "get",
+        "power",
+        "ready",
+        "see",
+        "senate",
+        "wants",
+        "your"
+      ],
+      "appearances": 6,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 1,
+          "score": 299,
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 3,
+          "score": 295,
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "state": "continuation; rank down #1 → #3"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 3,
+          "score": 291,
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 4,
+          "score": 287,
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "state": "continuation; rank down #3 → #4"
+        },
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 8,
+          "score": 282,
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "state": "continuation; rank down #4 → #8"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 9,
+          "score": 278,
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "state": "continuation; rank down #8 → #9"
+        }
+      ]
+    },
+    "next-general-information-partners-introducing": {
+      "event_key": "next-general-information-partners-introducing",
+      "first_seen": "2026-03-26T19:13:00+00:00",
+      "last_seen": "2026-03-26T19:13:00+00:00",
+      "first_title": "Introducing The Information’s 2026 List of Next General Partners",
+      "latest_title": "Introducing The Information’s 2026 List of Next General Partners",
+      "latest_norm_title": "introducing the information s 2026 list of next general partners",
+      "latest_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFBYV2pzc2gwZWhNblJieHhGSFpjcjU3R0tFN0FaWXU2WlBEZ3dTZGQyOGpuV3gwWGxDYmNhaVc2R3VHWlpzekh1SUlXZ1FqeURTYm5ObnJ1TXl5azNlakhVS1YyQUVTT2hqX1RWMm1fZEktRzBOa1BUbDh2VmpWeHVzUDd3UVdpaGx1NUNMc1FfMURZbWtpWHlaU2s?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "2026",
+        "general",
+        "information",
+        "introducing",
+        "list",
+        "next",
+        "partners"
+      ],
+      "appearances": 1,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T19:13:00+00:00",
+          "rank": 10,
+          "score": 277,
+          "title": "Introducing The Information’s 2026 List of Next General Partners",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFBYV2pzc2gwZWhNblJieHhGSFpjcjU3R0tFN0FaWXU2WlBEZ3dTZGQyOGpuV3gwWGxDYmNhaVc2R3VHWlpzekh1SUlXZ1FqeURTYm5ObnJ1TXl5azNlakhVS1YyQUVTT2hqX1RWMm1fZEktRzBOa1BUbDh2VmpWeHVzUDd3UVdpaGx1NUNMc1FfMURZbWtpWHlaU2s?oc=5",
+          "state": "new story"
+        }
+      ]
+    },
+    "more-languages-assistant-handle-search": {
+      "event_key": "more-languages-assistant-handle-search",
+      "first_seen": "2026-03-26T20:13:00+00:00",
+      "last_seen": "2026-03-27T01:13:00+00:00",
+      "first_title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+      "latest_title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+      "latest_norm_title": "google s live ai search assistant can handle conversations in dozens more languages",
+      "latest_url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "latest_domain": "www.theverge.com",
+      "theme": "audio-model-race",
+      "tokens": [
+        "assistant",
+        "can",
+        "conversations",
+        "dozens",
+        "google",
+        "handle",
+        "languages",
+        "live",
+        "more",
+        "search"
+      ],
+      "appearances": 6,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 1,
+          "score": 297,
+          "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 1,
+          "score": 292,
+          "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 2,
+          "score": 288,
+          "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "state": "continuation; rank down #1 → #2"
+        },
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 6,
+          "score": 284,
+          "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "state": "continuation; rank down #2 → #6"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 7,
+          "score": 280,
+          "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 10,
+          "score": 276,
+          "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+          "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+          "state": "continuation; rank down #7 → #10"
+        }
+      ]
+    },
+    "erotic-another-chatgpt-yet-openai": {
+      "event_key": "erotic-another-chatgpt-yet-openai",
+      "first_seen": "2026-03-26T20:13:00+00:00",
+      "last_seen": "2026-03-27T00:13:00+00:00",
+      "first_title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "latest_title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "latest_norm_title": "openai abandons yet another side quest chatgpt s erotic mode",
+      "latest_url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "latest_domain": "techcrunch.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "abandons",
+        "another",
+        "chatgpt",
+        "erotic",
+        "mode",
+        "openai",
+        "quest",
+        "side",
+        "yet"
+      ],
+      "appearances": 5,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T20:13:00+00:00",
+          "rank": 2,
+          "score": 296,
+          "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 2,
+          "score": 291,
+          "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 3,
+          "score": 287,
+          "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+          "state": "continuation; rank down #2 → #3"
+        },
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 7,
+          "score": 283,
+          "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+          "state": "continuation; rank down #3 → #7"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 8,
+          "score": 279,
+          "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+          "state": "continuation; rank down #7 → #8"
+        }
+      ]
+    },
+    "hiring-cloud-sales-groups-freezes": {
+      "event_key": "hiring-cloud-sales-groups-freezes",
+      "first_seen": "2026-03-26T21:13:00+00:00",
+      "last_seen": "2026-03-27T00:13:00+00:00",
+      "first_title": "Microsoft Freezes Hiring in Major Cloud and Sales Groups",
+      "latest_title": "Microsoft Freezes Hiring in Major Cloud and Sales Groups",
+      "latest_norm_title": "microsoft freezes hiring in major cloud and sales groups",
+      "latest_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnhyZGtrajBEWEtEdEhVTEFXZlZRQmo5WkVqRmxKZmNHaDNNSUVkai1QcGY1aUhQanJ5Nl94bVM2Mkg2R0FXVWczZ1AwUlNnajdCWmIxT0FyUC1jSXZEdGtsMkhjVGNkcmVDYmtVWGJBV19PM3BLLU1MOEpUZ25SeXpiY2JKbV9RVmd5Mk1Ia1RGdDQ?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "cloud",
+        "freezes",
+        "groups",
+        "hiring",
+        "major",
+        "microsoft",
+        "sales"
+      ],
+      "appearances": 4,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 4,
+          "score": 287,
+          "title": "Microsoft Freezes Hiring in Major Cloud and Sales Groups",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnhyZGtrajBEWEtEdEhVTEFXZlZRQmo5WkVqRmxKZmNHaDNNSUVkai1QcGY1aUhQanJ5Nl94bVM2Mkg2R0FXVWczZ1AwUlNnajdCWmIxT0FyUC1jSXZEdGtsMkhjVGNkcmVDYmtVWGJBV19PM3BLLU1MOEpUZ25SeXpiY2JKbV9RVmd5Mk1Ia1RGdDQ?oc=5",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 5,
+          "score": 283,
+          "title": "Microsoft Freezes Hiring in Major Cloud and Sales Groups",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnhyZGtrajBEWEtEdEhVTEFXZlZRQmo5WkVqRmxKZmNHaDNNSUVkai1QcGY1aUhQanJ5Nl94bVM2Mkg2R0FXVWczZ1AwUlNnajdCWmIxT0FyUC1jSXZEdGtsMkhjVGNkcmVDYmtVWGJBV19PM3BLLU1MOEpUZ25SeXpiY2JKbV9RVmd5Mk1Ia1RGdDQ?oc=5",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 9,
+          "score": 279,
+          "title": "Microsoft Freezes Hiring in Major Cloud and Sales Groups",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnhyZGtrajBEWEtEdEhVTEFXZlZRQmo5WkVqRmxKZmNHaDNNSUVkai1QcGY1aUhQanJ5Nl94bVM2Mkg2R0FXVWczZ1AwUlNnajdCWmIxT0FyUC1jSXZEdGtsMkhjVGNkcmVDYmtVWGJBV19PM3BLLU1MOEpUZ25SeXpiY2JKbV9RVmd5Mk1Ia1RGdDQ?oc=5",
+          "state": "continuation; rank down #5 → #9"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 10,
+          "score": 275,
+          "title": "Microsoft Freezes Hiring in Major Cloud and Sales Groups",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnhyZGtrajBEWEtEdEhVTEFXZlZRQmo5WkVqRmxKZmNHaDNNSUVkai1QcGY1aUhQanJ5Nl94bVM2Mkg2R0FXVWczZ1AwUlNnajdCWmIxT0FyUC1jSXZEdGtsMkhjVGNkcmVDYmtVWGJBV19PM3BLLU1MOEpUZ25SeXpiY2JKbV9RVmd5Mk1Ia1RGdDQ?oc=5",
+          "state": "continuation; rank down #9 → #10"
+        }
+      ]
+    },
+    "claude-openclaw-gaining": {
+      "event_key": "claude-openclaw-gaining",
+      "first_seen": "2026-03-26T21:13:00+00:00",
+      "last_seen": "2026-03-26T21:13:00+00:00",
+      "first_title": "Claude is Gaining on OpenClaw",
+      "latest_title": "Claude is Gaining on OpenClaw",
+      "latest_norm_title": "claude is gaining on openclaw",
+      "latest_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazd1ZGdaVUhLWVN1YWwybUZGbGt4TXQ5RVg4REozMU9pRjRoSndPaDVoeDdYQ0dWcVpIZ2JUR3dZNE4wN1l2cXU4WUxuUTdQSEFHdVd3QTdKb1NjV01ocUtxODVRNmRlNmhOeXhVd0VfWDk1VVN6UXlONnJuSVVybC13?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "claude",
+        "gaining",
+        "openclaw"
+      ],
+      "appearances": 1,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T21:13:00+00:00",
+          "rank": 10,
+          "score": 274,
+          "title": "Claude is Gaining on OpenClaw",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazd1ZGdaVUhLWVN1YWwybUZGbGt4TXQ5RVg4REozMU9pRjRoSndPaDVoeDdYQ0dWcVpIZ2JUR3dZNE4wN1l2cXU4WUxuUTdQSEFHdVd3QTdKb1NjV01ocUtxODVRNmRlNmhOeXhVd0VfWDk1VVN6UXlONnJuSVVybC13?oc=5",
+          "state": "new story"
+        }
+      ]
+    },
+    "playground-playlist-apple-bad-music": {
+      "event_key": "playground-playlist-apple-bad-music",
+      "first_seen": "2026-03-26T22:13:00+00:00",
+      "last_seen": "2026-03-27T06:19:00+00:00",
+      "first_title": "Apple’s AI Playlist Playground is bad at music",
+      "latest_title": "Apple’s AI Playlist Playground is bad at music",
+      "latest_norm_title": "apple s ai playlist playground is bad at music",
+      "latest_url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+      "latest_domain": "www.theverge.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "apple",
+        "bad",
+        "music",
+        "playground",
+        "playlist"
+      ],
+      "appearances": 9,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T22:13:00+00:00",
+          "rank": 1,
+          "score": 297,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 4,
+          "score": 293,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; rank down #1 → #4"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 5,
+          "score": 288,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 8,
+          "score": 284,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; rank down #5 → #8"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 9,
+          "score": 280,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; rank down #8 → #9"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 9,
+          "score": 276,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 9,
+          "score": 271,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 9,
+          "score": 267,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 10,
+          "score": 263,
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "state": "continuation; rank down #9 → #10"
+        }
+      ]
+    },
+    "wikipedia-down-article-cracks-use": {
+      "event_key": "wikipedia-down-article-cracks-use",
+      "first_seen": "2026-03-26T23:13:00+00:00",
+      "last_seen": "2026-03-27T15:16:00+00:00",
+      "first_title": "Wikipedia cracks down on the use of AI in article writing",
+      "latest_title": "Wikipedia cracks down on the use of AI in article writing",
+      "latest_norm_title": "wikipedia cracks down on the use of ai in article writing",
+      "latest_url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "latest_domain": "techcrunch.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "article",
+        "cracks",
+        "down",
+        "use",
+        "wikipedia",
+        "writing"
+      ],
+      "appearances": 11,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 1,
+          "score": 297,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 2,
+          "score": 292,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; rank down #1 → #2"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 5,
+          "score": 288,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; rank down #2 → #5"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 6,
+          "score": 284,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 6,
+          "score": 280,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 6,
+          "score": 276,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 6,
+          "score": 271,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 7,
+          "score": 267,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 8,
+          "score": 237,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; rank down #7 → #8"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 8,
+          "score": 233,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 8,
+          "score": 229,
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "state": "continuation; holds #8"
+        }
+      ]
+    },
+    "import-google-memory-making-gemini": {
+      "event_key": "import-google-memory-making-gemini",
+      "first_seen": "2026-03-26T23:13:00+00:00",
+      "last_seen": "2026-03-27T15:16:00+00:00",
+      "first_title": "Google is making it easier to import another AI’s memory into Gemini",
+      "latest_title": "Google is making it easier to import another AI’s memory into Gemini",
+      "latest_norm_title": "google is making it easier to import another ai s memory into gemini",
+      "latest_url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "latest_domain": "www.theverge.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "another",
+        "easier",
+        "gemini",
+        "google",
+        "import",
+        "making",
+        "memory"
+      ],
+      "appearances": 11,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 2,
+          "score": 296,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 3,
+          "score": 292,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; rank down #2 → #3"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 6,
+          "score": 288,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; rank down #3 → #6"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 7,
+          "score": 284,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 7,
+          "score": 279,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 7,
+          "score": 275,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 7,
+          "score": 271,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 8,
+          "score": 267,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; rank down #7 → #8"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 9,
+          "score": 237,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; rank down #8 → #9"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 9,
+          "score": 233,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; holds #9"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 9,
+          "score": 229,
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "state": "continuation; holds #9"
+        }
+      ]
+    },
+    "reportedly-siri-plug-allow-other": {
+      "event_key": "reportedly-siri-plug-allow-other",
+      "first_seen": "2026-03-26T23:13:00+00:00",
+      "last_seen": "2026-03-27T15:16:00+00:00",
+      "first_title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "latest_title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "latest_norm_title": "apple will reportedly allow other ai chatbots to plug into siri",
+      "latest_url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "latest_domain": "www.theverge.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "allow",
+        "apple",
+        "chatbots",
+        "other",
+        "plug",
+        "reportedly",
+        "siri"
+      ],
+      "appearances": 11,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 3,
+          "score": 295,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 4,
+          "score": 291,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; rank down #3 → #4"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 7,
+          "score": 287,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; rank down #4 → #7"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 8,
+          "score": 283,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; rank down #7 → #8"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 8,
+          "score": 278,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 8,
+          "score": 274,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 8,
+          "score": 270,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; holds #8"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 9,
+          "score": 266,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; rank down #8 → #9"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 10,
+          "score": 236,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; rank down #9 → #10"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 10,
+          "score": 232,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; holds #10"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 10,
+          "score": 228,
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "state": "continuation; holds #10"
+        }
+      ]
+    },
+    "ads-million-revenue-pilot-surpasses": {
+      "event_key": "ads-million-revenue-pilot-surpasses",
+      "first_seen": "2026-03-26T23:13:00+00:00",
+      "last_seen": "2026-03-27T05:19:00+00:00",
+      "first_title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+      "latest_title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+      "latest_norm_title": "openai surpasses 100 million annualized revenue from ads pilot",
+      "latest_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "100",
+        "ads",
+        "annualized",
+        "million",
+        "openai",
+        "pilot",
+        "revenue",
+        "surpasses"
+      ],
+      "appearances": 7,
+      "status": "inactive",
+      "timeline": [
+        {
+          "run": "2026-03-26T23:13:00+00:00",
+          "rank": 5,
+          "score": 292,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 6,
+          "score": 288,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 9,
+          "score": 284,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "continuation; rank down #6 → #9"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 10,
+          "score": 280,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "continuation; rank down #9 → #10"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 10,
+          "score": 275,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "continuation; holds #10"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 10,
+          "score": 271,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "continuation; holds #10"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 10,
+          "score": 267,
+          "title": "OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUlTaGtIYVMyc3NHV2xGWUEtVVd6VllFbFNSSVh4a2Y5UWlDV3dKSEVPcmFSRVlCa3JUMHVNczJXZmhrZFhBX3AwRENVeXlpTUNYUWRoVWtTMVpuZkJhU1FUT3RndUJUV3BmdU5CeEo0OUkyUWtMcDVaSGo0bUJKejlSVHZwcV9NNkNpbmpScDlEaXdOTWMxWFBDV3BZeEtFdUEtWGxMNjZtUUVN?oc=5",
+          "state": "continuation; holds #10"
+        }
+      ]
+    },
+    "anthropic-quarter-discusses-going-fourth": {
+      "event_key": "anthropic-quarter-discusses-going-fourth",
+      "first_seen": "2026-03-27T00:13:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+      "latest_title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+      "latest_norm_title": "anthropic discusses going public as soon as the fourth quarter",
+      "latest_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "anthropic",
+        "discusses",
+        "fourth",
+        "going",
+        "public",
+        "quarter",
+        "soon"
+      ],
+      "appearances": 11,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T00:13:00+00:00",
+          "rank": 1,
+          "score": 294,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 4,
+          "score": 290,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; rank down #1 → #4"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 5,
+          "score": 285,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 5,
+          "score": 281,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 5,
+          "score": 277,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 5,
+          "score": 273,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 6,
+          "score": 268,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 7,
+          "score": 239,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; rank down #6 → #7"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 7,
+          "score": 235,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 7,
+          "score": 230,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; holds #7"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 10,
+          "score": 226,
+          "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5",
+          "state": "continuation; rank down #7 → #10"
+        }
+      ]
+    },
+    "temporarily-anthropic-block-pentagon-sides": {
+      "event_key": "temporarily-anthropic-block-pentagon-sides",
+      "first_seen": "2026-03-27T01:13:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "latest_title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "latest_norm_title": "judge sides with anthropic to temporarily block the pentagon s ban",
+      "latest_url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "latest_domain": "www.theverge.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "anthropic",
+        "ban",
+        "block",
+        "judge",
+        "pentagon",
+        "sides",
+        "temporarily"
+      ],
+      "appearances": 10,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 1,
+          "score": 300,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 2,
+          "score": 295,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; rank down #1 → #2"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 2,
+          "score": 291,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 2,
+          "score": 287,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 2,
+          "score": 283,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 2,
+          "score": 278,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 3,
+          "score": 249,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; rank down #2 → #3"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 3,
+          "score": 245,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 3,
+          "score": 240,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 6,
+          "score": 236,
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "state": "continuation; rank down #3 → #6"
+        }
+      ]
+    },
+    "personal-information-gemini-can-chats": {
+      "event_key": "personal-information-gemini-can-chats",
+      "first_seen": "2026-03-27T01:13:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "latest_title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "latest_norm_title": "you can now transfer your chats and personal information from other chatbots directly into gemini",
+      "latest_url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "latest_domain": "techcrunch.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "can",
+        "chatbots",
+        "chats",
+        "directly",
+        "gemini",
+        "information",
+        "now",
+        "other",
+        "personal",
+        "transfer",
+        "you",
+        "your"
+      ],
+      "appearances": 10,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T01:13:00+00:00",
+          "rank": 2,
+          "score": 296,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 3,
+          "score": 292,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; rank down #2 → #3"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 3,
+          "score": 288,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 3,
+          "score": 284,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 3,
+          "score": 279,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 3,
+          "score": 275,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; holds #3"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 4,
+          "score": 246,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; rank down #3 → #4"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 4,
+          "score": 241,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 4,
+          "score": 237,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 7,
+          "score": 233,
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "state": "continuation; rank down #4 → #7"
+        }
+      ]
+    },
+    "crypto-white-david-longer-house": {
+      "event_key": "crypto-white-david-longer-house",
+      "first_seen": "2026-03-27T01:13:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "latest_title": "David Sacks Leaves White House AI and Crypto Czar Role",
+      "latest_norm_title": "david sacks leaves white house ai and crypto czar role",
+      "latest_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "crypto",
+        "czar",
+        "david",
+        "house",
+        "leaves",
+        "role",
+        "sacks",
+        "white"
+      ],
+      "appearances": 15,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 4,
+          "score": 283,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 4,
+          "score": 279,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 4,
+          "score": 275,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; holds #4"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 5,
+          "score": 274,
+          "title": "David Sacks Leaves White House AI and Crypto Czar Role",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5",
+          "state": "continuation; rank down #4 → #5"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 5,
+          "score": 245,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; holds #5"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 6,
+          "score": 245,
+          "title": "David Sacks Leaves White House AI and Crypto Czar Role",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5",
+          "state": "continuation; rank down #5 → #6"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 5,
+          "score": 241,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; rank up #6 → #5"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 6,
+          "score": 241,
+          "title": "David Sacks Leaves White House AI and Crypto Czar Role",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 5,
+          "score": 237,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; rank up #6 → #5"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 6,
+          "score": 236,
+          "title": "David Sacks Leaves White House AI and Crypto Czar Role",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5",
+          "state": "continuation; holds #6"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 8,
+          "score": 232,
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "state": "continuation; rank down #6 → #8"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 9,
+          "score": 232,
+          "title": "David Sacks Leaves White House AI and Crypto Czar Role",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5",
+          "state": "continuation; rank down #6 → #9"
+        }
+      ]
+    },
+    "injunction-against-department-wins-administration": {
+      "event_key": "injunction-against-department-wins-administration",
+      "first_seen": "2026-03-27T02:13:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "latest_title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "latest_norm_title": "anthropic wins injunction against trump administration over defense department saga",
+      "latest_url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "latest_domain": "techcrunch.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "administration",
+        "against",
+        "anthropic",
+        "defense",
+        "department",
+        "injunction",
+        "over",
+        "saga",
+        "trump",
+        "wins"
+      ],
+      "appearances": 9,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T02:13:00+00:00",
+          "rank": 1,
+          "score": 298,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T03:13:00+00:00",
+          "rank": 1,
+          "score": 294,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-27T04:13:00+00:00",
+          "rank": 1,
+          "score": 290,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-27T05:19:00+00:00",
+          "rank": 1,
+          "score": 286,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-27T06:19:00+00:00",
+          "rank": 1,
+          "score": 282,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 2,
+          "score": 252,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; rank down #1 → #2"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 2,
+          "score": 248,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 2,
+          "score": 244,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; holds #2"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 5,
+          "score": 239,
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "state": "continuation; rank down #2 → #5"
+        }
+      ]
+    },
+    "anthropic-mythos-advanced-discusses-claude": {
+      "event_key": "anthropic-mythos-advanced-discusses-claude",
+      "first_seen": "2026-03-27T13:16:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+      "latest_title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+      "latest_norm_title": "anthropic discusses q4 ipo preps claude mythos advanced ai",
+      "latest_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5XS1V2U1JLN3hGdDVKaXRFUG1OVnN0cUtFRzdqRlVOT0dWVzUtVTdXZllUQ3FiaV9vdDRacWRFWjlDTDZETFZkVHhUbXNiWk9ZZ1dlNG9kV0FqbUp0bFFfMWhMSllvRTBmYWFaR0hDRGF4NnNsdWk1QjdHekQyTzgzY0hjcHFmeHdKQVN1UnFxMFF4OWlCLWVOOWtKUi15VEc3UzRwTVJfV0Y1?oc=5",
+      "latest_domain": "news.google.com",
+      "theme": "general-ai-signal",
+      "tokens": [
+        "advanced",
+        "anthropic",
+        "claude",
+        "discusses",
+        "ipo",
+        "mythos",
+        "preps"
+      ],
+      "appearances": 4,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T13:16:00+00:00",
+          "rank": 1,
+          "score": 265,
+          "title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5XS1V2U1JLN3hGdDVKaXRFUG1OVnN0cUtFRzdqRlVOT0dWVzUtVTdXZllUQ3FiaV9vdDRacWRFWjlDTDZETFZkVHhUbXNiWk9ZZ1dlNG9kV0FqbUp0bFFfMWhMSllvRTBmYWFaR0hDRGF4NnNsdWk1QjdHekQyTzgzY0hjcHFmeHdKQVN1UnFxMFF4OWlCLWVOOWtKUi15VEc3UzRwTVJfV0Y1?oc=5",
+          "state": "new story"
+        },
+        {
+          "run": "2026-03-27T14:16:00+00:00",
+          "rank": 1,
+          "score": 261,
+          "title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5XS1V2U1JLN3hGdDVKaXRFUG1OVnN0cUtFRzdqRlVOT0dWVzUtVTdXZllUQ3FiaV9vdDRacWRFWjlDTDZETFZkVHhUbXNiWk9ZZ1dlNG9kV0FqbUp0bFFfMWhMSllvRTBmYWFaR0hDRGF4NnNsdWk1QjdHekQyTzgzY0hjcHFmeHdKQVN1UnFxMFF4OWlCLWVOOWtKUi15VEc3UzRwTVJfV0Y1?oc=5",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-27T15:16:00+00:00",
+          "rank": 1,
+          "score": 256,
+          "title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5XS1V2U1JLN3hGdDVKaXRFUG1OVnN0cUtFRzdqRlVOT0dWVzUtVTdXZllUQ3FiaV9vdDRacWRFWjlDTDZETFZkVHhUbXNiWk9ZZ1dlNG9kV0FqbUp0bFFfMWhMSllvRTBmYWFaR0hDRGF4NnNsdWk1QjdHekQyTzgzY0hjcHFmeHdKQVN1UnFxMFF4OWlCLWVOOWtKUi15VEc3UzRwTVJfV0Y1?oc=5",
+          "state": "continuation; holds #1"
+        },
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 3,
+          "score": 252,
+          "title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5XS1V2U1JLN3hGdDVKaXRFUG1OVnN0cUtFRzdqRlVOT0dWVzUtVTdXZllUQ3FiaV9vdDRacWRFWjlDTDZETFZkVHhUbXNiWk9ZZ1dlNG9kV0FqbUp0bFFfMWhMSllvRTBmYWFaR0hDRGF4NnNsdWk1QjdHekQyTzgzY0hjcHFmeHdKQVN1UnFxMFF4OWlCLWVOOWtKUi15VEc3UzRwTVJfV0Y1?oc=5",
+          "state": "continuation; rank down #1 → #3"
+        }
+      ]
+    },
+    "vcs-openai-billions-sora-betting": {
+      "event_key": "vcs-openai-billions-sora-betting",
+      "first_seen": "2026-03-27T16:16:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+      "latest_title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+      "latest_norm_title": "vcs are betting billions on ai s next wave so why is openai killing sora",
+      "latest_url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+      "latest_domain": "techcrunch.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "betting",
+        "billions",
+        "killing",
+        "next",
+        "openai",
+        "sora",
+        "vcs",
+        "wave",
+        "why"
+      ],
+      "appearances": 1,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 1,
+          "score": 299,
+          "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+          "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+          "state": "new story"
+        }
+      ]
+    },
+    "court-down-shuts-out-sora": {
+      "event_key": "court-down-shuts-out-sora",
+      "first_seen": "2026-03-27T16:16:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "latest_title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "latest_norm_title": "openai shuts down sora while meta gets shut out in court",
+      "latest_url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "latest_domain": "techcrunch.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "court",
+        "down",
+        "gets",
+        "meta",
+        "openai",
+        "out",
+        "shut",
+        "shuts",
+        "sora",
+        "while"
+      ],
+      "appearances": 1,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 2,
+          "score": 290,
+          "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+          "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+          "state": "new story"
+        }
+      ]
+    },
+    "doing-here-instead-done-sacks": {
+      "event_key": "doing-here-instead-done-sacks",
+      "first_seen": "2026-03-27T16:16:00+00:00",
+      "last_seen": "2026-03-27T16:16:00+00:00",
+      "first_title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "latest_title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "latest_norm_title": "david sacks is done as ai czar here s what he s doing instead",
+      "latest_url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+      "latest_domain": "techcrunch.com",
+      "theme": "data-center-politics",
+      "tokens": [
+        "czar",
+        "david",
+        "doing",
+        "done",
+        "here",
+        "instead",
+        "sacks"
+      ],
+      "appearances": 1,
+      "status": "active",
+      "timeline": [
+        {
+          "run": "2026-03-27T16:16:00+00:00",
+          "rank": 4,
+          "score": 240,
+          "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+          "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+          "state": "new story"
+        }
+      ]
+    }
+  },
+  "last_top10": [
+    {
+      "rank": 1,
+      "event_key": "vcs-openai-billions-sora-betting",
+      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+      "score": 299,
+      "published": "2026-03-27T15:40:19+00:00",
+      "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/"
+    },
+    {
+      "rank": 2,
+      "event_key": "court-down-shuts-out-sora",
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "score": 290,
+      "published": "2026-03-27T13:30:00+00:00",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/"
+    },
+    {
+      "rank": 3,
+      "event_key": "anthropic-mythos-advanced-discusses-claude",
+      "title": "Anthropic Discusses Q4 IPO, Preps ‘Claude Mythos’ Advanced AI",
+      "score": 252,
+      "published": "2026-03-27T04:24:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5XS1V2U1JLN3hGdDVKaXRFUG1OVnN0cUtFRzdqRlVOT0dWVzUtVTdXZllUQ3FiaV9vdDRacWRFWjlDTDZETFZkVHhUbXNiWk9ZZ1dlNG9kV0FqbUp0bFFfMWhMSllvRTBmYWFaR0hDRGF4NnNsdWk1QjdHekQyTzgzY0hjcHFmeHdKQVN1UnFxMFF4OWlCLWVOOWtKUi15VEc3UzRwTVJfV0Y1?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_key": "doing-here-instead-done-sacks",
+      "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+      "score": 240,
+      "published": "2026-03-27T01:26:40+00:00",
+      "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/"
+    },
+    {
+      "rank": 5,
+      "event_key": "injunction-against-department-wins-administration",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "score": 239,
+      "published": "2026-03-27T01:18:38+00:00",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/"
+    },
+    {
+      "rank": 6,
+      "event_key": "temporarily-anthropic-block-pentagon-sides",
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "score": 236,
+      "published": "2026-03-27T00:33:44+00:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction"
+    },
+    {
+      "rank": 7,
+      "event_key": "personal-information-gemini-can-chats",
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "score": 233,
+      "published": "2026-03-26T23:47:56+00:00",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+    },
+    {
+      "rank": 8,
+      "event_key": "crypto-white-david-longer-house",
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "score": 232,
+      "published": "2026-03-26T23:40:22+00:00",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar"
+    },
+    {
+      "rank": 9,
+      "event_key": "crypto-white-david-longer-house",
+      "title": "David Sacks Leaves White House AI and Crypto Czar Role",
+      "score": 232,
+      "published": "2026-03-26T23:35:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0hVenhTV3pWeW5TTVNIQ3lEMEZYVWFMdUVrd0ZlY21NV0VHd2dWcFRYRFVMTExTV091YmdJUV9Ya3VXNEc3aE1Ha204Q2ZkenpkYnlsLVc3TXRKU3lkREFPRXdRYXFES1RxQWh5Unp1ai1hLW8xQ21ZYVNZTTJCM08zRE8yZHc2bktVMTBEbG10Tks4N2c?oc=5"
+    },
+    {
+      "rank": 10,
+      "event_key": "anthropic-quarter-discusses-going-fourth",
+      "title": "Anthropic Discusses Going Public as Soon as the Fourth Quarter",
+      "score": 226,
+      "published": "2026-03-26T22:10:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVNIOEZtWF9pRnRQWlpKNDl6WVo3WlB1ZWlhLW1jVUg0ZzBuZ2pPYms2T2dVNUdkb2NSd1FWd0o5WVBoQ1BnLXUzQ0RYTU82WHNjdGs1eDdtYkR0TWo4Rl91Rm9PUGctVFBmdTV6SjR3a1g0dWJkNEhucWlYZ1NjN1hoNl9wVWxia3RXeGZXcUxxYzEzR3c4?oc=5"
+    }
+  ],
+  "last_run_utc": "2026-03-27T16:16:00+00:00"
+}

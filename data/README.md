@@ -2,11 +2,9 @@
 
 This tree isolates operational data from runtime doctrine.
 
-- `crm/` for active CRM databases and exports
+- `connectors/` for raw pulls and connector-side machine state
 - `imports/` for raw incoming data
-- `runs/` for generated run artifacts and reports
-- `tmp/` for disposable working files
-- `archive/` for superseded data worth keeping
+- `normalized/` for machine-readable transformed state
 
 Do not keep loose data files at the workspace root.
 This tree is non-canonical support storage. It does not define business truth.

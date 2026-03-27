@@ -1,0 +1,1796 @@
+{
+  "runId": "business-2026-03-21T10-13-59-995Z",
+  "mailboxName": "business",
+  "mailboxAccount": "adam@xvadur.com",
+  "mode": "dry-run",
+  "startedAt": "2026-03-21T10:13:59.991Z",
+  "finishedAt": "2026-03-21T10:14:06.603Z",
+  "fetchQuery": "in:inbox -in:chats newer_than:7d",
+  "counts": {
+    "threadsFetched": 10,
+    "draftsPlanned": 1,
+    "draftsCreated": 0
+  },
+  "items": [
+    {
+      "threadId": "19d0d86a95f3cfcf",
+      "messageId": "19d0d86a95f3cfcf",
+      "normalized": {
+        "threadId": "19d0d86a95f3cfcf",
+        "messageId": "19d0d86a95f3cfcf",
+        "subject": "My OpenClaw agent wouldn't stay autonomous. Here's what fixed it.",
+        "from": "\"Seb from Claw's Newsletter\" <clawsnewsletter@substack.com>",
+        "to": "adam@xvadur.com",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Fri, 20 Mar 2026 23:13:41 +0000",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_UPDATES",
+          "INBOX"
+        ],
+        "snippet": "Thank you for subscribing to Claw&#39;s Newsletter ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "Thank you for subscribing to Claw's Newsletter &#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173;&#847; &#8199; &#173; If you&#8217;ve set up automations in OpenClaw and they worked for a few hours then stopped silently, this is for you. The agent forgets its instructions, cron jobs show up empty, and you end up babysitting something that was supposed to be autonomous. I had the same problem. It took me a week of trial and error to get my agent to actually run on its own. If you&#8217;re hitting the same wall, here&#8217;s what fixed it for me.\n One thing before we start: don&#8217;t use OpenClaw to configure itself. Use Claude Code or any coding agent to write the skill files, the rules, the scripts. Then let OpenClaw execute them. OpenClaw is good at running systems but less at building them. Sometimes when I asked it to write its own config, something woul\n...[truncated]",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-21 00:13",
+            "from": "\"Seb from Claw's Newsletter\" <clawsnewsletter@substack.com>",
+            "id": "19d0d86a95f3cfcf",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_UPDATES",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "My OpenClaw agent wouldn't stay autonomous. Here's what fixed it."
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1967843gdb;        Fri, 20 Mar 2026 16:13:42 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:620a:4720:b0:8cd:76fa:1bf3 with SMTP id af79cd13be357-8cfc80968aamr709257985a.64.1774048422214;        Fri, 20 Mar 2026 16:13:42 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1774048422; cv=none;        d=google.com; s=arc-20240605;        b=ZBHGOjzwWViNnMsXq5OTRCoAXKSAwPueZFHSx5brmsGIRmpm+pxIQoLxGTWof1lHDV         63LLZWCX7IdSckWz1FMCMLtlvfouctrAINf7TplGlgsAx5Nhvahs9CERZA7HWB4Aohgu         Y8FAkAjALuGGvKSPxlMVCtjxTWC+kyda5l2O+VsZvBi7vB90W0vNPsjqIYxDI5Beqyg3         ChlBIdwr7WFL+VGwBh5iiKFInaczJzRdnaqR2JZPoLcVlCz4SVBEmTupKlF/ZmXrsXcg         9AtXm83FipEgfo+I2uPJbeZLwZxUCTPzes8dosepoT+azhQnzobX6DocdUMf3RpYnB5d         7oAQ=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=content-transfer-encoding:list-id:list-unsubscribe:list-url         :list-owner:sender:feedback-id:date:message-id:to:from:subject         :mime-version:dkim-signature;        bh=gSoKE1rPyEN3TOXG7cc1cWPkGsY8KvZlFb0xECKY2kE=;        fh=aM446ez/INoVcJvxE285N6rPFAEQaf7ZadNX7RTYnN8=;        b=JOxU2B7uoUesh4hWjt3FFH6fwP7Otw/0K7JG5ntGxjZ0t9FdbtlQl/0lPkWhJLYKIR         ayB3QjQFjjs0nkpIdvAJAguivUYtAtDAuGqzjXLH+qxgoShChxP3nPpcMSPffWo1nWU+         i2PkL4NMoC5XUashg+GjsX0/cB85Wy5r/A5KyY4XMzfqv/OMVSW/8AWCFboOwNWOgH/L         faeSi0LoOkNWJl/gLzKUh7huALgnREYnN2IrVJuV8k4XJGnE5rKh1AU1M/EtUHiWTWqj         f3D8eGZ4pTA+6b46SlUz8hwGwou5NIZ0yAGWk0p0ks1it5rYIFuv/951qKtD8L998hLm         i8sA==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@mg-d0.substack.com header.s=mailo header.b=\"dnETms/M\";       spf=pass (google.com: domain of bounce+7b2644.63af5d-adam=xvadur.com@mg-d0.substack.com designates 159.112.244.33 as permitted sender) smtp.mailfrom=\"bounce+7b2644.63af5d-adam=xvadur.com@mg-d0.substack.com\";       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=substack.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<bounce+7b2644.63af5d-adam=xvadur.com@mg-d0.substack.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from v533.v5375b7fa.use4.send.mailgun.net (v533.v5375b7fa.use4.send.mailgun.net. [159.112.244.33])        by mx.google.com with UTF8SMTPS id af79cd13be357-8cfc90cb763si454115685a.237.2026.03.20.16.13.41        for <adam@xvadur.com>        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);        Fri, 20 Mar 2026 16:13:42 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of bounce+7b2644.63af5d-adam=xvadur.com@mg-d0.substack.com designates 159.112.244.33 as permitted sender) client-ip=159.112.244.33;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@mg-d0.substack.com header.s=mailo header.b=\"dnETms/M\";       spf=pass (google.com: domain of bounce+7b2644.63af5d-adam=xvadur.com@mg-d0.substack.com designates 159.112.244.33 as permitted sender) smtp.mailfrom=\"bounce+7b2644.63af5d-adam=xvadur.com@mg-d0.substack.com\";       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=substack.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "a=rsa-sha256; v=1; c=relaxed/relaxed; d=mg-d0.substack.com; q=dns/txt; s=mailo; t=1774048421; x=1774055621; h=Content-Transfer-Encoding: Content-Type: List-Id: List-Unsubscribe: List-Owner: Sender: Sender: Date: Message-Id: To: To: From: From: Subject: Subject: Mime-Version; bh=gSoKE1rPyEN3TOXG7cc1cWPkGsY8KvZlFb0xECKY2kE=; b=dnETms/MLc0IxA+IjM9Ww0JzBVE2pYVwQJcveqAEiSEMB5Z2G19nEUITiaBTGY9fl8+OWO92TLbimpd5ieaQ57vNmJB9W6OyIR4Ecn0nQ702JjS9UiexBkHk5WmUUDVkUvPM+w2GNfQrEQjK9Pdzzo964455HA++Zr6PIBr4/1A="
+            },
+            {
+              "name": "X-Mailgun-Sid",
+              "value": "WyJhMWZmNiIsImFkYW1AeHZhZHVyLmNvbSIsIjYzYWY1ZCJd"
+            },
+            {
+              "name": "Received",
+              "value": "by 3254f2d435a6a688270b74cef53834c3acf6dd7453c0c9536b54a7d2f79a0d28 with HTTP id 69bdd4a50cfebf021a5ec758; Fri, 20 Mar 2026 23:13:41 GMT"
+            },
+            {
+              "name": "X-Mailgun-Sending-Ip",
+              "value": "159.112.244.33"
+            },
+            {
+              "name": "Mime-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Subject",
+              "value": "My OpenClaw agent wouldn't stay autonomous. Here's what fixed it."
+            },
+            {
+              "name": "From",
+              "value": "\"Seb from Claw's Newsletter\" <clawsnewsletter@substack.com>"
+            },
+            {
+              "name": "To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "X-Mailgun-Tag",
+              "value": "free-welcome"
+            },
+            {
+              "name": "Message-Id",
+              "value": "<20260320231341.3.3fabeb7bd0ce51b0.91ciu7hh@mg-d0.substack.com>"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 20 Mar 2026 23:13:41 +0000"
+            },
+            {
+              "name": "Feedback-Id",
+              "value": "no-post:cat-free-welcome:pub-8174337:substack"
+            },
+            {
+              "name": "Sender",
+              "value": "\"Seb from Claw's Newsletter\" <clawsnewsletter@substack.com>"
+            },
+            {
+              "name": "List-Owner",
+              "value": "<mailto:clawsnewsletter@substack.com>"
+            },
+            {
+              "name": "List-Url",
+              "value": "<https://clawsnewsletter.substack.com/>"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://clawsnewsletter.substack.com/action/disable_email?token=eyJ1c2VyX2lkIjo0ODE0MjM0MDgsInBvc3RfaWQiOm51bGwsImlhdCI6MTc3NDA0ODQyMSwiZXhwIjoxODA1NTg0NDIxLCJpc3MiOiJwdWItODE3NDMzNyIsInN1YiI6ImRpc2FibGVfZW1haWwifQ.d7saIvlrRHPrmm0N2lXk-vJmEVxv5-oIdxfDjM9PZhg>"
+            },
+            {
+              "name": "List-Id",
+              "value": "<clawsnewsletter.substack.com>"
+            },
+            {
+              "name": "X-Mailgun-Variables",
+              "value": "{\"category\": \"free-welcome\", \"email_generated_at\": \"1774048421574\", \"is_freemail\": \"true\", \"pub_community_enabled\": \"true\", \"publication_id\": \"8174337\", \"subdomain\": \"clawsnewsletter\", \"user_id\": \"481423408\"}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=\"utf-8\""
+            },
+            {
+              "name": "Content-Transfer-Encoding",
+              "value": "quoted-printable"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "newsletter",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'newsletter'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "newsletter",
+        "addLabels": [
+          "triage/processed",
+          "triage/newsletter"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d0d1350a53d44f",
+      "messageId": "19d0d1350a53d44f",
+      "normalized": {
+        "threadId": "19d0d1350a53d44f",
+        "messageId": "19d0d1350a53d44f",
+        "subject": "Magentus recently posted",
+        "from": "LinkedIn <updates-noreply@linkedin.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Fri, 20 Mar 2026 21:07:36 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_UPDATES",
+          "INBOX"
+        ],
+        "snippet": "We are proud to announce the launch of our UK Advisory Board: a significant… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "Magentus shared a post: We are proud to announce the launch of our UK Advisory Board: a significant step in our long-term commitment to the NHS and the patients it…\r\nLIKE PRAISE 45, 1 Comment\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439606628112543744?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4YmNlZDg0NDljYWE4YzYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlZGIwODA1YzhmZmJiNjEyYjRmZTM4ZWM2NTZmNjQxNTc3NmZjMGNiZDdiZjQzODMsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          Kitware Europe shared a post: ActiViz 9.6 has been released 📦 🎉 !\r\n\r\nAlongside the major enhancements introduced with VTK 9.6.0, this Activiz release also expands support for…\r\nLIKE 5\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439596637213224960?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4YmNlZDg0NDljYWE4YzYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlZGIwODA1YzhmZmJiNjEyYjRmZTM4ZWM2NTZmNjQxNTc3NmZjMGNiZDdiZjQzODMsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          NEJM AI shared a post: Sleep underpins cognition, disease prevention, and overall brain health, yet objective, integrative biomarkers of brain health remain lacking…\r\nLIKE EMPATHY APPRECIATION 22\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439301986774249472?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4YmNlZDg0NDljYWE4YzYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlZGIwODA1YzhmZmJiNjEyYjRmZTM4ZWM2NTZmNjQxNTc3NmZjMGNiZDdiZjQzODMsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          NVIDIA Healthcare shared a post: ✨ New physical AI datasets, models, and blueprints for healthcare robotics are here! Here are some tools that generate synthetic data, evaluate…\r\nLIKE PRAISE EMPATHY 248, 4 Comments\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439665598516776960?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4YmNlZDg0NDljYWE4YzYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlZGIwODA1YzhmZmJiNjEyYjRmZTM4ZWM2NTZmNjQxNTc3NmZjMGNiZDdiZjQzODMsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          Philips Capsule shared a post: In clinical environments where every minute counts, having a complete, real-time view of patient data can make all the difference. With Philips…\r\nLIKE 41\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439619110830804992?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4YmNlZDg0NDljYWE4YzYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlZGIwODA1YzhmZmJiNjEyYjRmZTM4ZWM2NTZmNjQxNTc3NmZjMGNiZDdiZjQzODMsMSwx\r\n        \r\n\r\n\r\nSee more on LinkedIn: https://www.linkedin.com/comm/feed/?lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-footer_promo-0-footer_see_all&trkEmail=eml-email_network_conversations_01-footer_promo-0-footer_see_all-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4YmNlZDg0NDljYWE4YzYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlZGIwODA1YzhmZmJiNjEyYjRmZTM4ZWM2NTZmNjQxNTc3NmZjM\n...[truncated]",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-20 22:07",
+            "from": "LinkedIn <updates-noreply@linkedin.com>",
+            "id": "19d0d1350a53d44f",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_UPDATES",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "Magentus recently posted"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1921648gdb;        Fri, 20 Mar 2026 14:07:43 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a00:3c8e:b0:81e:f280:f341 with SMTP id d2e1a72fcca58-82a7a7e5e5cmr6747025b3a.6.1774040862871;        Fri, 20 Mar 2026 14:07:42 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1774040862; cv=none;        d=google.com; s=arc-20240605;        b=IwVvA24HY8dNCLQi+G7cLHvuRzn95ypc+4+nbhy5Q0nOUU3M2bSlGmVERUBNwPJ11A         OmbCbd+b5YEKLAcxyvlDx0XQVDwFK4tqIuAlirx+MSgKiDo2cj3zZtJiheFeeU5EEkUu         /WlG0wmPaHqWpCCmMKdQyD1MckDkESza3IlUjO3zsJgxegiuF766Viy8xRrF0AE5nC2C         pV0dj2kUtSW48XtT1IwZmaMF72AZ8+GM/vfqk/j+25rQI4oXcJIfWbd+hwRCNOd4AFR+         7LNaEY+AwcjKrauXwyYWGE7HrZ+zGHDS7YS2RygprnWJA4Z1I/OlwwP7Oq+dmvr3/DM1         +/6w=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=require-recipient-valid-since:list-unsubscribe-post         :list-unsubscribe:to:mime-version:subject:message-id:from:date         :dkim-signature:dkim-signature;        bh=cah2hJ4ndYq4bG0TuNq+tvTL7MpR1O7NZFqecA/250c=;        fh=w4+DJcBiYXTEd1QrMxLFdwZsyzXC6aSJY0fWzCdmlDA=;        b=jhtjzcsfVeLDd8pv7/NuvIW/xFwvQpUQPLC6dh51fnauBY72/n2MIndoiTFImlCiRR         80fKPhv3yEiZT6ACBG5B/P51Y/ufCvsaNHjzl4BL0jSHyIRp8ErL31/Od2OylTrCrHH9         K8gNqzP5L0ZCzw56NyJwepGPxhKy8fphmLiPliRPaFrc6+DarWVCw2Q7K+e6KrmnFosa         cS53nruLHJf+m71eKkTHi2fa+IF90wdfBQ3el/H8YJCxeNX0YJSm3QTEpJ8aBpDyCvmr         YjMyk9MPUxya6Wn3F+Fo9hmsr0hX1adWFTB9PkQaMC6CFJl4IYEUhakXMxcGSNi0t60F         T7kg==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=cheuK0V7;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=dsPRumEH;       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fd17i7tolo1l5u@bounce.linkedin.com designates 108.174.3.195 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fd17i7tolo1l5u@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fd17i7tolo1l5u@bounce.linkedin.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from maile-ac.linkedin.com (maile-ac.linkedin.com. [108.174.3.195])        by mx.google.com with ESMTPS id d2e1a72fcca58-82b0d09e8b1si4947675b3a.209.2026.03.20.14.07.42        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Fri, 20 Mar 2026 14:07:42 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fd17i7tolo1l5u@bounce.linkedin.com designates 108.174.3.195 as permitted sender) client-ip=108.174.3.195;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=cheuK0V7;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=dsPRumEH;       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fd17i7tolo1l5u@bounce.linkedin.com designates 108.174.3.195 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fd17i7tolo1l5u@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com; s=d2048-202308-0e; t=1774040856; bh=cah2hJ4ndYq4bG0TuNq+tvTL7MpR1O7NZFqecA/250c=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=cheuK0V7EGU1qGBju0iXp42F9h5EO+igWJP5FC8Zd9H7zejQNi4nM0oODkN+cxWpp\t jGGCQRBKnyiFIUq99Z3P7HMR9zIqTl5sYWpKwYMIVmOHfeYH8HYQA++VXFPSMAMtPB\t oiFFUeLR/ldO3O73POPcUQTJb8DEhK1KY0ZTXJELh7pLtW1vLWy25SgYvxk3+HowTV\t gxDIpWKh7KSyZd95njSG+H5G2aRodAz+ktSc6M0aIiAmJfpI/lDr0kGCZjNH+ARUWm\t 0GPABDsrL8zumO1W2gk1vanZTkzRr9IoGNzk9bTMJy7tAsycsCMxJoQfSo/LSANJlk\t Y885OlTqfS7SQ=="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=d2048-202308-00; t=1774040856; bh=cah2hJ4ndYq4bG0TuNq+tvTL7MpR1O7NZFqecA/250c=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=dsPRumEHUl7gojFfz/R86+yQ4mOJcNmD8LJjKEaWyRsFUS4CjVxt8x1qE0ANH7DK4\t fEYuyXTAmeYOmeqLxx68wsWOuOjxjdqKccnoiixPGHygzXU3oWzV4MUyR7WNksMnfJ\t BCjFXeoX85lVnVrcWVU3F3CCvQ5CG0hVPn1GnR1kZ3UzJwadLf13NtOqtTkj+ECGMx\t s53VT+mo5iG7vmwTVEKwgDN3QApyUuuvTlHUFvHxEipvog1wddAJvp1xBdI99RCLc1\t RJ1O54Va9dtUWeXXBrIsKFGsB9JAcLcUSsT+LOhIA530vNXsd3jJCNvTq8ZbH9FvK3\t WpgROK5nMBUfQ=="
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 20 Mar 2026 21:07:36 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "LinkedIn <updates-noreply@linkedin.com>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<1905754855.6726900.1774040856008@lva1-app50207.prod.linkedin.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "Magentus recently posted"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"----=_Part_6726896_1232873548.1774040856002\""
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-LinkedIn-Class",
+              "value": "EMAIL-DEFAULT"
+            },
+            {
+              "name": "X-LinkedIn-Template",
+              "value": "email_network_conversations_01"
+            },
+            {
+              "name": "X-LinkedIn-fbl",
+              "value": "m2-aszyrypd9gngoz90qyxecssp546njey91xyqto18z1ja2nx6o5qth45rn99n8al73zb3zuculka2ckp89u5tav1a2uknhmlmdebw3n"
+            },
+            {
+              "name": "X-LinkedIn-Id",
+              "value": "s0o4dl-mmzc8l0u-mb"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.linkedin.com/mysettings-api/settingsApiEmailSubscriptionPost?lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BvzDJxMwnSW%2BMLppcx2w%2FjA%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1vpssqxcFPasc1&trk=eml-email_network_conversations_01-oneClickUnsub-0-oneClickUnsub&trkEmail=eml-email_network_conversations_01-oneClickUnsub-0-oneClickUnsub-null-s0o4dl~mmzc8l0u~mb-null-null&eid=s0o4dl-mmzc8l0u-mb&loid=AQF3eYFYecxiywAAAZ0NEzN4dXWima1uzQqz5759sEUdjetloj9VF1_hImPdpkFoib82LjE_5nAOH2yxrjvtAStWzLNC6gnO8a15BhBd8Z9XuzkFQHSU>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Tue, 24 Feb 2026 16:30:53 +0000"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "ignore",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'ignore'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "ignore",
+        "addLabels": [
+          "triage/processed",
+          "triage/ignore"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d0c6c3a26b77bc",
+      "messageId": "19d0c6c3a26b77bc",
+      "normalized": {
+        "threadId": "19d0c6c3a26b77bc",
+        "messageId": "19d0c6c3a26b77bc",
+        "subject": "View Roland P.’s post and your next steps",
+        "from": "LinkedIn <messages-noreply@linkedin.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Fri, 20 Mar 2026 18:05:11 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_SOCIAL",
+          "INBOX"
+        ],
+        "snippet": "Back in 2005, the… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "Now, take these next steps for more success\r\n\r\nWe’ll send you LinkedIn updates, updates from your network, recruiter messages and promotional messages. You can change your preferences anytime.\r\n\r\n\r\n\r\n        Check out these interesting conversations\r\nBecause you viewed Roland’s profile\r\nRoland P. shared a post: Back in 2005, the world's fastest supercomputer was IBM's Blue Gene/L, with a processing speed of 137 TFLOPS (FP64)\r\n\r\nFast forward two decades, and…\r\nLIKE 1, 1 Comment\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/share:7438843953929547776?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more&trkEmail=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGM3ZDk0MDk5YTg4NzZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThkNGIwODE3MmE2ZWFhNDM0MTIyN2FhNzQ0YzM0Y2Q4OGViMTg4NTNlYzg4YjdhNTgsMSwx\r\nRoland P. shared a post: LLMs gave AI reasoning. Agents give it action.\r\n\r\nThat shift is already happening — and it's moving faster than LLMs did.\r\n\r\nWhen AI starts acting…\r\nLIKE 5, 7 Comments\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/share:7435580926170091521?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more&trkEmail=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGM3ZDk0MDk5YTg4NzZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThkNGIwODE3MmE2ZWFhNDM0MTIyN2FhNzQ0YzM0Y2Q4OGViMTg4NTNlYzg4YjdhNTgsMSwx\r\n\r\nSee more posts:https://www.linkedin.com/comm/in/roland-polczer/recent-activity/?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-xGUXyl6uSwiWZyCUYcbpTQ%3D%3D-0-xGUXyl6uSwiWZyCUYcbpTQ%3D%3D&trkEmail=eml-email_next_best_action_digest_01-xGUXyl6uSwiWZyCUYcbpTQ%3D%3D-0-xGUXyl6uSwiWZyCUYcbpTQ%3D%3D-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGM3ZDk0MDk5YTg4NzZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThkNGIwODE3MmE2ZWFhNDM0MTIyN2FhNzQ0YzM0Y2Q4OGViMTg4NTNlYzg4YjdhNTgsMSwx\r\n\r\n\r\n\r\n----------------------------------------\r\n\r\nThis email was intended for Adam Rudavský (ex nurse ai entrepreneur)\r\nLearn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_next_best_action_digest_01-SecurityHelp-0-textfooterglimmer-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGM3ZDk0MDk5YTg4NzZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThkNGIwODE3MmE2ZWFhNDM0MTIyN2FhNzQ0YzM0Y2Q4OGViMTg4NTNlYzg4YjdhNTgsMSwx\r\nYou are receiving this email because members like you have also taken these actions.\r\n\r\n\r\nUnsubscribe: https://www.linkedin.com/comm/mypreferences/u/emailunsub?action=updateEmailSubscription&lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_next_best_action_digest_01-unsubscribe-0-textfooterglimmer-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&loid=AQFP4lA2gN9tPgAAAZ0MbDKHFL_c_VfOlR4PKrjLnnvdmS06HU2k9B06HZ-3yTYOUkPY80HWlLUwhMGpkbh0UeL-UDjVCQV6DYag3Jlm1RDjtxswWxDLRjK-Xu1R\r\nHelp: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-help-0-textfooterglimmer&trkEmail=eml-email_next_best_action_digest_01-help-0-textfooterglimmer-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGM3ZDk0MDk5YTg4NzZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThkNGIwODE3MmE2ZWFhNDM0MTIyN2FhNzQ0YzM0Y2Q4OGViMTg4NTNlYzg4YjdhNTgsMSwx\r\n\r\n© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.\r\nLinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-20 19:05",
+            "from": "LinkedIn <messages-noreply@linkedin.com>",
+            "id": "19d0c6c3a26b77bc",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_SOCIAL",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "View Roland P.’s post and your next steps"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1832832gdb;        Fri, 20 Mar 2026 11:05:12 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a17:90b:5281:b0:35b:9777:8bae with SMTP id 98e67ed59e1d1-35bd2cb70b2mr3404652a91.21.1774029912618;        Fri, 20 Mar 2026 11:05:12 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1774029912; cv=none;        d=google.com; s=arc-20240605;        b=Kt35+ve5v9dueOyC7ygx8b8AwJv5OhAxzMVGgnWhfgOxxAQEAxqeFbIz7SpZqdCvpJ         Nn0eW9KqBhbPLrV6aATtKVWmdr3HXzG99i7tqCDj44NGNYD6FdFaBf1QoxmeHuwr7atL         0NEm7Q7btwBdKJjMAdgSEI+yLTLGUETvYN8oEPdj9el2IZLao8tHUR+RaGDXKcsNJJz8         qeB27z/CbkxMBsoyi4veafc/tA+wYHHwyNz5UHmW2y41nrDeF2ZwHX1tcwlFkRtz2qEW         sruNE11q8qaD1/EQoInBBIVIHhvTWOJJcFyBGV4yVcx0K0KqKeYj6IC42qiC3SMtjYdR         uqyQ=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=require-recipient-valid-since:list-unsubscribe-post         :list-unsubscribe:to:mime-version:subject:message-id:from:date         :dkim-signature:dkim-signature;        bh=QXTCGXyLU8FlUHDp8h94roSkPP90QSK8t8G6AhbVHZ0=;        fh=w4+DJcBiYXTEd1QrMxLFdwZsyzXC6aSJY0fWzCdmlDA=;        b=d8O/7rl0JIVKIY1bSMzl2l4MGsgjV1moZaWyq1AkrHHKR9gHB3NSgDnwq1Fb5u9bN3         crY70ioTZeRrrygvgGl6aiShEjcGEFqcOOohnjf0BY8VkNNqSweONd4ZSrg2M+98hKl8         vSikX/9rXdvz1KRf6fLxkAyyuMdSK0+71KLq70o7bNvfpslX4sEMnaX2galOMOos+c8Z         96uieUpuPB0CSJWNkNBlXrVdeAsvjUFeJSOkoa0xO+DXZL2TDDnUyA2DLb3LloB4molY         5rMILY/zDxhwA4PkGUw5/3KDeXKE+FWQjTuyQMoJGlR9yF1mG7eRB9gbDfSPWW6mTe+I         TiGQ==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=kkmYyE1+;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=\"TBh82/g9\";       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fcd88mf5mqp4e2@bounce.linkedin.com designates 108.174.6.206 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fcd88mf5mqp4e2@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fcd88mf5mqp4e2@bounce.linkedin.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from maile-df.linkedin.com (maile-df.linkedin.com. [108.174.6.206])        by mx.google.com with ESMTPS id 98e67ed59e1d1-35bc6030ebfsi10043276a91.6.2026.03.20.11.05.12        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Fri, 20 Mar 2026 11:05:12 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fcd88mf5mqp4e2@bounce.linkedin.com designates 108.174.6.206 as permitted sender) client-ip=108.174.6.206;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=kkmYyE1+;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=\"TBh82/g9\";       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fcd88mf5mqp4e2@bounce.linkedin.com designates 108.174.6.206 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74fcd88mf5mqp4e2@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com; s=d2048-202308-0e; t=1774029911; bh=QXTCGXyLU8FlUHDp8h94roSkPP90QSK8t8G6AhbVHZ0=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=kkmYyE1+G9nP3Cf03wWOOSeGkhgX8iyaNzDawlExSwRG73SKxR5xyzERfmMsnBh6a\t Sf2YwtE6mpSVKrCBA62S8ciQenR1zje5Y7tK0orECFSXs402FnDV6rEIyIK6uM0W1o\t 3mw/w98cPSjTHjGe6QkZsYgmM7n26YcOlzly7vSfERMQXH/1PMjUAiL/nDxwXjZfTa\t oHy5hCqUuP482lJaHxEtpF5PvRaYKeKWDQMnDnJyHLllNmrTnOqyEL7ysBA6hNvYrU\t GwicI1m5+cs3xcosBhlgwJeU1XyEdcZNvye3/SlTG9rOcQDsnsy2cwZ9ZAEgu0MKW6\t wHU9ztJZIC4wA=="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=d2048-202308-00; t=1774029911; bh=QXTCGXyLU8FlUHDp8h94roSkPP90QSK8t8G6AhbVHZ0=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=TBh82/g931WkNWUycM3sZwirugo+HtTJ20UnCbk29c0bY8jsUXxtYk4gPy1daZy1q\t kOgI3rglOlv4EJLp8gVQoMSmoZVihFp8lStjvWCnxZ+JpvHygWIEo+oFeJeB1lRkcb\t QXo2m4LD3Uua/KQ3w2oDT7ECWnIqPjKNTk31ldcT3v1YSI+0a0VdXcSc1/pYapMP6A\t Ch4clYxdJMuFHUYONdMfVY+Kk4+p4OugrA83R78ytKhz6VDHZuiGk01gD9KYDYgFll\t xNiinu05p6IU0sBY0hzbSFvNzfesLWVPB+laRixq+6HsJfz43E/s2/QVZ5uEq8ikIg\t 7y975mvLhGm4g=="
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 20 Mar 2026 18:05:11 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "LinkedIn <messages-noreply@linkedin.com>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<317579136.5648784.1774029911276@lva1-app184249.prod.linkedin.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "View Roland P.’s post and your next steps"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"----=_Part_5648779_276273132.1774029911272\""
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-LinkedIn-Class",
+              "value": "EMAIL-DEFAULT"
+            },
+            {
+              "name": "X-LinkedIn-Template",
+              "value": "email_next_best_action_digest_01"
+            },
+            {
+              "name": "X-LinkedIn-fbl",
+              "value": "m2-aszzfo38selwpi9o7qhbq66hr9y8xhstkp8gd6r4hl1pr943r7dpddu3kwe4sh5whl64qduepsk3vjb5jh550h4zjqeksim272qhj7"
+            },
+            {
+              "name": "X-LinkedIn-Id",
+              "value": "s0o4dl-mmz7k5ft-dz"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.linkedin.com/mysettings-api/settingsApiEmailSubscriptionPost?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3B72I9GXumSfS6A6Vde4dmfQ%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=3NZte3_5WZacc1&trk=eml-email_next_best_action_digest_01-oneClickUnsub-0-oneClickUnsub&trkEmail=eml-email_next_best_action_digest_01-oneClickUnsub-0-oneClickUnsub-null-s0o4dl~mmz7k5ft~dz-null-null&eid=s0o4dl-mmz7k5ft-dz&loid=AQFP4lA2gN9tPgAAAZ0MbDKHFL_c_VfOlR4PKrjLnnvdmS06HU2k9B06HZ-3yTYOUkPY80HWlLUwhMGpkbh0UeL-UDjVCQV6DYag3Jlm1RDjtxswWxDLRjK-Xu1R>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Tue, 24 Feb 2026 16:30:53 +0000"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "newsletter",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'newsletter'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "newsletter",
+        "addLabels": [
+          "triage/processed",
+          "triage/newsletter"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d0c0cc748a0cea",
+      "messageId": "19d0c0cc748a0cea",
+      "normalized": {
+        "threadId": "19d0c0cc748a0cea",
+        "messageId": "19d0c0cc748a0cea",
+        "subject": "1 Entrepreneur role hired in the past week",
+        "from": "LinkedIn <messages-noreply@linkedin.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Fri, 20 Mar 2026 16:20:54 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_SOCIAL",
+          "INBOX"
+        ],
+        "snippet": "Adam, see your opportunities ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "----------------------------------------\r\n\r\n\r\n      Entrepreneur job trends from the past week\r\n  \r\n----------------------------------------\r\n\r\n\r\n1\r\n\r\n\r\n\r\n      Entrepreneur roles were hired this week in Slovakia\r\n  \r\n\r\nView people in this rolehttps://www.linkedin.com/comm/search/results/people/?keywords=Entrepreneur&lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-talent~flow~row~text-0-view~people~in~role~text&trkEmail=eml-email_career_insights_01-talent~flow~row~text-0-view~people~in~role~text-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGNkZDY0NDlkYWU4YzZiN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlNWZmZDA2MzgyYWVjNTA5ZDhiZjgyZWYxZGZhOTZmMjJiY2YzNTI0ODcwNmQyNmQsMSwx\r\n  \r\n\r\nCompanies searching for people like you\r\n----------------------------------------\r\n\r\n    LoopLab Bio\r\nBiotechnology Research\r\n\r\nFollow\r\nhttps://www.linkedin.com/comm/company/looplabbio?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-companies~searching~row~1-0-cta~1&trkEmail=eml-email_career_insights_01-companies~searching~row~1-0-cta~1-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGNkZDY0NDlkYWU4YzZiN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlNWZmZDA2MzgyYWVjNTA5ZDhiZjgyZWYxZGZhOTZmMjJiY2YzNTI0ODcwNmQyNmQsMSwx\r\n  \r\n    schweizeraktien.net AG\r\nMedia Production\r\n\r\nFollow\r\nhttps://www.linkedin.com/comm/company/schweizeraktien-net?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-companies~searching~row~1-0-cta~1&trkEmail=eml-email_career_insights_01-companies~searching~row~1-0-cta~1-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGNkZDY0NDlkYWU4YzZiN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlNWZmZDA2MzgyYWVjNTA5ZDhiZjgyZWYxZGZhOTZmMjJiY2YzNTI0ODcwNmQyNmQsMSwx\r\n  \r\nTop trending companies\r\n----------------------------------------\r\nSOLE S.p.A.\r\n\r\nFollow\r\nhttps://www.linkedin.com/comm/company/sole-s.p.a.?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-trending~company~row~1-0-follow~cta~1&trkEmail=eml-email_career_insights_01-trending~company~row~1-0-follow~cta~1-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGNkZDY0NDlkYWU4YzZiN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlNWZmZDA2MzgyYWVjNTA5ZDhiZjgyZWYxZGZhOTZmMjJiY2YzNTI0ODcwNmQyNmQsMSwx\r\n  SLOVAGROTRANS s.r.o.\r\n\r\nFollow\r\nhttps://www.linkedin.com/comm/company/slovagrotrans-s-r-o?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-trending~company~row~1-0-follow~cta~1&trkEmail=eml-email_career_insights_01-trending~company~row~1-0-follow~cta~1-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGNkZDY0NDlkYWU4YzZiN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlNWZmZDA2MzgyYWVjNTA5ZDhiZjgyZWYxZGZhOTZmMjJiY2YzNTI0ODcwNmQyNmQsMSwx\r\n  \r\n\r\n----------------------------------------\r\n\r\nThis email was intended for Adam Rudavský (ex nurse ai entrepreneur)\r\nLearn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_career_insights_01-SecurityHelp-0-textfooterglimmer-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWUzYjQ4ZGNkZDY0NDlkYWU4YzZiN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlNWZmZDA2MzgyYWVjNTA5ZDhiZjgyZWYxZGZhOTZmMjJiY2YzNTI0ODcwNmQyNmQsMSwx\r\nYou are receiving LinkedIn notification emails.\r\n\r\n\r\nUnsubscribe: https://www.linkedin.com/comm/mypreferences/u/emailunsub?action=updateEmailSubscription&lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_career_insights_01-unsubscribe-0-textfooterglimmer-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&loid=AQEDO8ATv4eTwgAAAZ0MDLp6QvmW6FWn3X9jjvd9QFVtxC70uCTBp0NRpaVdOXd1leLlpZZsh7Rk9fvzqvWMYmuHgUpWiA\r\nHelp: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-help-0-textfooterglimmer&trkEmail=eml-email_career_insights_0\n...[truncated]",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-20 17:20",
+            "from": "LinkedIn <messages-noreply@linkedin.com>",
+            "id": "19d0c0cc748a0cea",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_SOCIAL",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "1 Entrepreneur role hired in the past week"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1803122gdb;        Fri, 20 Mar 2026 09:20:57 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a20:a10b:b0:398:a060:a967 with SMTP id adf61e73a8af0-39bce97b955mr3387556637.11.1774023657210;        Fri, 20 Mar 2026 09:20:57 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1774023657; cv=none;        d=google.com; s=arc-20240605;        b=lGlNGM0GrTLOy0+VnbeSZB43e2qNNmyNoh3z6IrBaGJx9ZjBBYEZ7sTUPEuBtyi0qy         gL5SVia9lPI7hSAno7g0rdcx/tL5Zxst4TkqkB3CcRMQPSAU45EI7i5Qj2G0xNdALbZJ         P87k9KoRyH+4+HzpDtc4ldoSlbra6Q3c9B6qG8ZvGjo5myKZUlBzQ9Z77emPPmTMb5rM         PAwb1qw40pZTRVhKb0gAjO4zAJEqHWOBGYDOYD2/+nGlSa3GIa8Z3aM+t3lN+7nrLIN9         NKtUyWJIlykhx+fuLy3c1UN4UpliucnTEmYw2kwZjyXEB+29uT3CCtiO0+J4S7G5VxWi         vgfw=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=require-recipient-valid-since:list-unsubscribe-post         :list-unsubscribe:to:mime-version:subject:message-id:from:date         :dkim-signature:dkim-signature;        bh=pHuqom+9fevWnSLBbjTS8tE8OKBB4r5ZB2H2JQQgVbE=;        fh=w4+DJcBiYXTEd1QrMxLFdwZsyzXC6aSJY0fWzCdmlDA=;        b=BkraoV7mFcu6w6ZuQ3v080HEySmhWfbX5SMblN6dmVtiMLYt26m8r4th0cTTwEBD27         9VMiO+yEiKOIYpIoqGvTpvLAlZL2En3DwTbijWLi6csLGzXQpz9Kxuhna1eJT3p1Tv2p         4bK7cMn+9W3IhANl9v/xmQ9dr13g482rUgIjJThD4M7FrxxWUfBOnnvme8HrjiUi8co4         orBHNKp0OFs931LOuKt3KqqJ9EKVAKarsRFvdF6PQBeSwED0Og/XdFi8pBCXX//EJueR         srzoF0Pm3wdZEr++j0sEYgaw4tzmV7xJT2Fhfkbh8qp4vMuND3IVkjXcwFp1OYj/rU0Z         cH8Q==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=HT677Z+D;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=JGhfkkXE;       spf=pass (google.com: domain of m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l925o1x4vuo1awh@bounce.linkedin.com designates 2620:109:c006:104::205 as permitted sender) smtp.mailfrom=m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l925o1x4vuo1awh@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l925o1x4vuo1awh@bounce.linkedin.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from maile-be.linkedin.com (maile-be.linkedin.com. [2620:109:c006:104::205])        by mx.google.com with ESMTPS id 41be03b00d2f7-c746f5f0887si4183229a12.392.2026.03.20.09.20.56        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Fri, 20 Mar 2026 09:20:57 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l925o1x4vuo1awh@bounce.linkedin.com designates 2620:109:c006:104::205 as permitted sender) client-ip=2620:109:c006:104::205;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=HT677Z+D;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=JGhfkkXE;       spf=pass (google.com: domain of m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l925o1x4vuo1awh@bounce.linkedin.com designates 2620:109:c006:104::205 as permitted sender) smtp.mailfrom=m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l925o1x4vuo1awh@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com; s=d2048-202308-0e; t=1774023654; bh=pHuqom+9fevWnSLBbjTS8tE8OKBB4r5ZB2H2JQQgVbE=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=HT677Z+D8iD92/g0XaXH9vplBL9IN90E5CiW9tyRk8Odd/yawaewVqfF91D9jxV84\t cdc3WkUw3pkoKENVTWDWGU8BPqg3+zafTcNENpgpdso3h2Z3MHZah4nUTbilk6Hsqt\t x/NSqsYSRVr0LUL6WOidF3tg+JmOFSuRR1y3xs1EPx9U0f8Snf+1ywzzdGjYXergZS\t fERmRH7MZgbZC9KyoBpNosxnVqAKKuExmum7ZwTCBYSW0jXk0sM0DApcgXTUpdgnUW\t BIIyIcJK4LVXeeN85bHubWZcKpfXusrfMN5I81QMTUBB4p8wVK+wzheAfS6HDCXxGW\t LULicAfCM5nAQ=="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=d2048-202308-00; t=1774023654; bh=pHuqom+9fevWnSLBbjTS8tE8OKBB4r5ZB2H2JQQgVbE=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=JGhfkkXEmE+lZEAWg1W0xsEN/8tK1TPqcA7ws4xSRn5OQujMqg2C1nPzSZSkmEJ3Y\t gfQHkeQKRnOuZ5X1QAERnbWrz9g/jiUQhfWF2yHQH7flN8q4MnKOfU9NepWEjLX7GY\t bGJoYlOGFzORn6UzGBV/LbLmlqGXTy23qeHqTSO/+LS1Cf8IAj7z6Jproa+wMaNHU0\t N2tYMtqRStKhdZT0W90BmmZF3VBFrtrv2PyfLiBHr9dBEQXGjcrW5JjMyWWvpOCzlV\t D6kszN9KaAZkDmWx1Ymq0WFfHWOCinIELov3EKrGPW67Lsrj86+W0pnj0rUtLAer9Y\t 7u3tSpc49eTLw=="
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 20 Mar 2026 16:20:54 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "LinkedIn <messages-noreply@linkedin.com>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<215166563.2479128.1774023654341@lva1-app56762.prod.linkedin.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "1 Entrepreneur role hired in the past week"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"----=_Part_2479126_1317155772.1774023654338\""
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-LinkedIn-Class",
+              "value": "EMAIL-DEFAULT"
+            },
+            {
+              "name": "X-LinkedIn-Template",
+              "value": "email_career_insights_01"
+            },
+            {
+              "name": "X-LinkedIn-fbl",
+              "value": "m2-aszpeisp3hptybbfjx6a7cl72gtunucriojdalzqgg6em5i385svkn6eosku25xliuh5tywdu75rztwgock5t3qk74o76olvb9mxqb"
+            },
+            {
+              "name": "X-LinkedIn-Id",
+              "value": "s0o4dl-mmz3nxsh-q"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.linkedin.com/mysettings-api/settingsApiEmailSubscriptionPost?lipi=urn%3Ali%3Apage%3Aemail_email_career_insights_01%3BiuAWTIPoRhSmH4FUgJdimg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=0BAN23ueJkacc1&trk=eml-email_career_insights_01-oneClickUnsub-0-oneClickUnsub&trkEmail=eml-email_career_insights_01-oneClickUnsub-0-oneClickUnsub-null-s0o4dl~mmz3nxsh~q-null-null&eid=s0o4dl-mmz3nxsh-q&loid=AQEDO8ATv4eTwgAAAZ0MDLp6QvmW6FWn3X9jjvd9QFVtxC70uCTBp0NRpaVdOXd1leLlpZZsh7Rk9fvzqvWMYmuHgUpWiA>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Tue, 24 Feb 2026 16:30:53 +0000"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "newsletter",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'newsletter'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "newsletter",
+        "addLabels": [
+          "triage/processed",
+          "triage/newsletter"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d0ab603391a75a",
+      "messageId": "19d0ab603391a75a",
+      "normalized": {
+        "threadId": "19d0ab603391a75a",
+        "messageId": "19d0ab603391a75a",
+        "subject": "💌 I sat down with Greg Isenberg and gave a full course on agents",
+        "from": "AI with Remy <remy@mail.aiwithremy.com>",
+        "to": "\"adam@xvadur.com\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Fri, 20 Mar 2026 10:06:32 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_UPDATES",
+          "INBOX"
+        ],
+        "snippet": "Plus my youtube thumbnail creation skill, two new ways to talk to Claude from your phone, and the 6 MCPs I use every day. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌",
+        "bodyText": "----------\r\nView image: (https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/cae2b512-97be-48f5-b7b2-d3f2b4c644a7/ai-with-remy-logo.gif?t=1769570014)\r\nCaption: \r\n\r\n\r\n\r\nBonjour mes amis,\r\n\r\nMy weeks somehow get crazier and crazier, and we’ve really outdone ourselves this week.\r\n\r\nI recorded the best FREE course on AI agents with Greg Isenberg + lots more, lets get into it shall we..\r\n\r\n\r\n\r\n\r\n----------———————————————————————————\r\n\r\n----------\r\n## 📌 TL;DR\r\n\r\n* **I did a pod with Greg Isenberg** → Sat down with the biggest startup podcast to give everyone a full course on AI agents. Go watch it.\r\n\r\n* **Anthropic shipped Dispatch and Channels** → Two new ways to talk to Claude remotely from your phone. Channels is the Claude Code equivalent via Telegram or Discord.\r\n\r\n* **Builder's Notes** → My honest take on where things are at. Plus a breakdown of my /youtube-publish-workflow skill that creates youtube thumbnails.\r\n\r\n* **My top 6 MCPs** → The exact MCP setup I use every day.\r\n\r\n* **Also this week** → GPT-5.4 mini and nano, Mistral Small 4, Midjourney V8, MiniMax M2.7, and Lovable trying to be everything to everyone.\r\n\r\n\r\n\r\n\r\n----------———————————————————————————\r\n\r\n----------\r\n## I did a pod with Greg Isenberg\r\n\r\n\r\n\r\nBit of a surreal one this week.\r\n\r\nI did an episode with [Greg Isenberg](https://www.youtube.com/@GregIsenberg) on The Startup Ideas Podcast - probably ==the ====biggest podcast in the AI & startup space right now==.\r\n\r\nI've been watching Greg for about 12 months. All of a sudden, there I was sitting across from him. Wild. He's an amazing bloke and exactly how he comes across in the videos.\r\n\r\nI wanted to make this ==a full course on agents.== Where things are at, how they work, and how you can start building your own. Because most founders are still just messaging chat models; asking questions, getting answers. The ones who start using agents to actually delegate real work are going to ==pull so far ahead== that catching up becomes really hard.\r\n\r\nNo matter what level you're at, there's something in here for you. Give it a watch.\r\n\r\nThis was a ==massive milestone for me.== Really appreciate all the positive feedback in the comments. Means a lot.\r\n\r\n\r\n\r\nYoutube: Building AI Agents that actually work (Full Course) (https://youtu.be/eA9Zf2-qYYM?si=7I7Ge2C6RuW6VGyq)\r\n\r\n\r\n----------———————————————————————————\r\n\r\n----------\r\n## Delegate tasks to Claude Cowork from your phone\r\n\r\n\r\n\r\nAnthropic had a massive week. ==1M token context is now just the default== across Opus and Sonnet (Claude’s main AI models). Your context window is basically how much your AI can hold in its head in one chat without it losing the plot.\r\n\r\nAnthropic also ==launched Dispatch.== [Dispatch](https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork) creates one persistent conversation between the Claude mobile app on your phone and the Claude Desktop app on your computer.\r\n\r\nIt's not Claude Cowork on your phone. Your phone is the messaging interface. Your computer is the engine. Everything Claude does, every file it reads, every connector it accesses, every skill it loads, happens on your desktop. ==Your phone just sends the instructions and receives the results.==\r\n\r\nThink of it as ==a walkie-talkie to a computer that's already running.== A remote control if you will.\r\n\r\nIt covers ==90% of what I was using OpenClaw for==, but feels far less likely to upload my entire drive to a malware site.\r\n\r\n[Felix Rieseberg ](https://x.com/felixrieseberg)also announced that ==Dispatch can now ====launch Claude Code sessions==, using the same underlying tech as its remote control feature. So the direction is clear. AI agents running on your computer, doing real work, while you ==delegate from wherever you are.==\r\n\r\nNow, Anthropic are known for shipping features early to gather feedback fast. Dispatch certainly ==has some rough edges and some things don't work amazingly==, but the core is solid. It's early software, so set your expectations.\r\n\r\nBut \"early\" in the Claude ecosystem tends to mean \"transformative within 60 days.\" Cowork itself went from rough preview to daily workhorse in under eight weeks.\r\n\r\n\r\n\r\n**Things to note:**\r\n\r\n* Your existing Cowork skills, context files, and connectors all carry over automatically\r\n\r\n* Pre-configure Gmail, Slack, Notion connectors on desktop first, Dispatch inherits them\r\n\r\n* Dispatch doesn't read your CLAUDE.md unless you tell it to. Either include \"read CLAUDE.md\" in your message, or add a line in your global instructions to always find and read CLAUDE.md when sent a task via Dispatch. I assume this will be fixed very soon\r\n\r\n* No notifications when tasks finish, you have to check manually\r\n\r\n* One thread only, no way to manage multiple conversations\r\n\r\n* \"Keep awake\" must be toggled on in your Claude Desktop app or Dispatch dies when your Mac sleeps\r\n\r\n* No file picker on mobile, describe the folder p\n...[truncated]",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-20 11:06",
+            "from": "AI with Remy <remy@mail.aiwithremy.com>",
+            "id": "19d0ab603391a75a",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_UPDATES",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "💌 I sat down with Greg Isenberg and gave a full course on agents"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1609506gdb;        Fri, 20 Mar 2026 03:06:34 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:620a:31a4:b0:8cd:9365:f266 with SMTP id af79cd13be357-8cfc7f86396mr322585385a.65.1774001193723;        Fri, 20 Mar 2026 03:06:33 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1774001193; cv=none;        d=google.com; s=arc-20240605;        b=aNv1hllTr+g7SeyIWz+GM0jBg4fLEDlCtnSBIKtmTg72CZ+9ATBszi6P47hqhcGoyH         wywyFvO8XZaFHt27lSro1xtvoM4nk1K3YcSdQZVYJaCfpdFkRiuYuNkVM9U+I0mkIJkg         82u5zbWvJUIKBESqifwxewBYr0rmvepS5bnnOl32Nic0IGeGQp5C4qtFVeo8+7tJG/vU         gTV4ulUZdZPjsqWtM37Q+bC82EJaquJPT7jxHmA4sbwcVr6t4V5zWSU4plkYAqEsJl0N         orATeGmgPsYSGt+LIACQRI5/F7tXs8oz7+fMDvacxI0cTIFt90imeGNt43xf2M3kkgxK         9kMA=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=to:sid:list-unsubscribe-post:list-unsubscribe:feedback-id:reply-to         :subject:message-id:mime-version:from:date:dkim-signature;        bh=s/OJ+9k7Cz0uFDb8EOhy+c8Evv8ytmNW1etotPEGyU8=;        fh=KJi4AypdgwywN8BWgINh3crbV/yDLBSGylAHDTM080U=;        b=ABcwcmJn5JZ1ih5fSEhA5Wzkj2Ro492S+JY45U2UtFOmSQQceTL1QgCmmGjDnACLpD         f8YBY+rYrObgEpHogDFoIONGu+P5soo75XY3BT/fGncjl6huprntFR0bzIA1MnA4VOXz         t7pOemFGvR8ur9t6BV+T9/utdICMwYJxawyf6UvRihUcA4KuJZ+hdFTnD61EpvNuQFmH         sM6drNvPNoH+rfd2IhS9DgD8EZ/i3k0YwNVvEf9hpitVjpNGiWM4uEJy11VpVxC1qOSk         bmBd5WyOZcyOJU8e1DpgbGv7Ry/HpcBQTFguLnYDe89A9SSza3VHm9f3UwmRQ0lhgbpd         GiGQ==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@mail.aiwithremy.com header.s=429 header.b=Sek3CJSf;       spf=none (google.com: bounces+55559666-106c-adam=xvadur.com@em8629.mail.aiwithremy.com does not designate permitted sender hosts) smtp.mailfrom=\"bounces+55559666-106c-adam=xvadur.com@em8629.mail.aiwithremy.com\";       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=aiwithremy.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<bounces+55559666-106c-adam=xvadur.com@em8629.mail.aiwithremy.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from o169.ptr1700.mail.beehiiv.com (o169.ptr1700.mail.beehiiv.com. [159.183.140.201])        by mx.google.com with ESMTPS id af79cd13be357-8cfc8f67880si197942085a.78.2026.03.20.03.06.33        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);        Fri, 20 Mar 2026 03:06:33 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "none (google.com: bounces+55559666-106c-adam=xvadur.com@em8629.mail.aiwithremy.com does not designate permitted sender hosts) client-ip=159.183.140.201;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@mail.aiwithremy.com header.s=429 header.b=Sek3CJSf;       spf=none (google.com: bounces+55559666-106c-adam=xvadur.com@em8629.mail.aiwithremy.com does not designate permitted sender hosts) smtp.mailfrom=\"bounces+55559666-106c-adam=xvadur.com@em8629.mail.aiwithremy.com\";       dmarc=pass (p=QUARANTINE sp=QUARANTINE dis=NONE) header.from=aiwithremy.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.aiwithremy.com; h=content-type:date:from:mime-version:subject:reply-to:list-unsubscribe: list-unsubscribe-post:to:cc:content-type:date:from:subject:to; s=429; t=1774001192; bh=s/OJ+9k7Cz0uFDb8EOhy+c8Evv8ytmNW1etotPEGyU8=; b=Sek3CJSfGabe4XbjJ8DQrIPhTGvayq73FAKCy1Iqwi/GVtkzl8O4awOR10CCR++d7gJn afSZedTfCt5Uxb9YnQRlpzCJgopbtxFokWr8WRJnltRcQCIp786Xx7JMFshedJiaktlG8q A1BO2/BPqBlQPnWDKvj24ijCLJTliKf27m5fxA67A2FLOlZnzPwDSYnaoCz33trs7RQWgZ p1hTWzutWKBxnEP4Qn5hdcC3DmVax51LgsyelFs8VbyKoNSMz+e2+jvawqYn/7AYOwZV+N CexPHELcjCjLGnxT+Yod7EFQ62q2KwVe0T4I+yU6zzs7+1qgrMwLxlMd9RKtMhPg=="
+            },
+            {
+              "name": "Received",
+              "value": "by recvd-5d7f7ffc48-cs2lx with SMTP id recvd-5d7f7ffc48-cs2lx-1-69BD1C26-1A 2026-03-20 10:06:30.239273397 +0000 UTC m=+917495.839165569"
+            },
+            {
+              "name": "Received",
+              "value": "from NTU1NTk2NjY (unknown) by geopod-ismtpd-63 (SG) with HTTP id WdXUOYgoTfq9GdyY-ReAcg Fri, 20 Mar 2026 10:06:30.207 +0000 (UTC)"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=be101c2583e6645799f8ff266ca5d2fbbfec819e52e8d7859d1ee65ee363"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 20 Mar 2026 10:06:32 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "AI with Remy <remy@mail.aiwithremy.com>"
+            },
+            {
+              "name": "Mime-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<WdXUOYgoTfq9GdyY-ReAcg@geopod-ismtpd-63>"
+            },
+            {
+              "name": "Subject",
+              "value": "💌 I sat down with Greg Isenberg and gave a full course on agents"
+            },
+            {
+              "name": "Reply-To",
+              "value": "AI with Remy <remy@aiwithremy.com>"
+            },
+            {
+              "name": "Feedback-ID",
+              "value": "e5119486-ea00-422f-be85-c6cb37447ecc:newsletter:f68515b2-be0c-4e13-9453-f19b165d98bd:e3e71a0999193bc"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<mailto:f68515b2-be0c-4e13-9453-f19b165d98bd+d1fb5e50-8219-4cff-996c-963162206086+e5119486-ea00-422f-be85-c6cb37447ecc@unsub.beehiiv.com>, <https://aiwithremy.beehiiv.com/unsubscribe/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJzY3JpYmVyX2lkIjoiZDFmYjVlNTAtODIxOS00Y2ZmLTk5NmMtOTYzMTYyMjA2MDg2IiwicG9zdF9pZCI6ImU1MTE5NDg2LWVhMDAtNDIyZi1iZTg1LWM2Y2IzNzQ0N2VjYyIsImxhc3RfcmVzb3VyY2VfZ3VpZCI6IlBvc3Q6ZTUxMTk0ODYtZWEwMC00MjJmLWJlODUtYzZjYjM3NDQ3ZWNjIn0.ntPgaV-Cj1qKl4xNjiXa8WQoT-N56GQqGptBdM33La4>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "sId",
+              "value": "f68515b2-be0c-4e13-9453-f19b165d98bd"
+            },
+            {
+              "name": "x-beehiiv-ids",
+              "value": "{\"account_name\":\"https://aiwithremy.beehiiv.com/\",\"campaign_id\":\"e5119486-ea00-422f-be85-c6cb37447ecc\",\"category\":\"newsletter\",\"email_generated_at\":1774001190,\"user_id\":\"f68515b2-be0c-4e13-9453-f19b165d98bd\"}"
+            },
+            {
+              "name": "x-beehiiv-type",
+              "value": "newsletter"
+            },
+            {
+              "name": "x-list-id",
+              "value": "f68515b2-be0c-4e13-9453-f19b165d98bd"
+            },
+            {
+              "name": "x-list-owner",
+              "value": "<mailto:remy@aiwithremy.com>"
+            },
+            {
+              "name": "x-newsletter",
+              "value": "https://aiwithremy.beehiiv.com/p/i-sat-down-with-greg-isenberg-and-gave-a-full-course-on-agents"
+            },
+            {
+              "name": "x-newsletter-id",
+              "value": "https://aiwithremy.beehiiv.com/"
+            },
+            {
+              "name": "x-newsletter-signup",
+              "value": "https://aiwithremy.beehiiv.com/subscribe"
+            },
+            {
+              "name": "X-SG-EID",
+              "value": "u001.s2Cgdmr9qjrwgQX2FbfJ+vHJQZ2HD9wEEM9tvy8WKSPjV/4TR1aZaMmqmR+1zVjuRRl0+PYg9ShdogsC6QKMJ8gVPzkbKckMlmI0tHryqOQ4/8UCGwb4Bny6RafxVfzdMOaJV7v4+Rqho7+YwPP8P87xpTuDFEi0We/r/f3jv+Pv8wgDV0XnNI3caN7Eh5ZQnGCsbMIhBxW+MjtiCr0t2BmYUtSB5ZytrE6b1pxKea1mQVqRSyMC/9ZPnrzbHomI"
+            },
+            {
+              "name": "X-SG-ID",
+              "value": "u001.SdBcvi+Evd/bQef8eZF3BpTL9BgbK5wfSJMJGMsmprD1ZcmFObA4po1bGaUE6gycLSrTEiArMG5B0eMQ5xOnD1WIUq5xLvwVFKoQjBMiD3OGxcp3hFs09/aqFlPk5fwprMy63ky8s6CW0RPcjIi5br+b6fvbv7fQ1NSfDls4Qk98uE3CiobOlD8/Rf2pBx5fAvDfqdrpbr0is/MTMZzEO8TvfRBvFEPfPKnDfAQek08FIcUwzSf2mItocfvMcp9Nb2brrLYR1FnW6LblTZFqScoQRzg6IrKU/SDFSI94rpugrKL5YW4hDmu7KQ0m5RJ51Jxrwv8xpguwyQVx+vlryFIuzM3BVJtZH34lDPRqfg8="
+            },
+            {
+              "name": "To",
+              "value": "\"adam@xvadur.com\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-Entity-ID",
+              "value": "u001.4wt+fesEKUC00OKJEWu+kA=="
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "ignore",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'ignore'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "ignore",
+        "addLabels": [
+          "triage/processed",
+          "triage/ignore"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d08f0961970368",
+      "messageId": "19d08f0961970368",
+      "normalized": {
+        "threadId": "19d08f0961970368",
+        "messageId": "19d08f0961970368",
+        "subject": "Introducing MiniMax M2.7, our first model which deeply participated in its own evolution.",
+        "from": "MiniMax API Platform <notify@mail.minimax.io>",
+        "to": "<adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Fri, 20 Mar 2026 09:51:14 +0800",
+        "labels": [
+          "CATEGORY_UPDATES",
+          "INBOX"
+        ],
+        "snippet": "Hi there, Introducing M2.7, our first model which deeply participated in its own evolution. Model-driven harness iteration: leveraging Agent Teams, 50+ complex Skills, and dynamic tool search to",
+        "bodyText": "Hi there,\n Introducing M2.7 , our first model which deeply participated in its own evolution.\n Model-driven harness iteration: leveraging Agent Teams, 50+ complex Skills, and dynamic tool search to complete complicated tasks, with multi-agent collaboration trained into the model. Production-grade software engineering: live debugging, root cause tracing, SRE-level decision-making. SWE-Pro 56.2%, Terminal Bench 2 57.0%. End-to-end professional work: reads reports, builds revenue models, produces deliverable Word/Excel/PPT documents with multi-round high-fidelity editing. GDPval-AA ELO score 1495. MiniMax Agent: https://agent.minimax.io\n API: https://platform.minimax.io\n Coding Plan: https://platform.minimax.io/subscribe/coding-plan\n Live Stream Alert | Hosted by @OpenClaw Community\n Thursday, 9 PM ET\n Friday,10 AM Beijing\n Dive into MiniMax M2.7: Early echoes of self-evolution & Efficient Solutions for 100,000 OpenClaw Running Clusters.\n Lots of MiniMax vouchers will be given away in our live room!\n Discord： https://discord.com/events/1456350064065904867/1483671881210138685\n bilibili： https://space.bilibili.com/3706944112036255\n Best regards,\nMiniMax AI",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-20 02:51",
+            "from": "MiniMax API Platform <notify@mail.minimax.io>",
+            "id": "19d08f0961970368",
+            "labels": [
+              "CATEGORY_UPDATES",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "Introducing MiniMax M2.7, our first model which deeply participated in its own evolution."
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1444596gdb;        Thu, 19 Mar 2026 18:51:18 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a00:4295:b0:82a:6569:1f88 with SMTP id d2e1a72fcca58-82a8bfa66cemr1037969b3a.0.1773971478477;        Thu, 19 Mar 2026 18:51:18 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1773971478; cv=none;        d=google.com; s=arc-20240605;        b=AfQuSxcx5C5lqAKP6wIpE805KActjXeWS6laY0E2JWAPswbtB6jmB+XozHhVHfXcNY         xjIIT5VXdC1r41EEGGmRLcutSfcuX+36JI1Kw71m3QYI6xQewEThexfANU2+QQ0IXDFB         i8BKsnnUl8mAC/UPp382jWMso7JJb2XNWPAyZIqOZqiFNVUA0n8dRmdQ20uT6k3KkctG         PiLh2WDWhJLVvQLRBk8Pa2547RrM9MeCsvDmp0673XRtvv9ClmCocb3mFrfeaqWcbudd         4ZKFMfMMfZAbXF48pmY/LyqJi0CCmUXAPa8B+b2me2JvS2g4FFxj+XJe0bdEduxioj8p         jNuQ=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=content-transfer-encoding:mime-version:subject:message-id:reply-to         :to:from:date:dkim-signature:dkim-signature:list-unsubscribe         :list-unsubscribe-post:feedback-id;        bh=OHyfCp/Vixe2TKSbbbzAWiBiN48Ilan+Mjp8jrv9j3g=;        fh=99IwujvIZi2iKd7jvEtqzd/fMTqLopxnLAG+okZjcj4=;        b=YdedFN/r4oB15PmIHLaGnbGkc6+po1VvPyV8MrWzUhObbhZtzoD57yNiMqQK9H+wbp         hOHZ38sJkEiSmxmxDLuoxllT1q0wcbO+8urEX99oPvEAnGmFVqWzp1F5BtjFTfAl4PfO         CqcTQaPw7tg6a0C0PGFtpvfFe9weyn6AcdI/xVQTiCBXuMC6zmBinuEBirnKQ1GvQwEH         9M4hgFcPc50o8YHZZ0UJIrQGwCOiqhUPVVD6Mue41mQL4m2CmcLVfSLG6cKAheLug4VS         jXY2xDv3SO91iKjEf9YaFFMZFRw4e+nDoLkGPM9EZP/H3UlR07clzyGcKeQlSmWNUMlj         gjzA==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@mail.minimax.io header.s=aliyun-ap-southeast-1 header.b=MYCD9Dod;       dkim=pass header.i=@dm-fbl.aliyuncs.com header.s=feedback header.b=BoQpiTQQ;       spf=pass (google.com: domain of notify@mail.minimax.io designates 8.219.25.205 as permitted sender) smtp.mailfrom=notify@mail.minimax.io;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mail.minimax.io"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<notify@mail.minimax.io>"
+            },
+            {
+              "name": "Received",
+              "value": "from out25-205.sg.a.dm.aliyun.com (out25-205.sg.a.dm.aliyun.com. [8.219.25.205])        by mx.google.com with ESMTPS id d2e1a72fcca58-82b0421981fsi1276026b3a.105.2026.03.19.18.51.17        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Thu, 19 Mar 2026 18:51:18 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of notify@mail.minimax.io designates 8.219.25.205 as permitted sender) client-ip=8.219.25.205;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@mail.minimax.io header.s=aliyun-ap-southeast-1 header.b=MYCD9Dod;       dkim=pass header.i=@dm-fbl.aliyuncs.com header.s=feedback header.b=BoQpiTQQ;       spf=pass (google.com: domain of notify@mail.minimax.io designates 8.219.25.205 as permitted sender) smtp.mailfrom=notify@mail.minimax.io;       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mail.minimax.io"
+            },
+            {
+              "name": "X-AliDM-RcptTo",
+              "value": "YWRhbUB4dmFkdXIuY29t"
+            },
+            {
+              "name": "Feedback-ID",
+              "value": "default:notify@mail.minimax.io:excellent_SmtpBatch:270819"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://dm-sg.aliyuncs.com/trace/v2/unsubscribe?lang=en-us&sign=ad2fa013e4289c9fcff96f4fbd473516&token=eyJjYW1wYWlnbl90aW1lIjoxNzczOTcxNDc2LCJlZG1faWQiOjI3MDgxOSwiZW52aWQiOiI4MDAwMDAwMjQyNDIyNDgwNDE2IiwibWFpbF9mcm9tIjoibm90aWZ5QG1haWwubWluaW1heC5pbyIsIm1haWxfdG8iOiJhZGFtQHh2YWR1ci5jb20iLCJ0YXNraWQiOiIifQ%3D%3D&version=1.0>"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.minimax.io; s=aliyun-ap-southeast-1; t=1773971476; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type; bh=OHyfCp/Vixe2TKSbbbzAWiBiN48Ilan+Mjp8jrv9j3g=; b=MYCD9Dod7cFiHZFWaZhjXkpkX/LyUunYaKefJJu+g2iKOmxYeO4cvoCMQVMDNE7L/mRjoorJwxnHv+F0mVQ7H0OZFNlIovW2H6Lj+tEBwZNuEqrCYov6OFrovwALZnWKZo+sxa15uyCDLHDLQ71qkJBG32ngNeAwXwIt7aF8d/Y="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=dm-fbl.aliyuncs.com; s=feedback; t=1773971476; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type; bh=OHyfCp/Vixe2TKSbbbzAWiBiN48Ilan+Mjp8jrv9j3g=; b=BoQpiTQQzRjPlHNTaWbM4TYExiHQqBuTEfJVHr9MEkJD+O4AdGhJRBUTSDfDOYOVZRdJW0kBWTBW39hNDpcOu49QOUSLT/c/Uiwzj5Ej/kiVRSXrqjPv1/A2xWbf+6KTPf30cENqD5D89Xg9rG6nIOmz1NvYf32NMaLueAVMpuk="
+            },
+            {
+              "name": "Received",
+              "value": "from localhost(mailfrom:notify@mail.minimax.io fp:SMTPD_4w3hRKgcLrS cluster:dm-ay35sg-a)          by smtp.aliyun-inc.com(127.0.0.1);          Fri, 20 Mar 2026 09:51:16 +0800"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 20 Mar 2026 09:51:14 +0800"
+            },
+            {
+              "name": "From",
+              "value": "MiniMax API Platform <notify@mail.minimax.io>"
+            },
+            {
+              "name": "Return-Path",
+              "value": "MiniMax API Platform <notify@mail.minimax.io>"
+            },
+            {
+              "name": "To",
+              "value": "<adam@xvadur.com>"
+            },
+            {
+              "name": "Reply-To",
+              "value": "<api@minimax.io>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<8000000242422480416.auto.1773971476@mail.minimax.io>"
+            },
+            {
+              "name": "Subject",
+              "value": "Introducing MiniMax M2.7, our first model which deeply participated in its own evolution."
+            },
+            {
+              "name": "X-Priority",
+              "value": "3"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "X-EnvId",
+              "value": "8000000242422480416"
+            },
+            {
+              "name": "X-AliDM-Trace",
+              "value": "eyJPcGVuVHJhY2UiOiAiMSIsICJMaW5rVHJhY2UiOiAiMSIsICJUYWdOYW1lIjogIm9wZW5fcGxhdGZvcm0ifQ=="
+            },
+            {
+              "name": "X-AliDM-Settings",
+              "value": "eyJWZXJzaW9uIjogIjEuMCIsICJVbnN1YnNjcmliZSI6IHsiTGlua1R5cGUiOiAiZGVmYXVsdCIsICJGaWx0ZXJMZXZlbCI6ICJkZWZhdWx0In19"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html; charset=\"UTF-8\""
+            },
+            {
+              "name": "Content-Transfer-Encoding",
+              "value": "quoted-printable"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "other",
+        "confidence": 0.35,
+        "reasoning": "No heuristic rule matched strongly.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "other",
+        "addLabels": [
+          "triage/processed",
+          "triage/other"
+        ],
+        "removeLabels": [],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d06e3cb9ab71da",
+      "messageId": "19d06e3cb9ab71da",
+      "normalized": {
+        "threadId": "19d06e3cb9ab71da",
+        "messageId": "19d06e3cb9ab71da",
+        "subject": "Adam, add Peter Marcin - University Lecturer",
+        "from": "LinkedIn <messages-noreply@linkedin.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Thu, 19 Mar 2026 16:17:58 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_SOCIAL",
+          "INBOX"
+        ],
+        "snippet": "Entrepreneur, Entrepreneurship Professor, Educator, Coach ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "Do you know Peter Marcin?\r\n\r\nYes, connect: https://www.linkedin.com/comm/mynetwork/send-invite/peter-marcin-professor/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midSig=1tzb4WFtSN8Ic1&midToken=AQEy4FvwGVwDOQ&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A239577800-null-s0o4dl%7Emmxo839j%7Exq-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A239577800&_sig=0ZEHx8K02N8Ic1\r\n\r\n\r\nMore people you may know\r\n            \r\n    Sebastien Schonborg\r\nFounder AS Mobility | Entrepreneur | Automotive Expert\r\nhttps://www.linkedin.com/comm/mynetwork/send-invite/sebastienschonborg/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midSig=1tzb4WFtSN8Ic1&midToken=AQEy4FvwGVwDOQ&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A244601727-null-s0o4dl%7Emmxo839j%7Exq-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A244601727&_sig=3FVBSUFk2N8Ic1\r\n            \r\n    Michal Smoliga\r\nEntrepreneur in Residence at MVX s.r.o.\r\nhttps://www.linkedin.com/comm/mynetwork/send-invite/michal-smoliga-105ab33a8/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midSig=1tzb4WFtSN8Ic1&midToken=AQEy4FvwGVwDOQ&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1674872789-null-s0o4dl%7Emmxo839j%7Exq-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1674872789&_sig=11AM0VftSN8Ic1\r\n            \r\n    Ing. Kristína Gáfriková\r\nEntrepreneur | Engineer's degree in Economics and management of tourism\r\nhttps://www.linkedin.com/comm/mynetwork/send-invite/ing-krist%C3%ADna-g%C3%A1frikov%C3%A1-33a7b11bb/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midSig=1tzb4WFtSN8Ic1&midToken=AQEy4FvwGVwDOQ&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A858949534-null-s0o4dl%7Emmxo839j%7Exq-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A858949534&_sig=0e-inBmO2N8Ic1\r\n            \r\n    Diana Kissová\r\nEntrepreneur at PH KLÍMA       \r\nhttps://www.linkedin.com/comm/mynetwork/send-invite/diana-kissov%C3%A1-1596a8327/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midSig=1tzb4WFtSN8Ic1&midToken=AQEy4FvwGVwDOQ&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1384224981-null-s0o4dl%7Emmxo839j%7Exq-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1384224981&_sig=3m8sBucDqN8Ic1\r\n            \r\n    Jozef Čunderlík\r\nJC EUROPE AGENCY\r\n\r\nhttps://www.linkedin.com/comm/mynetwork/send-invite/jozef-%C4%8Dunderl%C3%ADk-04a4682b4/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midSig=1tzb4WFtSN8Ic1&midToken=AQEy4FvwGVwDOQ&trkEmail=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1267190842-null-s0o4dl%7Emmxo839j%7Exq-null-null&trk=eml-email_pymk_02-pymkCard-0-pymk_cta%3A+urn%3Ali%3Amember%3A1267190842&_sig=1SkAnfwKmN8Ic1\r\n\r\nSee more people you might know:https://www.linkedin.com/comm/mynetwork/add-connections/?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1tzb4WFtSN8Ic1&trk=eml-email_pymk_02-see_more-0-cta~text&trkEmail=eml-email_pymk_02-see_more-0-cta~text-null-s0o4dl~mmxo839j~xq-null-null&eid=s0o4dl-mmxo839j-xq&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmQ4Y2M5ZDA0NjkxYWQ4ZjZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlOGNiODYwNGY4ZGZjNzI4OWIzNTQ5ZmRiOTJmODkzZGU3YWU1NmEwZGZjMzM0ZmQsMSwx\r\n      \r\n\r\n----------------------------------------\r\n\r\nThis email was intended for Adam Rudavský (ex nurse ai entrepreneur)\r\nLearn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1tzb4WFtSN8Ic1&trk=eml-email_pymk_02-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_pymk_02-SecurityHelp-0-textfooterglimmer-null-s0o4dl~mmxo839j~xq-null-null&eid=s0o4dl-mmxo839j-xq&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmQ4Y2M5ZDA0NjkxYWQ4ZjZhN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThlOGNiODYwNGY4ZGZjNzI4OWIzNTQ5ZmRiOTJmODkzZGU3YWU1NmEwZGZjMzM0ZmQsMSwx\r\nYou are receiving People You May Know notification emails.\r\n\r\n\r\nUnsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1tzb4WFtSN8Ic1&trk=eml-email_pymk_02-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_pymk_02-unsubscribe-0-textfooterglimmer-null-s0o4dl~mmxo839j~xq-null-null&eid=s0o4dl-mmxo839j-xq&loid=AQG3EC4-eZN21QAAAZ0G47AKsu6NtFynU7Y6tJ2-bs1fuiNbArz0ZgMrN9dzAttR4yd_8O7a8ci5Qr_xvFY6tHjjUEC9hpugXBAY\r\nHelp: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1tzb4WFtSN8Ic1&trk=eml-email_pymk_02-help-0-textfooterglimmer&trkEmail=eml-email_pymk_02-help-0\n...[truncated]",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-19 17:17",
+            "from": "LinkedIn <messages-noreply@linkedin.com>",
+            "id": "19d06e3cb9ab71da",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_SOCIAL",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "Adam, add Peter Marcin - University Lecturer"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp1171264gdb;        Thu, 19 Mar 2026 09:18:05 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a00:1408:b0:82a:190b:2225 with SMTP id d2e1a72fcca58-82a6aed7fe1mr7183775b3a.31.1773937085197;        Thu, 19 Mar 2026 09:18:05 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1773937085; cv=none;        d=google.com; s=arc-20240605;        b=CP+NGGR3DonUlhHS/9j+xLdLS98yNHZNcz1zN0bDiQFNQushmpSAKUDtGZ7yBsHC7A         BSLtskmE1JY7aiNzHIq2OgSZK47optYQ7rMmaciXvz8epZ0S6vmDs2dAN6LUBE6+5FTX         2GmLAu2CwKoU5/raOQcNZTmOQ15xCnqowfiFTEESRm1/eHhKrFzZHh3hHlroWKlHVJ6j         qN/ZbBS2qcq86HPFqKTHHCtXi/QBQ1rptnhoQEdZTiiSHtdwarpIsq+bnLtx7m0eAgei         tbwLR6/oKnGL/Mv9U7kBekH9EjifZUOor6uhu5FQJ7RKxMS2obuEAtxir1c8d+v+oiHC         xLtg=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=require-recipient-valid-since:list-unsubscribe-post         :list-unsubscribe:to:mime-version:subject:message-id:from:date         :dkim-signature:dkim-signature;        bh=Oda8bS6qnxbs3JaBnOAs5aMSFuJpXPiYJNOLFIxL06o=;        fh=w4+DJcBiYXTEd1QrMxLFdwZsyzXC6aSJY0fWzCdmlDA=;        b=Qdp6LhF0HCIQDxamdgzsakcdK+jYGdUFcGISK9q5TqlP6IiFqejz/PVxrfiyFNslnZ         xt5uFVyvOh4997O5lpqXhluZogwsBO5PAmgccD0dvffHnCZbShLGQGp2VuCURUaOz3Ba         BU08CX4xsvoM1ECoOxkBGxlC7K1c09i8UNcxCk/PO3O/dkD8a1gzdib7/4ibT/UfW4YP         Q1fGUv2eyaeanKrE5XPWGgKsJK/hVjParGbctqaudvbbwPtOof/ZIrME20apmPQ46j5g         aUD/8r0pGZ4/KbefCmVhvDljCm4rdCqC0P/NveZXh6uUnU4E2pKDVKy8KGfql+z/+9D+         ngYw==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=t7SBeVpX;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=Nr5l8Axm;       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f5fh7mzja1vlo1@bounce.linkedin.com designates 108.174.6.201 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f5fh7mzja1vlo1@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f5fh7mzja1vlo1@bounce.linkedin.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from maile-da.linkedin.com (maile-da.linkedin.com. [108.174.6.201])        by mx.google.com with ESMTPS id d2e1a72fcca58-82a6bf220efsi13058969b3a.95.2026.03.19.09.18.04        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Thu, 19 Mar 2026 09:18:05 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f5fh7mzja1vlo1@bounce.linkedin.com designates 108.174.6.201 as permitted sender) client-ip=108.174.6.201;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=t7SBeVpX;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=Nr5l8Axm;       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f5fh7mzja1vlo1@bounce.linkedin.com designates 108.174.6.201 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f5fh7mzja1vlo1@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com; s=d2048-202308-0e; t=1773937079; bh=Oda8bS6qnxbs3JaBnOAs5aMSFuJpXPiYJNOLFIxL06o=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=t7SBeVpXX/yzArh/S41JdQlis7SL2L4A7cLdBcV28JoEogWD1gv2n9qHGaEw/EYQc\t yAlDcY4YYKQGdPWQfBDF017lVHTlFGQQFn3UqmMfY7ahKFB9cDFYPoKn3Xi7Ivw477\t +O9IcPjVF+WJn0dGqIPEeThUU4G9ixV2M7uX4c97JZAp5h1kQD4nQEQb8ALTzuyWhT\t GjP5yGGrCSzAbP7GSXgkcbfBYXF1Phz0tnDwErvdYo0REUvIHVCNKCSEdgSxoKIrAj\t yEHnhGDSojCBKPgfH5fmr/5N2YbKe1w5H3aRfeRYz76CEso0472h4ZZuc0PNvgpqqR\t VWWq/oGn3RsZA=="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=d2048-202308-00; t=1773937079; bh=Oda8bS6qnxbs3JaBnOAs5aMSFuJpXPiYJNOLFIxL06o=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=Nr5l8Axm85cCwxGra148E07AyS+/ES9qhwIeQpEb1SJXcVXU04VwcFGDRV9wyXNg3\t 02/Bm9FgcSS9J3vJrG6/axHe+Y7J4S1cXWblPESZQS7RraO50E5yO8v7NxV4W1iIAs\t 3wkzBypf1FOE3oJQnQfk47hWIkn8tEzLPNiOe5HRyC3sCbh8LHCQr1WwzAwZmqGOW6\t l+/L+qesvlQHWIi1MMb1vf0Oyt582AJFoKaOIBGL5ydMO6YZZ9I+RrSi5wP+/8TdqG\t Ru3jpHC8UuFTeF7CRhMvisTLU00rBIhHrV4LwY0VR3QuNHl70PqbSC0pFExwpzNXPf\t GPBN0nZQXTooA=="
+            },
+            {
+              "name": "Date",
+              "value": "Thu, 19 Mar 2026 16:17:58 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "LinkedIn <messages-noreply@linkedin.com>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<716906724.572088.1773937078964@lva1-app111358.prod.linkedin.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "Adam, add Peter Marcin - University Lecturer"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"----=_Part_572086_654907751.1773937078961\""
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-LinkedIn-Class",
+              "value": "TIK"
+            },
+            {
+              "name": "X-LinkedIn-Template",
+              "value": "email_pymk_02"
+            },
+            {
+              "name": "X-LinkedIn-fbl",
+              "value": "m2-at00isyl8ungwosgalub1hbeh429rtpmnyhgyai4zfrjxs1rt30ju6yt3ywiubz909et2soj0otfe27g5am8qncln1pm5waa07j8lf"
+            },
+            {
+              "name": "X-LinkedIn-Id",
+              "value": "s0o4dl-mmxo839j-xq"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_pymk_02%3BWtDwzKJITqOHEKUg46XN4Q%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1tzb4WFtSN8Ic1&trk=eml-email_pymk_02-unsub-0-unsub&trkEmail=eml-email_pymk_02-unsub-0-unsub-null-s0o4dl~mmxo839j~xq-null-null&eid=s0o4dl-mmxo839j-xq&loid=AQG3EC4-eZN21QAAAZ0G47AKsu6NtFynU7Y6tJ2-bs1fuiNbArz0ZgMrN9dzAttR4yd_8O7a8ci5Qr_xvFY6tHjjUEC9hpugXBAY>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Tue, 24 Feb 2026 16:30:53 +0000"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "newsletter",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'newsletter'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "newsletter",
+        "addLabels": [
+          "triage/processed",
+          "triage/newsletter"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d02a69dd3bd59e",
+      "messageId": "19d02a69dd3bd59e",
+      "normalized": {
+        "threadId": "19d02a69dd3bd59e",
+        "messageId": "19d02a69dd3bd59e",
+        "subject": "NVIDIA Healthcare recently posted",
+        "from": "LinkedIn <updates-noreply@linkedin.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Wed, 18 Mar 2026 20:32:41 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_UPDATES",
+          "INBOX"
+        ],
+        "snippet": "✨ Tomorrow is Day 1 of #NVIDIAGTC. We&#39;ve designed a seamless itinerary so you… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "NVIDIA Healthcare shared a post: ✨ Tomorrow is Day 1 of #NVIDIAGTC. \r\nWe’ve designed a seamless itinerary so you can settle in and focus on the ideas that matter. \r\n\r\nWatch LIVE…\r\nLIKE PRAISE EMPATHY 89, 1 Comment\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439128310548299776?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4OWNiZDk0Nzk5YWE4OTY5N2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThjM2MyY2I3YWZlZmM5NDBmYjNiNmJhZmNlMDgwZDkwYTk5NmQ1Y2JiMmJlYmNmMjAsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          openEHR International shared a post: Did you miss this? You can watch the recording here: https://lnkd.in/eFpkQXTf \r\nIHE-Europe Better Deloitte IHE Catalyst #Plugathon #Brussels\r\nLIKE 1\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7438919097960169472?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4OWNiZDk0Nzk5YWE4OTY5N2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThjM2MyY2I3YWZlZmM5NDBmYjNiNmJhZmNlMDgwZDkwYTk5NmQ1Y2JiMmJlYmNmMjAsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          Global AI Community shared a post: 🌍 The AI community never sleeps.\r\n\r\n9 events. 8 cities. 7 countries. All happening this week through Global AI Community - from Riga to Singapore to…\r\nLIKE 5, 3 Comments\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439173092838428672?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4OWNiZDk0Nzk5YWE4OTY5N2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThjM2MyY2I3YWZlZmM5NDBmYjNiNmJhZmNlMDgwZDkwYTk5NmQ1Y2JiMmJlYmNmMjAsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          Ollama shared a post: 🦞 🦙 Ollama is now an official provider for OpenClaw. \r\n\r\nopenclaw onboard --auth-choice ollama \r\n\r\nAll models from Ollama will work seamlessly with…\r\nLIKE PRAISE EMPATHY 1,169, 32 Comments\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7439105723361333248?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4OWNiZDk0Nzk5YWE4OTY5N2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThjM2MyY2I3YWZlZmM5NDBmYjNiNmJhZmNlMDgwZDkwYTk5NmQ1Y2JiMmJlYmNmMjAsMSwx\r\n        \r\n\r\n\r\n\r\n          \r\n        \r\n\r\n          Yuichi Toyoda shared a post: As we welcome the Lunar New Year across Asia Pacific, I extend my warmest wishes to all our people, clients, and partners celebrating Chinese New…\r\nLIKE PRAISE EMPATHY 223\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/urn:li:activity:7429097879169929216?origin=NETWORK_CONVERSATIONS&lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-network~post~cta~text-0-read~more&trkEmail=eml-email_network_conversations_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4OWNiZDk0Nzk5YWE4OTY5N2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThjM2MyY2I3YWZlZmM5NDBmYjNiNmJhZmNlMDgwZDkwYTk5NmQ1Y2JiMmJlYmNmMjAsMSwx\r\n        \r\n\r\n\r\nSee more on LinkedIn: https://www.linkedin.com/comm/feed/?lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-footer_promo-0-footer_see_all&trkEmail=eml-email_network_conversations_01-footer_promo-0-footer_see_all-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4OWNiZDk0Nzk5YWE4OTY5N2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThjM2MyY2I3YWZlZmM5NDB\n...[truncated]",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-18 21:32",
+            "from": "LinkedIn <updates-noreply@linkedin.com>",
+            "id": "19d02a69dd3bd59e",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_UPDATES",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "NVIDIA Healthcare recently posted"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp621336gdb;        Wed, 18 Mar 2026 13:32:47 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a00:2da1:b0:823:5270:ef48 with SMTP id d2e1a72fcca58-82a6ae54837mr4550592b3a.33.1773865966966;        Wed, 18 Mar 2026 13:32:46 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1773865966; cv=none;        d=google.com; s=arc-20240605;        b=Nt4zFJCSbGbg2SL2nEqGNnqBdPpZkUO/+TtYlVDnOhMPfo/AM8/mmX7tbqZmYiOhKV         T5NGLDiaJr93qvvW8drz8HZ96iMwLehkaReNz49n/Zpj5LiUktCUUHtUrEKRI6QvkgJQ         VbXb5j1S28HZ8J4bwQYBY8M3tXsJC+oE2o2LYRSb0Fa7jyjLU7peerznTALR/NjaKw7u         hZXQct7478NoLKCzMeeAR4ZF6Cc5NKDpToRMssGQwN0yxcN/xa1jAiH4Zr2NG9y6sUQV         jbgtktkAa/rR9eGVD2MVed/Y+/ap0aIobjoKF6M+bv+mjMaphimERjgiGOBCaxqwoU0S         i4CQ=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=require-recipient-valid-since:list-unsubscribe-post         :list-unsubscribe:to:mime-version:subject:message-id:from:date         :dkim-signature:dkim-signature;        bh=CyE8M+6g+/BxL2JN222Xnd1FJWKRj6ymR7zHF1n8YNE=;        fh=w4+DJcBiYXTEd1QrMxLFdwZsyzXC6aSJY0fWzCdmlDA=;        b=DSPXSd3wD2LQNhYUGu42emRchE5oQhOo2ZCuEKDVnms52XPMmTuA32K4ED4y8FG+gE         Z5wDRa2of1ODhs9iaYHPzQHFD+9/3unEKl5Zp8CWxES9oW7EjTkQj55fa85SLNFv/OaQ         sYpFFGThg1riQteafVWe4/j4SXsAyVjoiVz3n98lsEl3Mi4lNJnQm9GwW/Whdes+HsEY         DcowKJIjWxMxbFwv6z0SnYdGTQr8VyGySBNdYXo6TEgT0tKKu2IlFzmEgj3j65etxmkl         yxy+/0EUQSDmF7TN6M3XoiB2e/mTcekiNek1swaWLvsGylE2YqtK2ojmuexZdlftPDco         GhEw==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=DHW+HpH0;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=C1GPt9qM;       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f1fl6yg6do52er@bounce.linkedin.com designates 2620:119:50c0:207::197 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f1fl6yg6do52er@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f1fl6yg6do52er@bounce.linkedin.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from maile-ge.linkedin.com (maile-ge.linkedin.com. [2620:119:50c0:207::197])        by mx.google.com with ESMTPS id d2e1a72fcca58-82a6b564308si7026633b3a.19.2026.03.18.13.32.44        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Wed, 18 Mar 2026 13:32:46 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f1fl6yg6do52er@bounce.linkedin.com designates 2620:119:50c0:207::197 as permitted sender) client-ip=2620:119:50c0:207::197;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=DHW+HpH0;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=C1GPt9qM;       spf=pass (google.com: domain of m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f1fl6yg6do52er@bounce.linkedin.com designates 2620:119:50c0:207::197 as permitted sender) smtp.mailfrom=m-3eqxnkjyvte808396fdltqv1hmh94y4crbtvo74f1fl6yg6do52er@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com; s=d2048-202308-0e; t=1773865961; bh=CyE8M+6g+/BxL2JN222Xnd1FJWKRj6ymR7zHF1n8YNE=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=DHW+HpH04en4KN+Ww4PGCkL4/ugaf/Q8wVtLlINnl6sCQNwbjYu7W3ij2JtJBCjii\t juBMmstaIQoc/fMh7Kg2MSns3V8gmoELcgp5ghsgFIA2hbe0nORgt/rgfbYhv0whS+\t 2vl6um1yul/I/szIUAeSTHkYwwVerDYVuKe1SNPzVHycGN6rpGdJK6hjj1dvKwLmwJ\t y6Dlf2C5+FoX+w+YeCofn+VzHoQf/QrOhOyJSu3JTyhGFRS3fhYL3S5NBR6uWBgdem\t CVTpH04VFx/C6iEK+LDIGddS5DulWSOijl3g4yV6KTpr4EBSHX8tus1Hw0KCORuktP\t tE/G8MWVuIZNw=="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=d2048-202308-00; t=1773865961; bh=CyE8M+6g+/BxL2JN222Xnd1FJWKRj6ymR7zHF1n8YNE=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=C1GPt9qMlBjf2yBgJstSvm+BCDo29sD4gprj57GqnUfZfHC4/O2VmRjXGX1FpW/yl\t wLx5s8vO5tUe4lpcLDR9ninnhh4IO+kUXs993VB2+wTLsh0LTXvKtKMzU5VhRurpt0\t M8YIFZNaENeD8h/M4BrjgdOSgqJQto0C5xbBdtuqE6puBM86KPbg/8HR5unOMI7nM1\t YwiTjGYnfNrFLJzhVsK8WoKPvD6oKlYLg/k8WyPT9wGQte0DSQUi6f5K/Oq019ns04\t xxN5VP5EB/Ih8C56kvjl9i6CXEW/uKdrIcDMXSbuyoM5YZ4j0lb4ZkHJZNE81D3bzv\t c6KSKofdlxN3Q=="
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 18 Mar 2026 20:32:41 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "LinkedIn <updates-noreply@linkedin.com>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<781828275.929793.1773865961051@lva1-app102777.prod.linkedin.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "NVIDIA Healthcare recently posted"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"----=_Part_929786_314374113.1773865961045\""
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-LinkedIn-Class",
+              "value": "EMAIL-DEFAULT"
+            },
+            {
+              "name": "X-LinkedIn-Template",
+              "value": "email_network_conversations_01"
+            },
+            {
+              "name": "X-LinkedIn-fbl",
+              "value": "m2-aszuhh4xftkd5risbrnpdlxi508wpv1tihqatxngpwzvn1v9devp4jmnij33qzwtv2v1chfs11vccsrjtrewdqg9zg4tw5efg7jupv"
+            },
+            {
+              "name": "X-LinkedIn-Id",
+              "value": "s0o4dl-mmwhcvgh-gs"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.linkedin.com/mysettings-api/settingsApiEmailSubscriptionPost?lipi=urn%3Ali%3Apage%3Aemail_email_network_conversations_01%3BHir3uz%2FsT3aWHqQsfFACYg%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1M2RpudWog7Ic1&trk=eml-email_network_conversations_01-oneClickUnsub-0-oneClickUnsub&trkEmail=eml-email_network_conversations_01-oneClickUnsub-0-oneClickUnsub-null-s0o4dl~mmwhcvgh~gs-null-null&eid=s0o4dl-mmwhcvgh-gs&loid=AQH_KKU9HHp6xgAAAZ0CpoP5ZMBPwg0SbOjDJ54lmOnTE9FvVOckpgn8pomoPWkPn8veufA2pbrdi_HLB4kfBYwGyb-Aqjl-3THBAlnYvRK9-2u4JbfE>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Tue, 24 Feb 2026 16:30:53 +0000"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "ignore",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'ignore'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "ignore",
+        "addLabels": [
+          "triage/processed",
+          "triage/ignore"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d023d66c394acb",
+      "messageId": "19d023d66c394acb",
+      "normalized": {
+        "threadId": "19d023d66c394acb",
+        "messageId": "19d023d66c394acb",
+        "subject": "💬 Daniel Zaťko commented: \"Je radosť vidieť profíkov z praxe učiť druhých problematiku, v ktorej sú...",
+        "from": "Daniel on Facebook <close_friend_updates@facebookmail.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Wed, 18 Mar 2026 11:37:51 -0700",
+        "labels": [
+          "CATEGORY_SOCIAL",
+          "INBOX"
+        ],
+        "snippet": "RSI, TCA a torakostómia WS pre... ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌",
+        "bodyText": "Hi Adam,\r\n\r\n💬 Daniel Zaťko commented on a post.\r\n\r\nThanks,\r\nThe Facebook team\r\n\r\n\r\n\r\n========================================\r\nThis message was sent to adam@xvadur.com. If you don't want to receive these emails from Meta in the future, please follow the link below to unsubscribe.\r\nhttps://www.facebook.com/o.php?k=AS3d_68RLdiKpLINZFI&u=100055582180281&mid=64d5075923849G5b00016f03b9G64d50bf283b1bG207c&ee=Af--8VeC43GNWi1cm9lwOYYh9hlTzCGZCY0YlDKXt5P-kP0Von1lryxO-fotk7mnv-IovEf2r23S\r\nMeta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland\r\nTo help keep your account secure, please don't forward this email. Follow the link below to learn more.\r\nhttps://www.facebook.com/email_forward_notice/?mid=64d5075923849G5b00016f03b9G64d50bf283b1bG207c\r\n\r\n",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-18 19:37",
+            "from": "Daniel on Facebook <close_friend_updates@facebookmail.com>",
+            "id": "19d023d66c394acb",
+            "labels": [
+              "CATEGORY_SOCIAL",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "💬 Daniel Zaťko commented: \"Je radosť vidieť profíkov z praxe učiť druhých problematiku, v ktorej sú..."
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp560793gdb;        Wed, 18 Mar 2026 11:37:51 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a00:1386:b0:829:7efc:fe20 with SMTP id d2e1a72fcca58-82a6ae860e3mr3913797b3a.40.1773859071563;        Wed, 18 Mar 2026 11:37:51 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1773859071; cv=none;        d=google.com; s=arc-20240605;        b=DarK8E2CQWBKGf7xG03Sw1qOMpH2xhDRe6wZydmtOn8fpAufTQ0YpYa0oYH2H+sSXu         Ol3wbyIu3Ahq3Qpy3i2ZadwF6TDx+LTCNe3PmicR5g/LWZR4QncwAMooCH6bdMPAoy6a         FFd0nNSgBpChdm9GXuBUkPvvR0o/zUOsz8Usa8LW6cWo5OWpG70EvorJmtDicRZlJogk         5sBmvqJ//gAcmTWJP7Ccc4rndaaybT323dmYhrsuwruu69dcjkEFv1xMMe1ArkrDiUDs         nae1Ns6O+e1IjVzo8rVZ6AuVsIQfyLSWNRL1TXXUtI+h7DUzBGwXYGg4tyCqag2XrpIL         ywWw=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=message-id:mime-version:require-recipient-valid-since:feedback-id         :bimi-selector:list-unsubscribe-post:list-unsubscribe:errors-to         :reply-to:from:subject:to:date:dkim-signature;        bh=mez/fG+HNYQ2sfm95ZLcXfDLQSomTkaR8Ai/kO2fkhA=;        fh=EIyn1CMUhDpU5B2JTTK2hhjXeOzTXscGhvoKayXEL94=;        b=Bo+3iCVzB884XBnsyAqTFOlzSPdVHnG/1LJqf52jKNWolpG6dix7ZZcBM7my/9OF+X         nrJ/gp1egztIa+Q3xGUMyST4D9wu3jaClVPNi+Foi8VOxjJ0dCf4yRfE4iy6ZuHus25H         InW1Od2AbfSd8Jb2bHrwrgfSiWA5FfHLejsVuidHl3yLMfo35RII8MXyIwB687x3qJqH         fADIPzreQozsD3N1MRhGqi39rU8WgG2EpNYl2ie0ecDzh2lwehJAc/vMR3PdQSIlr+E0         bA6yhFkkDvwFO6UAl5kY1YzeIJJ/5hgYYXMBNOmvhijBXaNB1ZYXSuyJ/XqPm6CuY0DH         RLcA==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@facebookmail.com header.s=s1024-2013-q3 header.b=kv62OcuA;       spf=pass (google.com: domain of close_friend_updates@facebookmail.com designates 66.220.144.144 as permitted sender) smtp.mailfrom=close_friend_updates@facebookmail.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=facebookmail.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<close_friend_updates@facebookmail.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from 66-220-144-144.mail-mail.facebook.com (66-220-144-144.mail-mail.facebook.com. [66.220.144.144])        by mx.google.com with ESMTPS id d2e1a72fcca58-82a6bf298f4si7074055b3a.125.2026.03.18.11.37.51        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Wed, 18 Mar 2026 11:37:51 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of close_friend_updates@facebookmail.com designates 66.220.144.144 as permitted sender) client-ip=66.220.144.144;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@facebookmail.com header.s=s1024-2013-q3 header.b=kv62OcuA;       spf=pass (google.com: domain of close_friend_updates@facebookmail.com designates 66.220.144.144 as permitted sender) smtp.mailfrom=close_friend_updates@facebookmail.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=facebookmail.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com; s=s1024-2013-q3; t=1773859071; bh=mez/fG+HNYQ2sfm95ZLcXfDLQSomTkaR8Ai/kO2fkhA=; h=Date:To:Subject:From:MIME-Version:Content-Type; b=kv62OcuAnUD1rGZpjXHN4Jxwiecp6YSYtKTa5XT5YX2XE232z++upnoPNnXImwjKM\t hTImW3sSfMT9de7LofKIhAhFLKXXPT4g8dY7WLvg37AVVpwdRHiluG/Zv4Cdx6PERg\t MtlXojuzWpeR2H8R0f5lVxlObd7TJ5txpwylrvlI="
+            },
+            {
+              "name": "X-Facebook",
+              "value": "from 2803:6081:704c:1b37:301b:40d6:144a:a00 ([MTI3LjAuMC4x]) by thrift.facebook.com with HTTPS (ZuckMail);"
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 18 Mar 2026 11:37:51 -0700"
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "💬 Daniel Zaťko commented: \"Je radosť vidieť profíkov z praxe učiť druhých problematiku, v ktorej sú..."
+            },
+            {
+              "name": "X-Priority",
+              "value": "3"
+            },
+            {
+              "name": "X-Mailer",
+              "value": "ZuckMail [version 1.00]"
+            },
+            {
+              "name": "Return-Path",
+              "value": "close_friend_updates@facebookmail.com"
+            },
+            {
+              "name": "From",
+              "value": "Daniel on Facebook <close_friend_updates@facebookmail.com>"
+            },
+            {
+              "name": "Reply-to",
+              "value": "noreply <noreply@facebookmail.com>"
+            },
+            {
+              "name": "Errors-To",
+              "value": "close_friend_updates@facebookmail.com"
+            },
+            {
+              "name": "X-Facebook-Notify",
+              "value": "close_friend_comment:from_feed_inventory; mailid=U1U64d5075923849G5b00016f03b9G64d50bf283b1bG207c"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.facebook.com/email/oneclick/unsubscribe?identifier=AeIFkBdfZGPMhyNH21wyoAoz9rY_UeiXGdznEK5RT_LKHDCq76IpzfxcUiZWbJO6v-u2Mf7JeL66arYQwY1ZCn7qqdS0vpd-f14N9Pvg0zN4iKBivKGZdvt0k0JMTK3RWM4nVr35UfEXJk0vwZ3OrtLbD5NsFd3QnODy5t5DMflDRjLPxVubQ2h33iC-XsxuM8zNNdCk6fGjwLr05w9eOohbSPk-SBP-ZdpcAVmCix9ETmEw7YN_1obqgvpx5Et1We3V02qWkn-9yfdqQK-n7FLbGvYBbi8xRByeuCWJzTLM931ydErrcX7A7u1domtevZCDEOYysoZr6RVXx3nU9w>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "X-FB-Internal-Notiftype",
+              "value": "close_friend_comment:from_feed_inventory"
+            },
+            {
+              "name": "BIMI-Selector",
+              "value": "v=BIMI1; s=fb2023q1v3;"
+            },
+            {
+              "name": "Feedback-ID",
+              "value": "close_friend_comment:Facebook"
+            },
+            {
+              "name": "X-FB-Internal-MID",
+              "value": "U1U64d5075923849G5b00016f03b9G64d50bf283b1bG207c"
+            },
+            {
+              "name": "X-FB-Internal-NotifID",
+              "value": "1773859060071195"
+            },
+            {
+              "name": "X-FB-Internal-RecipID",
+              "value": "100055582180281"
+            },
+            {
+              "name": "X-FACEBOOK-PRIORITY",
+              "value": "1"
+            },
+            {
+              "name": "X-Auto-Response-Suppress",
+              "value": "All"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Wednesday, 18 Feb 2026 05:16:09 +0000"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"b1_ce93077a7dc76509655d9d10b22b119c\""
+            },
+            {
+              "name": "Message-ID",
+              "value": "<17aec030-2b0a-49ab-b9e8-4e7fd451bb7c@facebookmail.com>"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "newsletter",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'newsletter'.",
+        "needsReply": false,
+        "shouldDraftReply": false,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "newsletter",
+        "addLabels": [
+          "triage/processed",
+          "triage/newsletter"
+        ],
+        "removeLabels": [
+          "UNREAD"
+        ],
+        "shouldDraftReply": false,
+        "needsReply": false
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      }
+    },
+    {
+      "threadId": "19d021f2b291d366",
+      "messageId": "19d021f2b291d366",
+      "normalized": {
+        "threadId": "19d021f2b291d366",
+        "messageId": "19d021f2b291d366",
+        "subject": "View Roland P.’s post and your next steps",
+        "from": "LinkedIn <messages-noreply@linkedin.com>",
+        "to": "\"Adam Rudavský\" <adam@xvadur.com>",
+        "deliveredTo": "adam@xvadur.com",
+        "date": "Wed, 18 Mar 2026 18:04:38 +0000 (UTC)",
+        "labels": [
+          "UNREAD",
+          "CATEGORY_SOCIAL",
+          "INBOX"
+        ],
+        "snippet": "Back in 2005, the… ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+        "bodyText": "Now, take these next steps for more success\r\n\r\nWe’ll send you LinkedIn updates, updates from your network, recruiter messages and promotional messages. You can change your preferences anytime.\r\n\r\n\r\n\r\n        Check out these interesting conversations\r\nBecause you viewed Roland’s profile\r\nRoland P. shared a post: Back in 2005, the world's fastest supercomputer was IBM's Blue Gene/L, with a processing speed of 137 TFLOPS (FP64)\r\n\r\nFast forward two decades, and…\r\nLIKE 1, 1 Comment\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/share:7438843953929547776?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more&trkEmail=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4YWM5ZDA0NjllYTg4ZDYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThiN2ZlODg1NDkyZDNiODEzYjg2NzY3NzYyYjVmNmY3NDAyMWZjYTVkYjA2M2YxZTAsMSwx\r\nRoland P. shared a post: LLMs gave AI reasoning. Agents give it action.\r\n\r\nThat shift is already happening — and it's moving faster than LLMs did.\r\n\r\nWhen AI starts acting…\r\nLIKE 5, 7 Comments\r\n\r\n\r\nRead more: https://www.linkedin.com/comm/feed/update/share:7435580926170091521?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more&trkEmail=eml-email_next_best_action_digest_01-network~post~cta~text-0-read~more-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4YWM5ZDA0NjllYTg4ZDYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThiN2ZlODg1NDkyZDNiODEzYjg2NzY3NzYyYjVmNmY3NDAyMWZjYTVkYjA2M2YxZTAsMSwx\r\n\r\nSee more posts:https://www.linkedin.com/comm/in/roland-polczer/recent-activity/?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-rJaE4RdtRtyjFF93BKq3gg%3D%3D-0-rJaE4RdtRtyjFF93BKq3gg%3D%3D&trkEmail=eml-email_next_best_action_digest_01-rJaE4RdtRtyjFF93BKq3gg%3D%3D-0-rJaE4RdtRtyjFF93BKq3gg%3D%3D-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4YWM5ZDA0NjllYTg4ZDYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThiN2ZlODg1NDkyZDNiODEzYjg2NzY3NzYyYjVmNmY3NDAyMWZjYTVkYjA2M2YxZTAsMSwx\r\n\r\n\r\n\r\n----------------------------------------\r\n\r\nThis email was intended for Adam Rudavský (ex nurse ai entrepreneur)\r\nLearn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_next_best_action_digest_01-SecurityHelp-0-textfooterglimmer-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4YWM5ZDA0NjllYTg4ZDYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThiN2ZlODg1NDkyZDNiODEzYjg2NzY3NzYyYjVmNmY3NDAyMWZjYTVkYjA2M2YxZTAsMSwx\r\nYou are receiving this email because members like you have also taken these actions.\r\n\r\n\r\nUnsubscribe: https://www.linkedin.com/comm/mypreferences/u/emailunsub?action=updateEmailSubscription&lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_next_best_action_digest_01-unsubscribe-0-textfooterglimmer-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&loid=AQGp5MI6Lh-zcwAAAZ0CHvlr_aQ7X2DMETxIuhxvaW-Bjtcz_ZIgiB3OYs04pEN4ute7q4eecSy9DFieyrMiNeoWbzs0yMLHNyH8Sa3hsDmJEB4Gjr6T-zCctnHB\r\nHelp: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-help-0-textfooterglimmer&trkEmail=eml-email_next_best_action_digest_01-help-0-textfooterglimmer-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&otpToken=MTMwMzE3ZTQxMzI5YzFjN2IwMmIwZmViNDExOWU0YmM4YWM5ZDA0NjllYTg4ZDYyN2JjNjAxNjc0ODVjNWFmNmZmZDBkN2UxMThiN2ZlODg1NDkyZDNiODEzYjg2NzY3NzYyYjVmNmY3NDAyMWZjYTVkYjA2M2YxZTAsMSwx\r\n\r\n© 2026 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.\r\nLinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.",
+        "messageCount": 1,
+        "raw": {
+          "summary": {
+            "date": "2026-03-18 19:04",
+            "from": "LinkedIn <messages-noreply@linkedin.com>",
+            "id": "19d021f2b291d366",
+            "labels": [
+              "UNREAD",
+              "CATEGORY_SOCIAL",
+              "INBOX"
+            ],
+            "messageCount": 1,
+            "subject": "View Roland P.’s post and your next steps"
+          },
+          "latestMessageHeaders": [
+            {
+              "name": "Delivered-To",
+              "value": "adam@xvadur.com"
+            },
+            {
+              "name": "Received",
+              "value": "by 2002:a05:7108:b684:b0:558:f5ec:8167 with SMTP id pb4csp541095gdb;        Wed, 18 Mar 2026 11:04:51 -0700 (PDT)"
+            },
+            {
+              "name": "X-Received",
+              "value": "by 2002:a05:6a00:2d8d:b0:81e:5d52:53b8 with SMTP id d2e1a72fcca58-82a6aec383fmr4052395b3a.50.1773857090531;        Wed, 18 Mar 2026 11:04:50 -0700 (PDT)"
+            },
+            {
+              "name": "ARC-Seal",
+              "value": "i=1; a=rsa-sha256; t=1773857090; cv=none;        d=google.com; s=arc-20240605;        b=FeCpMhu7n5AGMSxUdREbG7XCOWzkfgc4HFf2TiXRQHdgIGN3ng9H3vYMtQ/8hUPWB9         PtayYdGZIOOWMSNPSAIfN5XFcTae4HPA9K939u/SWMS4SbxvBuPDtNl2rMLLXMMTKYGj         KMhZf6Hd+yyLSUibAxkhdYbgEH/+TYL6bicPVlehp0ee2lWTgZNtp6GelEVtFQJa9P0f         QrrdKT1GrVYmschmGtJY73ANNpbT+qSiJOEVgMoGTDmbPls4soH6dgqWcGq/aHZPyUEf         rtbQXTHFGk+TIp9fgnPgkIpc01LyYzVAqM9ieaYp9e9o5Wjxli7hkYTjHxzA7zZVw1Bg         Ar0Q=="
+            },
+            {
+              "name": "ARC-Message-Signature",
+              "value": "i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;        h=require-recipient-valid-since:list-unsubscribe-post         :list-unsubscribe:to:mime-version:subject:message-id:from:date         :dkim-signature:dkim-signature;        bh=lx5r8Juqq5qWy/qgKW6S7oohbtmDMLQBQMyEgjOiiVc=;        fh=w4+DJcBiYXTEd1QrMxLFdwZsyzXC6aSJY0fWzCdmlDA=;        b=JcY9VO10leBaa3+sKsBKVyPLcG5X37+cYkNzvB7BI0B3Xf/wJ2WQ0RZdDBfiY4+710         EnyHx0IGN3+aHHRcjaiCSnuPlto5n9EPcNDNaw2S33nVR3ZIsH07R0KZEiMYcISOKJ4M         TICV/PfY/3mVOx9A2dJcDx41x+LCEtrERSGbr1NpMCXJC7nlnjFulYYG36lEb6mspEvl         CwQOqNnqo+dueZYSjv0UF8OaVfigXd2ETXccG3dyGOiXNsqfymSWeL8jZyxHjyifj16P         Nlx7Ep+x/3gsWybmmaJ/oMnJvPFVHJuTT94e6pQQjgfsPevSIkhjrNNl1pKrktVSRE8U         yiQQ==;        dara=google.com"
+            },
+            {
+              "name": "ARC-Authentication-Results",
+              "value": "i=1; mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=kIWLfI16;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=pXKOb9jd;       spf=pass (google.com: domain of m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l9244mfthmleu7r@bounce.linkedin.com designates 108.174.0.193 as permitted sender) smtp.mailfrom=m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l9244mfthmleu7r@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "Return-Path",
+              "value": "<m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l9244mfthmleu7r@bounce.linkedin.com>"
+            },
+            {
+              "name": "Received",
+              "value": "from maile-ga.linkedin.com (maile-ga.linkedin.com. [108.174.0.193])        by mx.google.com with ESMTPS id d2e1a72fcca58-82a6b566f84si6318260b3a.40.2026.03.18.11.04.48        for <adam@xvadur.com>        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);        Wed, 18 Mar 2026 11:04:50 -0700 (PDT)"
+            },
+            {
+              "name": "Received-SPF",
+              "value": "pass (google.com: domain of m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l9244mfthmleu7r@bounce.linkedin.com designates 108.174.0.193 as permitted sender) client-ip=108.174.0.193;"
+            },
+            {
+              "name": "Authentication-Results",
+              "value": "mx.google.com;       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=kIWLfI16;       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=pXKOb9jd;       spf=pass (google.com: domain of m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l9244mfthmleu7r@bounce.linkedin.com designates 108.174.0.193 as permitted sender) smtp.mailfrom=m-h9euvkt3ckk914yh7scmqu8nah1uiaqjlcn0l9244mfthmleu7r@bounce.linkedin.com;       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com; s=d2048-202308-0e; t=1773857078; bh=lx5r8Juqq5qWy/qgKW6S7oohbtmDMLQBQMyEgjOiiVc=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=kIWLfI16d2NZy65rOXfqpmsxooomFb9OeJsYvp7nTK94leCHIzzZn8kATdd2ySCY+\t poXx6XoWx8BBdlCE2k4Ehi/VVOIYHVgMgFn2ZtF5e1i0doao6XZ4Q5DecjxCdmRljZ\t dstWeFk9l1Ks8viplmUd3emK/7aUdvj5uRF0VMg5gHBpHEXzw9xmi+50a4Uv7Ntqeg\t BITr6eVTX31FcH3L2JQ/lc3AWyo46lGZixHsMGevOYktDC/voomXaPylbYn8jmsMQJ\t B0ASoC2HEC+61jOQDB9Z35493AE/PhfcAWOe41/3gvW22VkaeK17pBI6+HXTtjhiy/\t bOV43DPljxNPg=="
+            },
+            {
+              "name": "DKIM-Signature",
+              "value": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com; s=d2048-202308-00; t=1773857078; bh=lx5r8Juqq5qWy/qgKW6S7oohbtmDMLQBQMyEgjOiiVc=; h=Date:From:Subject:MIME-Version:Content-Type:To:X-LinkedIn-Class:\t X-LinkedIn-Template:X-LinkedIn-fbl; b=pXKOb9jdlOLOocniaurW5QM1A/DFW990GHPiNawYSP0zl5dISZORq6vwLxXYqpvIL\t 1iYTfSJmGdtsxZje2EB1VdR4dmBjF+dHr0le/wJBBiUbpK8Jn8UftxajjQaQigL7fV\t jBODL/IXfhmSyfMxxhGJXRS/MtBbPds/aCOgauIQRCJQJGPX3kHmmA0BP8PPlZK+Pl\t S39R/W5KfgqORh4+m+ak6UIHHuBFW3WOzSSRyKcKyJueKJLnStU5VwtKp84+ZCpP2b\t QkSDkQCOGVl786pHDasFB0MYp9+XN+yJ9iRQar+Ghh1JeDoB02GXbhU6GEJk+7RHhs\t e9ilCtZ9sF8tQ=="
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 18 Mar 2026 18:04:38 +0000 (UTC)"
+            },
+            {
+              "name": "From",
+              "value": "LinkedIn <messages-noreply@linkedin.com>"
+            },
+            {
+              "name": "Message-ID",
+              "value": "<1169945201.27709231.1773857078111@lva1-app43838.prod.linkedin.com>"
+            },
+            {
+              "name": "Subject",
+              "value": "View Roland P.’s post and your next steps"
+            },
+            {
+              "name": "MIME-Version",
+              "value": "1.0"
+            },
+            {
+              "name": "Content-Type",
+              "value": "multipart/alternative; boundary=\"----=_Part_27709229_1435373125.1773857078108\""
+            },
+            {
+              "name": "To",
+              "value": "\"Adam Rudavský\" <adam@xvadur.com>"
+            },
+            {
+              "name": "X-LinkedIn-Class",
+              "value": "EMAIL-DEFAULT"
+            },
+            {
+              "name": "X-LinkedIn-Template",
+              "value": "email_next_best_action_digest_01"
+            },
+            {
+              "name": "X-LinkedIn-fbl",
+              "value": "m2-aszt8mzofwppoyrvfi5qfe2xietfk1swngsxgcsbi501g2c4lxpftc0cjlkkt4mjjc0ok3mde6u461n75g2beo7hkw1etf9n17kcw3"
+            },
+            {
+              "name": "X-LinkedIn-Id",
+              "value": "s0o4dl-mmwcoeos-w"
+            },
+            {
+              "name": "List-Unsubscribe",
+              "value": "<https://www.linkedin.com/mysettings-api/settingsApiEmailSubscriptionPost?lipi=urn%3Ali%3Apage%3Aemail_email_next_best_action_digest_01%3Bklq2z5nGRneqS3JcQ7lr4A%3D%3D&midToken=AQEy4FvwGVwDOQ&midSig=1-8V5uw5ZY7sc1&trk=eml-email_next_best_action_digest_01-oneClickUnsub-0-oneClickUnsub&trkEmail=eml-email_next_best_action_digest_01-oneClickUnsub-0-oneClickUnsub-null-s0o4dl~mmwcoeos~w-null-null&eid=s0o4dl-mmwcoeos-w&loid=AQGp5MI6Lh-zcwAAAZ0CHvlr_aQ7X2DMETxIuhxvaW-Bjtcz_ZIgiB3OYs04pEN4ute7q4eecSy9DFieyrMiNeoWbzs0yMLHNyH8Sa3hsDmJEB4Gjr6T-zCctnHB>"
+            },
+            {
+              "name": "List-Unsubscribe-Post",
+              "value": "List-Unsubscribe=One-Click"
+            },
+            {
+              "name": "Require-Recipient-Valid-Since",
+              "value": "adam@xvadur.com; Tue, 24 Feb 2026 16:30:53 +0000"
+            }
+          ]
+        }
+      },
+      "classification": {
+        "category": "legal",
+        "confidence": 0.55,
+        "reasoning": "Heuristic match on keywords for 'legal'.",
+        "needsReply": true,
+        "shouldDraftReply": true,
+        "draftReplyInstructions": "",
+        "aiError": "Missing AI API key in env OPENAI_API_KEY."
+      },
+      "plan": {
+        "category": "legal",
+        "addLabels": [
+          "triage/processed",
+          "triage/legal",
+          "triage/needs-reply",
+          "triage/awaiting-human"
+        ],
+        "removeLabels": [],
+        "shouldDraftReply": true,
+        "needsReply": true
+      },
+      "execution": {
+        "mode": "dry-run",
+        "labelsApplied": false,
+        "draftCreated": false
+      },
+      "proposedDraft": {
+        "skipped": true,
+        "reason": "Missing AI API key in env OPENAI_API_KEY."
+      }
+    }
+  ]
+}

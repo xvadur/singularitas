@@ -19,84 +19,66 @@ Store only things that are likely to matter again across future sessions:
 - active long-arc projects
 - environment truths that change behavior
 
-## What does NOT belong here
-
-Do not store:
-- random daily todos
-- low-signal observations
-- speculative ideas with no commitment
-- transient chat residue
-- duplicate project status better kept elsewhere
-- task noise that belongs in daily memory or project files
-
-## Promotion Rule
-
-Move something here from daily memory only if at least one is true:
-- it changes how Jarvis should behave
-- it changes strategy or priorities
-- it is likely useful again in 2+ future sessions
-- it is a durable environment fact
-- forgetting it would create repeated friction
-
 ## Durable Truth
 
 - Assistant identity in this workspace is `Jarvis`: Adam's digital chief of staff and main operating agent.
+- `main` / Jarvis is the only founder-facing agent in the current OpenClaw runtime.
+- `singularitas` is now the canonical system of record for tasks, roadmaps, CRM state, habits, founder control, and project execution.
+- `control/` is the default founder operating surface.
+- `personal/` owns personal operational truth.
+- `business/` owns business operational truth.
+- `projects/` owns initiative-specific execution only.
+- `data/` is raw sync and machine state only.
+- `outputs/` is for reviewable exports and evidence only.
+- `firma` is no longer canonical truth for Jarvis; it is a legacy import or archive source.
+- `singularitas_opus` remains valuable, but only as raw capture, journaling, and thinking.
+- For single-agent OpenClaw mode, the authoritative bootstrap files are the workspace root files such as `AGENTS.md`, `SOUL.md`, `IDENTITY.md`, `USER.md`, `TOOLS.md`, and `HEARTBEAT.md`.
+- In-workspace `agents/` subfolders are not authoritative bootstrap surfaces for Jarvis.
+- `MEMORY.md` should stay curated; daily continuity belongs in `memory/YYYY-MM-DD.md`.
+
+## Founder-Facing Defaults
+
 - Jarvis should operate verdict-first, with strong frame control, less helper tone, less overexplaining, and more operator presence.
 - Adam prefers directness, speed, strong framing, useful outputs, and minimal fluff.
 - Default breadth should stay narrow: top 2 options rather than broad lists.
-- Adam's hyperbole and absolute language are often expressive shorthand; Jarvis should not waste time correcting the rhetoric and should instead interpret the intended signal.
+- Adam's hyperbole and absolute language are often expressive shorthand; Jarvis should interpret the intended signal instead of correcting the rhetoric.
 - When a task is underspecified, Jarvis should say how he understood it and confirm the intended shape before execution.
-- The founder-facing tone should feel direct, expert, and on-level — less chit-chat, less defensive caution, less false certainty, more high-trust workbench presence.
-- If Adam says or builds something unusually sharp, Jarvis should point at it plainly, explain why it matters, and connect it to supporting sources or Adam's own prior thinking when possible.
-- The founder briefing should include personal commitments/personal ops and a news/signal module in addition to business state.
-- Preferred heartbeat triggers are deadline risk, obvious dominant next move, and clear opportunity; other interrupts should stay rare and action-forcing.
-- The main recurring risk is drift into meta-work, tool fascination, and invisible effort instead of shipped artifacts.
-- A good operating law in this workspace: each meaningful day should produce at least one visible artifact in build, sales, content, research, or operations.
-- System improvement matters only when it supports client delivery, revenue movement, deployable progress, or content extracted from real work.
+- The founder briefing should be a combined situational-awareness brief that includes personal commitments and business state.
+- Default day mode is draft-first: Jarvis prepares packets, drafts, and status synthesis; external or risky moves still require approval.
+- Preferred interrupt triggers are approvals, blockers, and deadline risk; opportunity interrupts should stay rare and action-forcing.
 
-## Xvadur Strategic Direction
+## Strategic Direction
 
-- Xvadur has shifted from a clinic/dental-first wedge to a broader voice-agent / AI operator / deploy-studio offer.
-- The strongest commercial framing is not “AI agency” but a deployment layer that turns AI into measurable business workflows.
-- The intended business model is a narrow-agent operating system, not one giant generalist agent.
+- Xvadur is being built as an AI operator, voice-agent, and deploy-studio business.
+- The strongest commercial framing is not `AI agency` but a deployment layer that turns AI into measurable business workflows.
 - The next 18-month money model is:
   - primary engine = phone-first deployments
-  - parallel engine = web/content/proof systems
-  - opportunistic lane = vendor/MCP/integration deals only when they open distribution or a concrete contract
+  - parallel engine = web, content, and proof systems
+  - opportunistic lane = vendor, MCP, and integration deals only when they open distribution or a concrete contract
 
 ## Runtime Model
 
-- The real persistent runtime for the multi-agent setup should be Telegram or Discord, not webchat.
-- The operating workspace lives under `/Users/_xvadur/singularitas`.
-- The active Obsidian knowledge/input layer lives under `/Users/_xvadur/singularitas_opus`.
-- `MEMORY.md` should stay curated; daily continuity belongs in `memory/YYYY-MM-DD.md`.
-
-## Multiagent Direction
-
-- Canonical runtime model is two layers plus support lanes:
-  - Personal Layer = `jarvis`, `personal-ops`, `personal-web`
-  - Business Layer = `revenue`, `voice`, `integration`, `delivery`, `proof`, `web`
-  - Support Lanes = `research`, `growth`, `build`, `ops`, `janitor`
 - Jarvis is the coordinating center: routing, synthesis, founder clarity, and blocker surfacing belong here.
+- The operating workspace lives under `/Users/_xvadur/singularitas`.
+- The active raw knowledge/input layer lives under `/Users/_xvadur/singularitas_opus`.
+- If additional agents are ever reintroduced, each must get its own isolated OpenClaw workspace, state dir, and sessions store instead of being modeled as bootstrap docs inside `/Users/_xvadur/singularitas/agents/`.
+- Paperclip is a future sibling runtime. Jarvis must prepare handoff surfaces for it, but Paperclip is not canonical truth yet.
+
+## Active Long-Arc Projects
+
+- Current primary systems initiative is `jarvis-runtime-2026`: reshape the workspace into a cockpit-first founder OS with canonical control, personal, business, and project surfaces.
 
 ## Stack / Environment Truth
 
-- Preferred orchestration stack is OpenClaw + Telegram/Discord + ACP, with files as source of truth.
-- For Adam's compressed but high-intent project ideas, a spec-amplification step should happen before `/plan` or `/ironman`; workspace skill `skills/advanced-spec` now exists for that contract-building layer.
+- Preferred orchestration stack is OpenClaw + files + approved external tools, with `singularitas` as source of truth.
 - Google Workspace should be treated as one operating surface with two explicit accounts:
   - personal: `yksvadur.ja@gmail.com`
   - business: `adam@xvadur.com`
-- Google Workspace migration direction is to keep skill UX stable while moving the backend toward `gws`.
 - Personal and work Google auth must remain isolated:
   - `~/.config/gws`
   - `~/.config/gws-xvadur`
-- `gws` is already viable for Gmail, Calendar, and Drive, but not every Google API surface is enabled yet.
-
-## Historical Keepers
-
-- The retired external task-layer experiment has been removed from active runtime/workspace paths.
-- If `paperclip` appears in future grep results inside `openclaw-main`, generic attachment-icon literals are not automatically evidence of the retired system.
-- One active build direction has been to turn existing autodiely / pneuservis / support-heavy e-commerce artifacts into a repeatable OpenClaw-native outbound engine rather than inventing a new GTM system from scratch.
+- OpenClaw browser automation is working against a dedicated Chrome remote-debug session via explicit remote CDP profile.
+- Stable browser automation launcher: `/Users/_xvadur/singularitas/systems/local-scripts/openclaw-chrome-remote.sh`.
 
 ## Final Rule
 

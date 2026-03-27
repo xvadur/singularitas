@@ -1,0 +1,54 @@
+{
+  "defaultMode": "dry-run",
+  "mailboxes": {
+    "business": {
+      "name": "Business Inbox",
+      "account": "adam@xvadur.com",
+      "provider": {
+        "type": "gmail-gog"
+      },
+      "fetch": {
+        "query": "in:inbox -in:chats newer_than:7d",
+        "maxResults": 10
+      },
+      "labels": {
+        "processed": "triage/processed",
+        "needsReply": "triage/needs-reply",
+        "awaitingHuman": "triage/awaiting-human",
+        "categories": {
+          "lead": "triage/lead",
+          "provider": "triage/provider",
+          "finance": "triage/finance",
+          "legal": "triage/legal",
+          "newsletter": "triage/newsletter",
+          "ignore": "triage/ignore",
+          "other": "triage/other"
+        }
+      },
+      "classification": {
+        "categories": [
+          "lead",
+          "provider",
+          "finance",
+          "legal",
+          "newsletter",
+          "ignore",
+          "other"
+        ],
+        "draftReplyCategories": ["lead", "finance", "legal"],
+        "preferAi": true,
+        "fallback": "heuristic"
+      },
+      "drafting": {
+        "enabled": true,
+        "signature": "\n\n— Adam"
+      }
+    }
+  },
+  "ai": {
+    "provider": "openai-compatible",
+    "model": "gpt-4.1-mini",
+    "baseUrl": "https://api.openai.com/v1",
+    "apiKeyEnv": "OPENAI_API_KEY"
+  }
+}

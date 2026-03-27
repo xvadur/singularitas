@@ -9,8 +9,16 @@ This file is just the local cheat sheet.
 ## Path anchors
 
 - Main runtime workspace: `/Users/_xvadur/singularitas`
-- Obsidian knowledge/input layer: `/Users/_xvadur/singularitas_opus`
-- Business workspace: `/Users/_xvadur/firma`
+- Founder raw capture layer: `/Users/_xvadur/singularitas_opus`
+- Legacy business archive/import source: `/Users/_xvadur/firma`
+
+## Runtime anchors
+
+- Founder cockpit: `/Users/_xvadur/singularitas/control/cockpit`
+- Daily control surface: `/Users/_xvadur/singularitas/control/daily`
+- Canonical tasks: `/Users/_xvadur/singularitas/control/tasks`
+- Canonical roadmaps: `/Users/_xvadur/singularitas/control/roadmaps`
+- Canonical CRM: `/Users/_xvadur/singularitas/business/crm`
 
 ## Telegram + voice
 
@@ -32,11 +40,11 @@ This file is just the local cheat sheet.
 
 - Shared/global skills: npm-installed OpenClaw skill path
 - Workspace-specific skills: `/Users/_xvadur/singularitas/skills`
-- Retired wrapper skills were removed on `2026-03-14`; do not assume old aliases still exist
 
 ## Known gotchas
 
-- `singularitas` = runtime source of truth
-- `singularitas_opus` = shared writable knowledge/input layer, not runtime doctrine
-- `firma` = live business truth + output layer
+- `singularitas` is now the canonical operational truth
+- `singularitas_opus` is raw capture, journaling, and thinking, not runtime doctrine
+- `firma` is no longer canonical truth for Jarvis; use it only as legacy source or archive input
+- `agents/` is intentionally empty until a future isolated agent workspace is created
 - Do not let local notes here turn into policy, strategy, or memory
