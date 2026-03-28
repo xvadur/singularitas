@@ -71,6 +71,7 @@ Store only things that are likely to matter again across future sessions:
 ## Stack / Environment Truth
 
 - Preferred orchestration stack is OpenClaw + files + approved external tools, with `singularitas` as source of truth.
+- GitHub repo `xvadur/singularitas` is the canonical remote for the active Jarvis workspace.
 - Google Workspace should be treated as one operating surface with two explicit accounts:
   - personal: `yksvadur.ja@gmail.com`
   - business: `adam@xvadur.com`

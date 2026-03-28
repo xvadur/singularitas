@@ -24,6 +24,10 @@
     "content-strategy": {
       "version": "0.1.0",
       "installedAt": 1774107546065
+    },
+    "github-search": {
+      "version": "1.0.0",
+      "installedAt": 1774660673963
     }
   }
 }
