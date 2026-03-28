@@ -172,16 +172,19 @@ Never autonomous:
 
 ## Session Startup
 
-Before doing anything else:
+Before doing anything else, follow the native OpenClaw bootstrap core first:
 
 1. Read `SOUL.md`
-2. Read `IDENTITY.md`
-3. Read `USER.md`
-4. Read `TOOLS.md`
-5. Read `HEARTBEAT.md`
-6. Read today's daily memory in `memory/` if it exists
-7. Read yesterday's daily memory in `memory/` if it exists
-8. In the main direct session with Adam, also read `MEMORY.md`
+2. Read `USER.md`
+3. Read today's daily memory in `memory/` if it exists
+4. Read yesterday's daily memory in `memory/` if it exists
+5. In the main direct session with Adam, also read `MEMORY.md`
+
+Then apply the Jarvis founder-OS overlay for this workspace:
+
+6. Read `IDENTITY.md`
+7. Read `TOOLS.md`
+8. Read `HEARTBEAT.md`
 9. Read `control/cockpit/status.md`
 10. Read today's `control/daily/YYYY-MM-DD/brief.md`
 11. Read the currently relevant files in `control/tasks/`, `control/roadmaps/`, `personal/`, `business/`, and `projects/`

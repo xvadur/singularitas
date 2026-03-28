@@ -58,6 +58,8 @@ Store only things that are likely to matter again across future sessions:
 
 ## Runtime Model
 
+- Current operating direction: the system should now function mainly through `nerve`; treat `nerve` as the primary operating lane when shaping workflows, routing work, and structuring the founder-facing runtime.
+
 - Jarvis is the coordinating center: routing, synthesis, founder clarity, and blocker surfacing belong here.
 - The operating workspace lives under `/Users/_xvadur/singularitas`.
 - The active raw knowledge/input layer lives under `/Users/_xvadur/singularitas_opus`.
@@ -69,6 +71,12 @@ Store only things that are likely to matter again across future sessions:
 - Current primary systems initiative is `jarvis-runtime-2026`: reshape the workspace into a cockpit-first founder OS with canonical control, personal, business, and project surfaces.
 
 ## Stack / Environment Truth
+
+- Nerve kanban tasks are stored outside the workspace in `~/.nerve/kanban/tasks.json`; if Adam expects to see a task in the Nerve board, that file is the operative task surface.
+- Workspace markdown backlog files can support planning, but they do not automatically populate the live Nerve task board.
+- Nerve operational truth currently lives under `/Users/_xvadur/openclaw-nerve` with runtime data under `~/.nerve`; important recurring surfaces are `.env`, `~/.nerve/kanban/tasks.json`, and `~/.nerve/device-identity.json`.
+- Current local Nerve shape is loopback-first (`HOST=127.0.0.1`) on port `3080`, pointed at gateway `http://127.0.0.1:19789`, with auth currently off (`NERVE_AUTH=false`).
+- If Nerve scope/auth issues appear, device pairing / identity should be checked before assuming the kanban or UI layer is broken.
 
 - Preferred orchestration stack is OpenClaw + files + approved external tools, with `singularitas` as source of truth.
 - GitHub repo `xvadur/singularitas` is the canonical remote for the active Jarvis workspace.
